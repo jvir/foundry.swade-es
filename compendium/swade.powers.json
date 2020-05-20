@@ -1,0 +1,242 @@
+{
+	"label": "Powers",
+	"entries": [
+		{
+			"id": "Arcane Protection",
+			"name": "Protección arcana"
+		},
+		{
+			"id": "Armor",
+			"name": "Armadura"
+		},
+		{
+			"id": "Banish",
+			"name": "Destierro"
+		},
+		{
+			"id": "Barrier",
+			"name": "Barrera"
+		},
+		{
+			"id": "Beast Friend",
+			"name": "Amistad animal"
+		},
+		{
+			"id": "Blast",
+			"name": "Explosión"
+		},
+		{
+			"id": "Blind",
+			"name": "Ceguera"
+		},
+		{
+			"id": "Bolt",
+			"name": "Proyectil"
+		},
+		{
+			"id": "Boost/Lower Trait",
+			"name": "Mejora/reducción de rasgo"
+		},
+		{
+			"id": "Burrow",
+			"name": "Cavar"
+		},
+		{
+			"id": "Burst",
+			"name": "Chorro"
+		},
+		{
+			"id": "Confusion",
+			"name": "Confusión"
+		},
+		{
+			"id": "Damage Field",
+			"name": "Aura dañina"
+		},
+		{
+			"id": "Darksight",
+			"name": "Visión oscura"
+		},
+		{
+			"id": "Deflection",
+			"name": "Desvío"
+		},
+		{
+			"id": "Detect/Conceal Arcana",
+			"name": "Detección/Ocultamiento Arcano"
+		},
+		{
+			"id": "Disguise",
+			"name": "Disfraz"
+		},
+		{
+			"id": "Dispel",
+			"name": "Disipación"
+		},
+		{
+			"id": "Divination",
+			"name": "Adivinación"
+		},
+		{
+			"id": "Drain Power Points",
+			"name": "Drenaje de puntos de poder"
+		},
+		{
+			"id": "Elemental Manipulation",
+			"name": "Manipulación elemental"
+		},
+		{
+			"id": "Empathy",
+			"name": "Empatía"
+		},
+		{
+			"id": "Entangle",
+			"name": "Captura"
+		},
+		{
+			"id": "Environmental Protection",
+			"name": "Protección medioambiental"
+		},
+		{
+			"id": "Farsight",
+			"name": "Vista lejana"
+		},
+		{
+			"id": "Fear",
+			"name": "Miedo"
+		},
+		{
+			"id": "Fly",
+			"name": "Volar"
+		},
+		{
+			"id": "Growth/Shrink",
+			"name": "Gigantismo/enanismo"
+		},
+		{
+			"id": "Havoc",
+			"name": "Empujon"
+		},
+		{
+			"id": "Healing",
+			"name": "Curación"
+		},
+		{
+			"id": "Illusion",
+			"name": "Ilusión"
+		},
+		{
+			"id": "Intangibility",
+			"name": "Intangibilidad"
+		},
+		{
+			"id": "Invisibility",
+			"name": "Invisibilidad"
+		},
+		{
+			"id": "Light/Darkness",
+			"name": "Luz/oscuridad"
+		},
+		{
+			"id": "Mind Link",
+			"name": "Vínculo mental"
+		},
+		{
+			"id": "Mind Reading",
+			"name": "Lectura de mentes"
+		},
+		{
+			"id": "Mind Wipe",
+			"name": "Borrado de recuerdos"
+		},
+		{
+			"id": "Object Reading",
+			"name": "Lectura de objetos"
+		},
+		{
+			"id": "Protection",
+			"name": "Protección"
+		},
+		{
+			"id": "Pummel",
+			"name": "TODO: Pummel"
+		},
+		{
+			"id": "Puppet",
+			"name": "Marioneta"
+		},
+		{
+			"id": "Quickness",
+			"name": "TODO: Quickness"
+		},
+		{
+			"id": "Relief",
+			"name": "Alivio"
+		},
+		{
+			"id": "Resurrection",
+			"name": "Resurrección"
+		},
+		{
+			"id": "Shape Change",
+			"name": "Cambio de forma"
+		},
+		{
+			"id": "Sloth/Speed",
+			"name": "Sloth/Speed"
+		},
+		{
+			"id": "Slow/Speed",
+			"name": "Lentitud/Rapidez"
+		},
+		{
+			"id": "Slumber",
+			"name": "Sueño"
+		},
+		{
+			"id": "Smite",
+			"name": "Castigo"
+		},
+		{
+			"id": "Sound/Silence",
+			"name": "Silencio/sonido",
+			"description": ""
+		},
+		{
+			"id": "Speak Language",
+			"name": "Lenguas"
+		},
+		{
+			"id": "Stun",
+			"name": "Conmoción"
+		},
+		{
+			"id": "Succor",
+			"name": "TODO: Succor"
+		},
+		{
+			"id": "Summon Ally",
+			"name": "Invocación de aliados"
+		},
+		{
+			"id": "Telekinesis",
+			"name": "Telequinesis"
+		},
+		{
+			"id": "Teleport",
+			"name": "Teleportación"
+		},
+		{
+			"id": "Wall Walker",
+			"name": "Trepamuros"
+		},
+		{
+			"id": "Warrior's Gift",
+			"name": "Ventaja de combate"
+		},
+		{
+			"id": "Zombie",
+			"name": "Zombi"
+		}
+	]
+}

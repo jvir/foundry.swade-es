@@ -1,0 +1,229 @@
+{
+	"label": "Hindrances",
+	"entries": [
+		{
+			"id": "All Thumbs",
+			"name": "Manazas"
+		},
+		{
+			"id": "Anemic",
+			"name": "Anémico"
+		},
+		{
+			"id": "Arrogant",
+			"name": "Arrogante"
+		},
+		{
+			"id": "Bad Eyes",
+			"name": "Corto de vista"
+		},
+		{
+			"id": "Bad Luck",
+			"name": "Mala suerte"
+		},
+		{
+			"id": "Big Mouth",
+			"name": "Bocazas"
+		},
+		{
+			"id": "Blind",
+			"name": "Ciego"
+		},
+		{
+			"id": "Can't Swim",
+			"name": "Mal nadador"
+		},
+		{
+			"id": "Cautious",
+			"name": "Cauto"
+		},
+		{
+			"id": "Clueless",
+			"name": "Despistado"
+		},
+		{
+			"id": "Clumsy",
+			"name": "Patoso"
+		},
+		{
+			"id": "Code of Honor",
+			"name": "Codigo de honor"
+		},
+		{
+			"id": "Curious",
+			"name": "Curioso"
+		},
+		{
+			"id": "Death Wish",
+			"name": "Deseo mortal"
+		},
+		{
+			"id": "Delusional",
+			"name": "Delirio"
+		},
+		{
+			"id": "Doubting Thomas",
+			"name": "Escéptico"
+		},
+		{
+			"id": "Driven",
+			"name": "Obsesión"
+		},
+		{
+			"id": "Elderly",
+			"name": "Anciano"
+		},
+		{
+			"id": "Enemy",
+			"name": "Enemigo"
+		},
+		{
+			"id": "Greedy",
+			"name": "Avaricioso"
+		},
+		{
+			"id": "Habit",
+			"name": "Hábito"
+		},
+		{
+			"id": "Hard of Hearing",
+			"name": "Sordo"
+		},
+		{
+			"id": "Heroic",
+			"name": "Heroico"
+		},
+		{
+			"id": "Hesitant",
+			"name": "Dubitativo"
+		},
+		{
+			"id": "Illiterate",
+			"name": "Analfabeto"
+		},
+		{
+			"id": "Impulsive",
+			"name": "Impulsivo"
+		},
+		{
+			"id": "Jealous",
+			"name": "Envidioso"
+		},
+		{
+			"id": "Loyal",
+			"name": "Leal"
+		},
+		{
+			"id": "Mean",
+			"name": "Canalla"
+		},
+		{
+			"id": "Mild Mannered",
+			"name": "Apacible"
+		},
+		{
+			"id": "Mute",
+			"name": "Mudo"
+		},
+		{
+			"id": "Obese",
+			"name": "Obeso"
+		},
+		{
+			"id": "Obligation",
+			"name": "Obligaciones"
+		},
+		{
+			"id": "One Arm",
+			"name": "Manco"
+		},
+		{
+			"id": "One Eye",
+			"name": "Tuerto"
+		},
+		{
+			"id": "Outsider",
+			"name": "Marginado"
+		},
+		{
+			"id": "Overconfident",
+			"name": "Exceso de confianza"
+		},
+		{
+			"id": "Pacifist",
+			"name": "Pacifista"
+		},
+		{
+			"id": "Phobia",
+			"name": "Fobia"
+		},
+		{
+			"id": "Poverty",
+			"name": "Pobreza"
+		},
+		{
+			"id": "Quirk",
+			"name": "Manía"
+		},
+		{
+			"id": "Ruthless",
+			"name": "Despiadado"
+		},
+		{
+			"id": "Secret",
+			"name": "Secreto"
+		},
+		{
+			"id": "Shamed",
+			"name": "Avergonzado"
+		},
+		{
+			"id": "Slow",
+			"name": "Cojo"
+		},
+		{
+			"id": "Small",
+			"name": "Pequeño"
+		},
+		{
+			"id": "Stubborn",
+			"name": "Tozudo"
+		},
+		{
+			"id": "Suspicious",
+			"name": "Suspicaz"
+		},
+		{
+			"id": "Thin Skinned",
+			"name": "Sensible"
+		},
+		{
+			"id": "Tongue-Tied",
+			"name": "Apocado"
+		},
+		{
+			"id": "Ugly",
+			"name": "Feo"
+		},
+		{
+			"id": "Vengeful",
+			"name": "Vengativo"
+		},
+		{
+			"id": "Vow",
+			"name": "Juramento"
+		},
+		{
+			"id": "Wanted",
+			"name": "Buscado"
+		},
+		{
+			"id": "Yellow",
+			"name": "Cobarde"
+		},
+		{
+			"id": "Young",
+			"name": "Joven"
+		}
+	]
+}

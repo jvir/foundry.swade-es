@@ -1,0 +1,137 @@
+{
+	"label": "Skills",
+	"entries": [
+		{
+			"id": "Academics",
+			"name": "Humanidades"
+		},
+		{
+			"id": "Athletics",
+			"name": "Atletismo"
+		},
+		{
+			"id": "Battle",
+			"name": "Tácticas"
+		},
+		{
+			"id": "Boating",
+			"name": "Navegar"
+		},
+		{
+			"id": "Common Knowledge",
+			"name": "Conocimientos generales"
+		},
+		{
+			"id": "Driving",
+			"name": "Conducir"
+		},
+		{
+			"id": "Electronics",
+			"name": "Electrónica"
+		},
+		{
+			"id": "Faith",
+			"name": "Fe"
+		},
+		{
+			"id": "Fighting",
+			"name": "Pelear"
+		},
+		{
+			"id": "Focus",
+			"name": "Control"
+		},
+		{
+			"id": "Gambling",
+			"name": "Apostar"
+		},
+		{
+			"id": "Hacking",
+			"name": "Hacking"
+		},
+		{
+			"id": "Healing",
+			"name": "Medicina"
+		},
+		{
+			"id": "Intimidation",
+			"name": "Intimidar"
+		},
+		{
+			"id": "Language",
+			"name": "Lenguaje"
+		},
+		{
+			"id": "Notice",
+			"name": "Notar"
+		},
+		{
+			"id": "Occult",
+			"name": "Ocultismo"
+		},
+		{
+			"id": "Performance",
+			"name": "Interpretar"
+		},
+		{
+			"id": "Persuasion",
+			"name": "Persuadir"
+		},
+		{
+			"id": "Piloting",
+			"name": "Pilotar"
+		},
+		{
+			"id": "Psionics",
+			"name": "Psiónica"
+		},
+		{
+			"id": "Repair",
+			"name": "Reparar"
+		},
+		{
+			"id": "Research",
+			"name": "Investigar"
+		},
+		{
+			"id": "Riding",
+			"name": "Cabalgar"
+		},
+		{
+			"id": "Science",
+			"name": "Ciencias"
+		},
+		{
+			"id": "Shooting",
+			"name": "Disparar"
+		},
+		{
+			"id": "Spellcasting",
+			"name": "Hechicería"
+		},
+		{
+			"id": "Stealth",
+			"name": "Sigilo"
+		},
+		{
+			"id": "Survival",
+			"name": "Surpervivencia"
+		},
+		{
+			"id": "Taunt",
+			"name": "Provocar"
+		},
+		{
+			"id": "Thievery",
+			"name": "Latrocinio"
+		},
+		{
+			"id": "Untrained",
+			"name": "Sin habilidad"
+		},
+		{
+			"id": "Wierd Science",
+			"name": "Ciencia extraña"
+		}
+	]
+}
