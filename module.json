@@ -2,7 +2,7 @@
   "name": "swade-es",
   "title": "SWADE Spanish translation",
   "description": "Adds Spanish(Spain) to the SWADE system",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "minimumCoreVersion" : "0.5.7",
   "compatibleCoreVersion" : "0.5.7",
   "author": "jvir, alfarobl",

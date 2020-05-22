@@ -159,7 +159,7 @@
 		},
 		{
 			"id": "Pummel",
-			"name": "TODO: Pummel"
+			"name": "Caos"
 		},
 		{
 			"id": "Puppet",
@@ -167,7 +167,7 @@
 		},
 		{
 			"id": "Quickness",
-			"name": "TODO: Quickness"
+			"name": "Velocidad"
 		},
 		{
 			"id": "Relief",
@@ -183,11 +183,11 @@
 		},
 		{
 			"id": "Sloth/Speed",
-			"name": "Sloth/Speed"
+			"name": "Lentitud/Rapidez"
 		},
 		{
 			"id": "Slow/Speed",
-			"name": "Lentitud/Rapidez"
+			"name": "Frenar/Acelerar"
 		},
 		{
 			"id": "Slumber",
@@ -212,7 +212,7 @@
 		},
 		{
 			"id": "Succor",
-			"name": "TODO: Succor"
+			"name": "Recuperar"
 		},
 		{
 			"id": "Summon Ally",
