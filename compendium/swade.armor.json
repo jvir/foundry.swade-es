@@ -1,5 +1,5 @@
 {
-	"label": "Armduras",
+	"label": "Armaduras",
 	"entries": [
 		{
 			"id": "Battle Helment (head, full face)",
@@ -19,7 +19,7 @@
 		},
 		{
 			"id": "Bronze Barding (horse)",
-			"name": "Barda para caballos, bronce (horse)"
+			"name": "Barda para caballos, bronce (caballo)"
 		},
 		{
 			"id": "Bronze Corselet (torso)",
@@ -119,7 +119,7 @@
 		},
 		{
 			"id": "Plate Greaves (legs)",
-			"name": "Grebas, coraza (legs)"
+			"name": "Grebas, coraza (piernas)"
 		},
 		{
 			"id": "Plate Vambraces (arms)",
