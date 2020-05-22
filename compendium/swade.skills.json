@@ -1,137 +1,174 @@
 {
 	"label": "Skills",
+	"mapping": {
+        "description": "data.description"
+    },
+
 	"entries": [
 		{
 			"id": "Academics",
-			"name": "Humanidades"
-		},
+			"name": "Humanidades",
+			"description": "Página 44"
+        },
 		{
 			"id": "Athletics",
-			"name": "Atletismo"
+			"name": "Atletismo",
+			"description": "Página 42"
 		},
 		{
 			"id": "Battle",
-			"name": "Tácticas"
+			"name": "Tácticas",
+			"description": "Página 53"
 		},
 		{
 			"id": "Boating",
-			"name": "Navegar"
+			"name": "Navegar",
+			"description": "Página 48"
 		},
 		{
 			"id": "Common Knowledge",
-			"name": "Conocimientos generales"
+			"name": "Conocimientos generales",
+			"description": "Página 44"
 		},
 		{
 			"id": "Driving",
-			"name": "Conducir"
+			"name": "Conducir",
+			"description": "Página 44"
 		},
 		{
 			"id": "Electronics",
-			"name": "Electrónica"
+			"name": "Electrónica",
+			"description": "Página 44"
 		},
 		{
 			"id": "Faith",
-			"name": "Fe"
+			"name": "Fe",
+			"description": "Página 44"
 		},
 		{
 			"id": "Fighting",
-			"name": "Pelear"
+			"name": "Pelear",
+			"description": "Página 49"
 		},
 		{
 			"id": "Focus",
-			"name": "Control"
+			"name": "Control",
+			"description": "Página 44"
 		},
 		{
 			"id": "Gambling",
-			"name": "Apostar"
+			"name": "Apostar",
+			"description": "Página 42"
 		},
 		{
 			"id": "Hacking",
-			"name": "Ordenadores"
+			"name": "Ordenadores",
+			"description": "Página 49"
 		},
 		{
 			"id": "Healing",
-			"name": "Medicina"
+			"name": "Medicina",
+			"description": "Página 48"
 		},
 		{
 			"id": "Intimidation",
-			"name": "Intimidar"
+			"name": "Intimidar",
+			"description": "Página 46"
 		},
 		{
 			"id": "Language",
-			"name": "Idioma"
+			"name": "Idioma",
+			"description": "Página 45"
 		},
 		{
 			"id": "Notice",
-			"name": "Notar"
+			"name": "Notar",
+			"description": "Página 48"
 		},
 		{
 			"id": "Occult",
-			"name": "Ocultismo"
+			"name": "Ocultismo",
+			"description": "Página 48"
 		},
 		{
 			"id": "Performance",
-			"name": "Interpretar"
+			"name": "Interpretar",
+			"description": "Página 45"
 		},
 		{
 			"id": "Persuasion",
-			"name": "Persuadir"
+			"name": "Persuadir",
+			"description": "Página 49"
 		},
 		{
 			"id": "Piloting",
-			"name": "Pilotar"
+			"name": "Pilotar",
+			"description": "Página 50"
 		},
 		{
 			"id": "Psionics",
-			"name": "Psiónica"
+			"name": "Psiónica",
+			"description": "Página 51"
 		},
 		{
 			"id": "Repair",
-			"name": "Reparar"
+			"name": "Reparar",
+			"description": "Página 51"
 		},
 		{
 			"id": "Research",
-			"name": "Investigar"
+			"name": "Investigar",
+			"description": "Página 47"
 		},
 		{
 			"id": "Riding",
-			"name": "Cabalgar"
+			"name": "Cabalgar",
+			"description": "Página 42"
 		},
 		{
 			"id": "Science",
-			"name": "Ciencias"
+			"name": "Ciencias",
+			"description": "Página 44"
 		},
 		{
 			"id": "Shooting",
-			"name": "Disparar"
+			"name": "Disparar",
+			"description": "Página 44"
 		},
 		{
 			"id": "Spellcasting",
-			"name": "Hechicería"
+			"name": "Hechicería",
+			"description": "Página 44"
 		},
 		{
 			"id": "Stealth",
-			"name": "Sigilo"
+			"name": "Sigilo",
+			"description": "Página 51"
 		},
 		{
 			"id": "Survival",
-			"name": "Surpervivencia"
+			"name": "Surpervivencia",
+			"description": "Página 53"
 		},
 		{
 			"id": "Taunt",
-			"name": "Provocar"
+			"name": "Provocar",
+			"description": "Página 51"
 		},
 		{
 			"id": "Thievery",
-			"name": "Latrocinio"
+			"name": "Latrocinio",
+			"description": "Página 47"
 		},
 		{
 			"id": "Untrained",
-			"name": "Sin habilidad"
+			"name": "Sin habilidad",
+			"description": "Página 125"
 		},
 		{
 			"id": "Wierd Science",
-			"name": "Ciencia extraña"
+			"name": "Ciencia extraña",
+			"description": "Página 42"
 		}
 	]
 }

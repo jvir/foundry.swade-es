@@ -1,0 +1,37 @@
+{
+	"label": "Shields",
+	"entries": [
+		{
+			"id": "Ballistic Shield",
+			"name": "Escudo balístico"
+		},
+		{
+			"id": "Large Shield",
+			"name": "Escudo grande"
+		},
+		{
+			"id": "Medium Shield",
+			"name": "Escudo mediano"
+		},
+		{
+			"id": "Polymer Shield, Large",
+			"name": "Escudo de polímeros, grande"
+		},
+		{
+			"id": "Polymer Shield, Medium",
+			"name": "Escudo de polímeros, mediano"
+		},
+		{
+			"id": "Polymer Shield, Small",
+			"name": "Escudo de polímeros, pequeño"
+		},
+		{
+			"id": "Riot Shield",
+			"name": "Escudo antidisturbios"
+		},
+		{
+			"id": "Small Shield",
+			"name": "Escudo pequeño"
+		}
+	]
+}
