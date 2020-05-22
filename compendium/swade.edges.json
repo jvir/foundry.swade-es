@@ -199,8 +199,7 @@
 		},
 		{
 			"id": "Sound/Silence",
-			"name": "Silencio/sonido",
-			"description": ""
+			"name": "Silencio/sonido"
 		},
 		{
 			"id": "Speak Language",
