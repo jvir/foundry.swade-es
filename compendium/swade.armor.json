@@ -1,0 +1,141 @@
+{
+	"label": "Armduras",
+	"entries": [
+		{
+			"id": "Battle Helment (head, full face)",
+			"name": "Casco de combate (cabeza, cara)"
+		},
+		{
+			"id": "Bike Helmet (head)",
+			"name": "Casco de ciclista (cabeza)"
+		},
+		{
+			"id": "Body Armor (torso, arms, legs)",
+			"name": "Armadura corporal (torso, brazos, piernas)"
+		},
+		{
+			"id": "Bombproof Suit (entire body)",
+			"name": "Traje de artificiero (todo el cuerpo)"
+		},
+		{
+			"id": "Bronze Barding (horse)",
+			"name": "Barda para caballos, bronce (horse)"
+		},
+		{
+			"id": "Bronze Corselet (torso)",
+			"name": "Pectoral, bronce (torso)"
+		},
+		{
+			"id": "Bronze Greaves (legs)",
+			"name": "Grevas, bronce (piernas)"
+		},
+		{
+			"id": "Bronze Helment (head)",
+			"name": "Casco Corintio (cabeza)"
+		},
+		{
+			"id": "Bronze Vambraces (arms)",
+			"name": "Brazales, bronce (brazos)"
+		},
+		{
+			"id": "Chain Hood or Helm (head)",
+			"name": "Cofia o casco, malla (cabeza)"
+		},
+		{
+			"id": "Chain Mail Leggings (legs)",
+			"name": "Pantalones, malla (piernas)"
+		},
+		{
+			"id": "Chain Mail Shirt (torso, arms)",
+			"name": "Camisa, malla (torso, brazos)"
+		},
+		{
+			"id": "Cloth or Light Leather Jacket (torso, arms)",
+			"name": "Chaqueta, tela gruesa/cuero ligero (torso, brazos)"
+		},
+		{
+			"id": "Cloth/Light Leather Cap (head)",
+			"name": "Gorro, tela gruesa/cuero ligero (cabeza)"
+		},
+		{
+			"id": "Cloth/Light Leather Leggings (legs)",
+			"name": "Pantalones, tela gruesa/cuero ligero (piernas)"
+		},
+		{
+			"id": "Cloth/Light Leather Robes (torso, arms)",
+			"name": "Túnica, tela gruesa/cuero ligero (torso, brazos)"
+		},
+		{
+			"id": "Flack Jacket (Vietnam-era, torso)",
+			"name": "Chaleco antibalas, Vietnam (torso)"
+		},
+		{
+			"id": "Heavy Plate Helm (head)",
+			"name": "Yelmo abierto, coraza (cabeza)"
+		},
+		{
+			"id": "Heavy Plate Helm, Enclosed (head)",
+			"name": "Yelmo cerrado, coraza (cabeza)"
+		},
+		{
+			"id": "Infantry Battle Suit (torso, arms, legs)",
+			"name": "Traje de batalla para infanteria (torso, brazos, piernas)"
+		},
+		{
+			"id": "Kevlar Riding Jacket (torso, arms)",
+			"name": "Chaqueta de motero con Kevlar (torso, brazos)"
+		},
+		{
+			"id": "Kevlar Riding Jeans (legs)",
+			"name": "Pantalones de motero con Kevlar (piernas)"
+		},
+		{
+			"id": "Kevlar Vest (torso)",
+			"name": "Chaleco de Kevlar (torso)"
+		},
+		{
+			"id": "Kevlar Vest with ceramic inserts (torso)",
+			"name": "Chaleco de Kevlar con refuerzos (torso)"
+		},
+		{
+			"id": "Kevlar helmet (head)",
+			"name": "Casco de Kevlar (cabeza)"
+		},
+		{
+			"id": "Leather Riding Chaps (legs)",
+			"name": "Chaparrera, pantalones gruesos (piernas)"
+		},
+		{
+			"id": "Motorcycle Helmet (head)",
+			"name": "Casco de motorista (cabeza)"
+		},
+		{
+			"id": "Plate Barding (horse)",
+			"name": "Barda para caballos, malla (Caballo)"
+		},
+		{
+			"id": "Plate Corselet (torso)",
+			"name": "Pectoral, coraza (torso)"
+		},
+		{
+			"id": "Plate Greaves (legs)",
+			"name": "Grebas, coraza (legs)"
+		},
+		{
+			"id": "Plate Vambraces (arms)",
+			"name": "Brazales, coraza (brazos)"
+		},
+		{
+			"id": "Thick Leather/Tough Hides Cap (head)",
+			"name": "Gorro, piel gruesa/cuero cocido (cabeza)"
+		},
+		{
+			"id": "Thick Leather/Tough Hides Jacket (torso, arms)",
+			"name": "Chaqueta, piel gruesa/cuero cocido (torso, brazos)"
+		},
+		{
+			"id": "Thick Leather/Tough Hides Leggings (legs)",
+			"name": "Pantalones, piel gruesa/cuero cocido (piernas)"
+		}
+	]
+}
