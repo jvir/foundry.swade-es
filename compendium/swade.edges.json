@@ -1,241 +1,544 @@
 {
-	"label": "Powers",
+	"label": "Edges",
+	"mapping": {
+        "text": "data.description"
+    },
 	"entries": [
 		{
-			"id": "Arcane Protection",
-			"name": "Protección arcana"
+			"id": "Ace",
+			"name": "As"
 		},
 		{
-			"id": "Armor",
-			"name": "Armadura"
+			"id": "Acrobat",
+			"name": "Acrobata"
 		},
 		{
-			"id": "Banish",
-			"name": "Destierro"
+			"id": "Alertness",
+			"name": "Alerta"
 		},
 		{
-			"id": "Barrier",
-			"name": "Barrera"
+			"id": "Ambidextrous",
+			"name": "Ambidextro"
 		},
 		{
-			"id": "Beast Friend",
-			"name": "Amistad animal"
+			"id": "Arcane Background",
+			"name": "Trasfondo arcano"
 		},
 		{
-			"id": "Blast",
-			"name": "Explosión"
+			"id": "Arcane Resistance",
+			"name": "Resistencia arcana"
 		},
 		{
-			"id": "Blind",
-			"name": "Ceguera"
+			"id": "Aristocrat",
+			"name": "Alcurnia"
 		},
 		{
-			"id": "Bolt",
-			"name": "Proyectil"
+			"id": "Artificer",
+			"name": "Artífice"
 		},
 		{
-			"id": "Boost/Lower Trait",
-			"name": "Mejora/reducción de rasgo"
+			"id": "Assasin",
+			"name": "Asesino"
 		},
 		{
-			"id": "Burrow",
-			"name": "Cavar"
+			"id": "Attractive",
+			"name": "Atractivo"
 		},
 		{
-			"id": "Burst",
-			"name": "Chorro"
+			"id": "Beast Bond",
+			"name": "Vínculo animal"
 		},
 		{
-			"id": "Confusion",
-			"name": "Confusión"
+			"id": "Beast Master",
+			"name": "Señor de las bestias"
 		},
 		{
-			"id": "Damage Field",
-			"name": "Aura dañina"
+			"id": "Berserk",
+			"name": "Berserk"
 		},
 		{
-			"id": "Darksight",
-			"name": "Visión oscura"
+			"id": "Block",
+			"name": "Bloqueo"
 		},
 		{
-			"id": "Deflection",
-			"name": "Desvío"
+			"id": "Bolster",
+			"name": "Animar"
 		},
 		{
-			"id": "Detect/Conceal Arcana",
-			"name": "Detección/Ocultamiento Arcano"
+			"id": "Brave",
+			"name": "Osado"
 		},
 		{
-			"id": "Disguise",
-			"name": "Disfraz"
+			"id": "Brawler",
+			"name": "Matón"
 		},
 		{
-			"id": "Dispel",
-			"name": "Disipación"
+			"id": "Brawny",
+			"name": "Fornido"
 		},
 		{
-			"id": "Divination",
-			"name": "Adivinación"
+			"id": "Bruiser",
+			"name": "Gorila"
 		},
 		{
-			"id": "Drain Power Points",
-			"name": "Drenaje de puntos de poder"
+			"id": "Brute",
+			"name": "Bestia"
 		},
 		{
-			"id": "Elemental Manipulation",
-			"name": "Manipulación elemental"
+			"id": "Calculating",
+			"name": "Calculador"
 		},
 		{
-			"id": "Empathy",
-			"name": "Empatía"
+			"id": "Champion",
+			"name": "Campeón"
 		},
 		{
-			"id": "Entangle",
-			"name": "Captura"
+			"id": "Channeling",
+			"name": "Canalización"
 		},
 		{
-			"id": "Environmental Protection",
-			"name": "Protección medioambiental"
+			"id": "Charismatic",
+			"name": "Carismático"
 		},
 		{
-			"id": "Farsight",
-			"name": "Vista lejana"
+			"id": "Chi",
+			"name": "Chi"
 		},
 		{
-			"id": "Fear",
-			"name": "Miedo"
+			"id": "Combat Acrobat",
+			"name": "Acróbata Marcial"
 		},
 		{
-			"id": "Fly",
-			"name": "Volar"
+			"id": "Combat Reflexes",
+			"name": "Reflejos de combate"
 		},
 		{
-			"id": "Growth/Shrink",
-			"name": "Gigantismo/enanismo"
+			"id": "Command",
+			"name": "Mando"
 		},
 		{
-			"id": "Havoc",
-			"name": "Empujon"
+			"id": "Command Presence",
+			"name": "Presencia de mando"
 		},
 		{
-			"id": "Healing",
-			"name": "Curación"
+			"id": "Common Bond",
+			"name": "Vínculo"
 		},
 		{
-			"id": "Illusion",
-			"name": "Ilusión"
+			"id": "Concentration",
+			"name": "Concentración"
 		},
 		{
-			"id": "Intangibility",
-			"name": "Intangibilidad"
+			"id": "Connections",
+			"name": "Conexiones"
 		},
 		{
-			"id": "Invisibility",
-			"name": "Invisibilidad"
+			"id": "Counterattack",
+			"name": "Contraataque"
 		},
 		{
-			"id": "Light/Darkness",
-			"name": "Luz/oscuridad"
+			"id": "Danger Sense",
+			"name": "Sentir el peligro"
 		},
 		{
-			"id": "Mind Link",
-			"name": "Vínculo mental"
+			"id": "Dead Shot",
+			"name": "Disparo mortal"
 		},
 		{
-			"id": "Mind Reading",
-			"name": "Lectura de mentes"
+			"id": "Dodge",
+			"name": "Esquiva"
 		},
 		{
-			"id": "Mind Wipe",
-			"name": "Borrado de recuerdos"
+			"id": "Double Tap",
+			"name": "Disparo doble"
 		},
 		{
-			"id": "Object Reading",
-			"name": "Lectura de objetos"
+			"id": "Elan",
+			"name": "Ardor"
 		},
 		{
-			"id": "Protection",
-			"name": "Protección"
+			"id": "Expert",
+			"name": "Experto"
 		},
 		{
-			"id": "Pummel",
-			"name": "Caos"
+			"id": "Extra Effort",
+			"name": "Esfuerzo extra"
 		},
 		{
-			"id": "Puppet",
-			"name": "Marioneta"
+			"id": "Extraction",
+			"name": "Fuga"
 		},
 		{
-			"id": "Quickness",
-			"name": "Velocidad*"
+			"id": "Fame",
+			"name": "Famoso"
 		},
 		{
-			"id": "Relief",
-			"name": "Alivio"
+			"id": "Famous",
+			"name": "Muy famoso"
 		},
 		{
-			"id": "Resurrection",
-			"name": "Resurrección"
+			"id": "Fast Healer",
+			"name": "Curación rapida"
 		},
 		{
-			"id": "Shape Change",
-			"name": "Cambio de forma"
+			"id": "Feint",
+			"name": "Fina"
 		},
 		{
-			"id": "Sloth/Speed",
-			"name": "Lentitud/Rapidez"
+			"id": "Fervor",
+			"name": "Fervor"
 		},
 		{
-			"id": "Slow/Speed",
-			"name": "Lento/Rapido*"
+			"id": "Filthy Rich",
+			"name": "Asquerosamente Rico"
 		},
 		{
-			"id": "Slumber",
-			"name": "Sueño"
+			"id": "First Strike",
+			"name": "Ataque repentino"
 		},
 		{
-			"id": "Smite",
-			"name": "Castigo"
+			"id": "Fleet-Footed",
+			"name": "Pies ligeros"
 		},
 		{
-			"id": "Sound/Silence",
-			"name": "Silencio/sonido"
+			"id": "Followers",
+			"name": "Seguidores"
 		},
 		{
-			"id": "Speak Language",
-			"name": "Lenguas"
+			"id": "Free Runner",
+			"name": "Parkour"
 		},
 		{
-			"id": "Stun",
-			"name": "Conmoción"
+			"id": "Frenzy",
+			"name": "Frenesí"
 		},
 		{
-			"id": "Succor",
-			"name": "Socorrer*"
+			"id": "Gadgeteer",
+			"name": "Inventor"
 		},
 		{
-			"id": "Summon Ally",
-			"name": "Invocación de aliados"
+			"id": "Giant Killer",
+			"name": "Matagigantes"
 		},
 		{
-			"id": "Telekinesis",
-			"name": "Telequinesis"
+			"id": "Great Luck",
+			"name": "Muy afortunado"
 		},
 		{
-			"id": "Teleport",
-			"name": "Teleportación"
+			"id": "Hard To Kill",
+			"name": "Difícil de matar"
 		},
 		{
-			"id": "Wall Walker",
-			"name": "Trepamuros"
+			"id": "Harder To Kill",
+			"name": "Aún más difícil de matar"
 		},
 		{
-			"id": "Warrior's Gift",
-			"name": "Ventaja de combate"
+			"id": "Healer",
+			"name": "Curandero"
 		},
 		{
-			"id": "Zombie",
-			"name": "Zombi"
+			"id": "Hold The Line!",
+			"name": "¡Mantener la formación!"
+		},
+		{
+			"id": "Holy/Unholy Warrior",
+			"name": "Guerrero sagrado/impío"
+		},
+		{
+			"id": "Humiliate",
+			"name": "Humillar"
+		},
+		{
+			"id": "Improved Arcane Resistance",
+			"name": "Resistencia arcana mejorada"
+		},
+		{
+			"id": "Improved Block",
+			"name": "Bloqueo mejorado"
+		},
+		{
+			"id": "Improved Counterattack",
+			"name": "Contraataque mejorado"
+		},
+		{
+			"id": "Improved Dodge",
+			"name": "Esquiva mejorada"
+		},
+		{
+			"id": "Improved Extraction",
+			"name": "Fuga mejorada"
+		},
+		{
+			"id": "Improved First Strike",
+			"name": "Ataque repentino mejorado"
+		},
+		{
+			"id": "Improved Frenzy",
+			"name": "Frenesí mejorado"
+		},
+		{
+			"id": "Improved Nerves of Steel",
+			"name": "Nervios de acero mejorados"
+		},
+		{
+			"id": "Improved Rapid Fire",
+			"name": "Disparo rápido mejorado"
+		},
+		{
+			"id": "Improved Rapid Recharge",
+			"name": "Recuperación rápida mejorada"
+		},
+		{
+			"id": "Improved Sweep",
+			"name": "Barrido mejorado"
+		},
+		{
+			"id": "Improved Trademark Weapon",
+			"name": "Arma distintiva mejorada"
+		},
+		{
+			"id": "Improvisational Fighter",
+			"name": "Improvisación"
+		},
+		{
+			"id": "Imrpoved Level Headed",
+			"name": "Temple mejorado"
+		},
+		{
+			"id": "Inspire",
+			"name": "Inspiración"
+		},
+		{
+			"id": "Investigator",
+			"name": "Investigador"
+		},
+		{
+			"id": "Iron Jaw",
+			"name": "Mandibula de hierro"
+		},
+		{
+			"id": "Iron Will",
+			"name": "Voluntad de hierro"
+		},
+		{
+			"id": "Jack-of-all-Trades",
+			"name": "Hombre de recursos"
+		},
+		{
+			"id": "Killer Instinct",
+			"name": "Instinto asesino"
+		},
+		{
+			"id": "Level Headed",
+			"name": "Temple"
+		},
+		{
+			"id": "Linguist",
+			"name": "Lingüista"
+		},
+		{
+			"id": "Liquid Courage",
+			"name": "Coraje líquido"
+		},
+		{
+			"id": "Luck",
+			"name": "Afortunado"
+		},
+		{
+			"id": "Marksman",
+			"name": "Puntería"
+		},
+		{
+			"id": "Martial Artist",
+			"name": "Artista marcial"
+		},
+		{
+			"id": "Martial Warrior",
+			"name": "Artista marcial mejorado"
+		},
+		{
+			"id": "Master",
+			"name": "Maestro"
+		},
+		{
+			"id": "Master Tactician",
+			"name": "Táctico, genio"
+		},
+		{
+			"id": "Master of Arms",
+			"name": "Maestro de armas mejorado"
+		},
+		{
+			"id": "McGyver",
+			"name": "McGyver"
+		},
+		{
+			"id": "Menacing",
+			"name": "Amenazador"
+		},
+		{
+			"id": "Mentalist",
+			"name": "Mentalista"
+		},
+		{
+			"id": "Mighty Blow",
+			"name": "Golpe poderoso"
+		},
+		{
+			"id": "Mr. Fix It",
+			"name": "Mr. Arreglalotodo"
+		},
+		{
+			"id": "Natural Leader",
+			"name": "Líder nato"
+		},
+		{
+			"id": "Nerves of Steel",
+			"name": "Nervios de acero"
+		},
+		{
+			"id": "New Powers",
+			"name": "Nuevos Poderes"
+		},
+		{
+			"id": "No Mercy",
+			"name": "Sin piedad"
+		},
+		{
+			"id": "Power Points",
+			"name": "Puntos de poder"
+		},
+		{
+			"id": "Power Surge",
+			"name": "Súbidon de poder"
+		},
+		{
+			"id": "Professional",
+			"name": "Profesional"
+		},
+		{
+			"id": "Provoke",
+			"name": "Ofuscar"
+		},
+		{
+			"id": "Quick",
+			"name": "Rápido"
+		},
+		{
+			"id": "Rabble-Rouser",
+			"name": "Demagogo"
+		},
+		{
+			"id": "Rapid Fire",
+			"name": "Disparo rápido"
+		},
+		{
+			"id": "Rapid Recharge",
+			"name": "Recuperación rápida"
+		},
+		{
+			"id": "Reliable",
+			"name": "Responsable"
+		},
+		{
+			"id": "Retort",
+			"name": "Replicar"
+		},
+		{
+			"id": "Rich",
+			"name": "Rico"
+		},
+		{
+			"id": "Rock and Roll!",
+			"name": "¡Rock'n'Roll!"
+		},
+		{
+			"id": "Scavenger",
+			"name": "Acaparador"
+		},
+		{
+			"id": "Scholar",
+			"name": "Erudito"
+		},
+		{
+			"id": "Sidekick",
+			"name": "Ayudante"
+		},
+		{
+			"id": "Soldier",
+			"name": "Soldado"
+		},
+		{
+			"id": "Soul Drain",
+			"name": "Drenar el alma"
+		},
+		{
+			"id": "Steady Hands",
+			"name": "Manos firmes"
+		},
+		{
+			"id": "Streetwise",
+			"name": "Callejear"
+		},
+		{
+			"id": "Strong Willed",
+			"name": "Fuerza de voluntad"
+		},
+		{
+			"id": "Sweep",
+			"name": "Barrido"
+		},
+		{
+			"id": "Tactician",
+			"name": "Táctico"
+		},
+		{
+			"id": "Thief",
+			"name": "Ladrón"
+		},
+		{
+			"id": "Tough As Nails",
+			"name": "Hueso duro de roer"
+		},
+		{
+			"id": "Tougher Than Nails",
+			"name": "Hueso muy duro de roer"
+		},
+		{
+			"id": "Trademark Weapon",
+			"name": "Arma distintiva"
+		},
+		{
+			"id": "Two-Fisted",
+			"name": "Con un par"
+		},
+		{
+			"id": "Two-Gun Kid",
+			"name": "Kid dos pistolas"
+		},
+		{
+			"id": "Very Attractive",
+			"name": "Muy Atractivo"
+		},
+		{
+			"id": "Weapon Master",
+			"name": "Maestro de armas"
+		},
+		{
+			"id": "Wizard",
+			"name": "Mago"
+		},
+		{
+			"id": "Woodsman",
+			"name": "Leñador"
+		},
+		{
+			"id": "Work The Crowd",
+			"name": "Voz muy potente"
+		},
+		{
+			"id": "Work The Room",
+			"name": "Voz potente"
 		}
 	]
 }
