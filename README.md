@@ -9,6 +9,8 @@ Spanish language for the Savage Worlds Adventure Edition system on Foundry VTT.
 - Basic Powers compendium translation.
 - Basic Shields compendium translation.
 - Basic Armor compendium translation.
+- Basic Weapon compendium translation.
+- Basic Gear compendium translation.
 
 ## WIP:
 - More Compendiums, more data in compediums.
