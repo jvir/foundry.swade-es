@@ -1,0 +1,301 @@
+{
+	"label": "Equipo",
+	"entries": [
+		{
+			"id": "Arrow/Quarrel",
+			"name": "Flecha/virote"
+		},
+		{
+			"id": "Backpack",
+			"name": "Mochila"
+		},
+		{
+			"id": "Bedroll (sleeping bag; winterized)",
+			"name": "Petate (saco de dormir; invierno)"
+		},
+		{
+			"id": "Bipod/Tripod",
+			"name": "Bípode/Trípode"
+		},
+		{
+			"id": "Blanket",
+			"name": "Manta"
+		},
+		{
+			"id": "Boots, Hiking",
+			"name": "Botas, senderismo"
+		},
+		{
+			"id": "Bug (Micro Transmitter)",
+			"name": "Micrófono transmisor ('Bicho', 12 horas de uso)"
+		},
+		{
+			"id": "Bullet, Large",
+			"name": "Balas, grande"
+		},
+		{
+			"id": "Bullet, Medium",
+			"name": "Balas, mediano"
+		},
+		{
+			"id": "Bullet, Small",
+			"name": "Balas, pequeño"
+		},
+		{
+			"id": "Button Camera",
+			"name": "Cámara de botón (espía, 12 horas de uso)"
+		},
+		{
+			"id": "Camera (disposable)",
+			"name": "Cámara (desechable)"
+		},
+		{
+			"id": "Camera (regular)",
+			"name": "Cámara (estandar)"
+		},
+		{
+			"id": "Cameras (digital)",
+			"name": "Cámara (digital)"
+		},
+		{
+			"id": "Camouflage Fatigues",
+			"name": "Camuflaje militar"
+		},
+		{
+			"id": "Candle (one hour, 2” radius)",
+			"name": "Vela (1 hora, 2 pasos de radio)"
+		},
+		{
+			"id": "Canteen (waterskin)",
+			"name": "Cantimplora (pellejo de agua)"
+		},
+		{
+			"id": "Cellular Interceptor",
+			"name": "Interceptor de telefonía móvil"
+		},
+		{
+			"id": "Cellular Phone",
+			"name": "Télefono móvil"
+		},
+		{
+			"id": "Clothing, Casual",
+			"name": "Muda, casual"
+		},
+		{
+			"id": "Clothing, Formal",
+			"name": "Muda, formal"
+		},
+		{
+			"id": "Crowbar",
+			"name": "Palanqueta"
+		},
+		{
+			"id": "Desktop Computer",
+			"name": "Ordenador de sobremesa"
+		},
+		{
+			"id": "Elaborate Saddle",
+			"name": "Silla de montar (recargada)"
+		},
+		{
+			"id": "Fast Food Meal",
+			"name": "Comida rápida"
+		},
+		{
+			"id": "First Aid Kit (basic supplies)",
+			"name": "Kit básico de primeros auxilios (3 usos)"
+		},
+		{
+			"id": "Flashlight (10” beam)",
+			"name": "Linterna (Rayo de 4 pasos)"
+		},
+		{
+			"id": "Flask (ceramic)",
+			"name": "Petaca (cerámica)"
+		},
+		{
+			"id": "Flint and Steel",
+			"name": "Pedernal y acero"
+		},
+		{
+			"id": "GPS",
+			"name": "GPS"
+		},
+		{
+			"id": "Gatling Laser Power Pack",
+			"name": "Bateria para laser Gatling"
+		},
+		{
+			"id": "Goggles",
+			"name": "Gafas"
+		},
+		{
+			"id": "Good Meal (restaurant)",
+			"name": "Buena comida (restaurante)"
+		},
+		{
+			"id": "Hammer",
+			"name": "Martillo para clavos"
+		},
+		{
+			"id": "Hand held computer",
+			"name": "Tableta"
+		},
+		{
+			"id": "Handcuffs (manacles)",
+			"name": "Esposas (o grilletes)"
+		},
+		{
+			"id": "Horse",
+			"name": "Caballo"
+		},
+		{
+			"id": "Lantern (four hours, 4” radius)",
+			"name": "Lampara (4 horas, 4 pasos de radio)"
+		},
+		{
+			"id": "Laptop computer",
+			"name": "Ordenador portátil"
+		},
+		{
+			"id": "Laser Pistol Battery",
+			"name": "Batería para pistola laser"
+		},
+		{
+			"id": "Laser Rifle or SMG Battery",
+			"name": "Batería àra rifle laser"
+		},
+		{
+			"id": "Laser Sight",
+			"name": "Mira/puntero laser"
+		},
+		{
+			"id": "Lighter",
+			"name": "Encendedor"
+		},
+		{
+			"id": "Lineman's Telephone",
+			"name": "Interceptor de telefonía cableado*"
+		},
+		{
+			"id": "Lockpicks",
+			"name": "Ganzúas"
+		},
+		{
+			"id": "MRE (Meal Ready to Eat)",
+			"name": "MRE (raciones militares listas para comer)"
+		},
+		{
+			"id": "Medic Kit",
+			"name": "Kit médico (5 usos)"
+		},
+		{
+			"id": "Night Vision Goggles",
+			"name": "Gafas de visión nocturna"
+		},
+		{
+			"id": "Oil (for lantern; one pint)",
+			"name": "Aceite (para lámpara, medio litro)"
+		},
+		{
+			"id": "Parabolic Microphone",
+			"name": "Micrófono Parabólico"
+		},
+		{
+			"id": "Pepper Spray",
+			"name": "Espray de pimienta"
+		},
+		{
+			"id": "Quiver (holds 20 arrows/ bolts)",
+			"name": "Carcaj (20 flechas/virotes)"
+		},
+		{
+			"id": "Rifle Scope",
+			"name": "Mira telescópica para rifle"
+		},
+		{
+			"id": "Rope, hemp (10”/20 yards)",
+			"name": "Cuerda, cañamo (10 pasos/20 metros)"
+		},
+		{
+			"id": "Rope, nylon (10”/20 yards)",
+			"name": "Cuerda, naylon (10 pasos/20 metros)"
+		},
+		{
+			"id": "Saddle",
+			"name": "Silla de montar"
+		},
+		{
+			"id": "Shot (w/ powder)",
+			"name": "Polvora y balín (10)"
+		},
+		{
+			"id": "Shotgun shell",
+			"name": "Cartuchos de escopeta"
+		},
+		{
+			"id": "Shotgun slug",
+			"name": "Bala de escopeta"
+		},
+		{
+			"id": "Shovel",
+			"name": "Pala"
+		},
+		{
+			"id": "Sling stone",
+			"name": "Proyectiles honda (20)"
+		},
+		{
+			"id": "Soap",
+			"name": "Jabón"
+		},
+		{
+			"id": "Stun Gun",
+			"name": "Táser"
+		},
+		{
+			"id": "Telephone Tap",
+			"name": "Micro para colocar en unteléfono fijo"
+		},
+		{
+			"id": "Tool Kit",
+			"name": "Maletín de herramientas"
+		},
+		{
+			"id": "Torch (one hour, 4” radius)",
+			"name": "Antorcha (1 hora, 4 pasos de radio)"
+		},
+		{
+			"id": "Trail Rations",
+			"name": "Raciones de viaje (5 comidas)"
+		},
+		{
+			"id": "Transmitter Detector",
+			"name": "Detector de transmisiones"
+		},
+		{
+			"id": "Umbrella",
+			"name": "Paraguas o sombrilla"
+		},
+		{
+			"id": "War Horse",
+			"name": "Caballo de guerra"
+		},
+		{
+			"id": "Whetstone",
+			"name": "Piedra de afilar"
+		},
+		{
+			"id": "Whistle",
+			"name": "Silbato"
+		},
+		{
+			"id": "Winter Boots",
+			"name": "Botas de invierno"
+		},
+		{
+			"id": "Winter Gear (cloak/parka)",
+			"name": "Muda de invierno (capa gruesa/parka)"
+		}
+	]
+}

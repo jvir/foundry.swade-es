@@ -1,0 +1,325 @@
+{
+	"label": "Armas",
+	"entries": [
+		{
+			"id": "AK47 (7.62mm)",
+			"name": "AK47 (7.62mm)"
+		},
+		{
+			"id": "Axe, Battle",
+			"name": "Hacha, batalla"
+		},
+		{
+			"id": "Axe, Great",
+			"name": "Hacha, gran"
+		},
+		{
+			"id": "Axe, Hand",
+			"name": "Hacha, mano"
+		},
+		{
+			"id": "Axe, Throwing",
+			"name": "Hacha, arrojadiza"
+		},
+		{
+			"id": "Bangstick",
+			"name": "Palo explosivo"
+		},
+		{
+			"id": "Barrett (.50)",
+			"name": "Barrett (.50)"
+		},
+		{
+			"id": "Bayonet",
+			"name": "Bayoneta"
+		},
+		{
+			"id": "Billy Club/Baton",
+			"name": "Bastón/porra"
+		},
+		{
+			"id": "Blunderbuss",
+			"name": "Trabuco"
+		},
+		{
+			"id": "Bow",
+			"name": "Arco"
+		},
+		{
+			"id": "Brass Knuckles",
+			"name": "Puño americano"
+		},
+		{
+			"id": "Brown Bess, etc",
+			"name": "Mosquete Brown Bess (o similar)"
+		},
+		{
+			"id": "Browning Automatic Rifle (BAR)(.30-6)",
+			"name": "Rifle automatico Browning (BAR)(.30-6)"
+		},
+		{
+			"id": "Chainsaw",
+			"name": "Motosierra"
+		},
+		{
+			"id": "Club, Heavy",
+			"name": "Porra, Pesada"
+		},
+		{
+			"id": "Club, Light",
+			"name": "Porra, Ligera"
+		},
+		{
+			"id": "Colt 1911 (.45)",
+			"name": "Colt 1911 (.45)"
+		},
+		{
+			"id": "Colt Peacemaker (.45)",
+			"name": "Colt Peacemaker (.45)"
+		},
+		{
+			"id": "Compound Bow (Modern)",
+			"name": "Arco compuesto (comtemporaneo)"
+		},
+		{
+			"id": "Crossbow (Hand Drawn)",
+			"name": "Ballesta (ligera)"
+		},
+		{
+			"id": "Crossbow (Heavy)",
+			"name": "Ballesta (pesada)"
+		},
+		{
+			"id": "Crossbow (Modern)",
+			"name": "Ballesta de poleas"
+		},
+		{
+			"id": "Dagger/Knife",
+			"name": "Cuchillo/daga"
+		},
+		{
+			"id": "Derringer (.41)",
+			"name": "Derringer (.41)"
+		},
+		{
+			"id": "Desert Egle (.50)",
+			"name": "Desert Eagle (.50)"
+		},
+		{
+			"id": "Double-Barrel",
+			"name": "Dos cañones"
+		},
+		{
+			"id": "Flail",
+			"name": "Mangual"
+		},
+		{
+			"id": "Flintlock Pistol",
+			"name": "Pistola de chispa"
+		},
+		{
+			"id": "Gatling (.45)",
+			"name": "Gatling (.45)"
+		},
+		{
+			"id": "Gatling Laser",
+			"name": "Láser de pulsos (Gatling)"
+		},
+		{
+			"id": "Glock (9mm)",
+			"name": "Glock (9mm)"
+		},
+		{
+			"id": "H&K MP5 (9mm)",
+			"name": "H&K MP5 (9mm)"
+		},
+		{
+			"id": "Halberd",
+			"name": "Alabarda"
+		},
+		{
+			"id": "Hunting Rifle (.308)",
+			"name": "Rifle Hunting (.308)"
+		},
+		{
+			"id": "Katana",
+			"name": "Katana"
+		},
+		{
+			"id": "Kentucky Rifle",
+			"name": "Rifle Kentucky"
+		},
+		{
+			"id": "Lance",
+			"name": "Lanza"
+		},
+		{
+			"id": "Laser Pistol",
+			"name": "Pistola Laser"
+		},
+		{
+			"id": "Laser Rifle",
+			"name": "Laser Rifle"
+		},
+		{
+			"id": "Laser SMG",
+			"name": "Laser SMG*"
+		},
+		{
+			"id": "Laser Sword",
+			"name": "Sable láser"
+		},
+		{
+			"id": "Long Bow",
+			"name": "Arco largo"
+		},
+		{
+			"id": "M-16 (5.56mm)",
+			"name": "M-16 (5.56mm)"
+		},
+		{
+			"id": "M1 Garand (.30-06)",
+			"name": "M1 Garand (.30-06)"
+		},
+		{
+			"id": "M2 Browning (.50 Cal)",
+			"name": "M2 Browning (.50 Cal)"
+		},
+		{
+			"id": "M60 (7.62mm)",
+			"name": "M60 (7.62mm)"
+		},
+		{
+			"id": "MG42 (7.62mm)",
+			"name": "MG42 (7.62mm)"
+		},
+		{
+			"id": "Mace",
+			"name": "Maza"
+		},
+		{
+			"id": "Maul",
+			"name": "Martillo de guerra"
+		},
+		{
+			"id": "Minigun (7.62mm)",
+			"name": "Minigun (7.62mm)"
+		},
+		{
+			"id": "Molecular Knife",
+			"name": "Daga molecular"
+		},
+		{
+			"id": "Molecular Sword",
+			"name": "Espada molecular"
+		},
+		{
+			"id": "Net (weighted)",
+			"name": "Red de guerra (contrapesada)"
+		},
+		{
+			"id": "Pike",
+			"name": "Pica"
+		},
+		{
+			"id": "Police Revolver (.38)",
+			"name": "Revolver policial (.38)"
+		},
+		{
+			"id": "Pump Action",
+			"name": "Escopeta repetidora"
+		},
+		{
+			"id": "Rapier",
+			"name": "Estoque"
+		},
+		{
+			"id": "Ruger (.22)",
+			"name": "Ruger (.22)"
+		},
+		{
+			"id": "SAW (5.56mm)",
+			"name": "SAW (5.56mm)"
+		},
+		{
+			"id": "Sawed-Off DB",
+			"name": "Recortada"
+		},
+		{
+			"id": "Sharps Big 50 (.50)",
+			"name": "Sharps Big 50 (.50)"
+		},
+		{
+			"id": "Sling (Athletics (throwing))",
+			"name": "Honda (Atletismo (lanzar))"
+		},
+		{
+			"id": "Smith & Wesson (.357)",
+			"name": "Smith & Wesson (.357)"
+		},
+		{
+			"id": "Spear",
+			"name": "Lanza"
+		},
+		{
+			"id": "Spencer Carbine (.52)",
+			"name": "Carabina Spencer (.52)"
+		},
+		{
+			"id": "Springfield Rifle Model 1861",
+			"name": "Rifle Springfield model0 1861"
+		},
+		{
+			"id": "Staff",
+			"name": "Vara"
+		},
+		{
+			"id": "Steyr AUG (5.56mm)",
+			"name": "Steyr AUG (5.56mm)"
+		},
+		{
+			"id": "Streetsweeper",
+			"name": "Streetsweeper"
+		},
+		{
+			"id": "Switchblade",
+			"name": "Navaja"
+		},
+		{
+			"id": "Sword, Great",
+			"name": "Espadón"
+		},
+		{
+			"id": "Sword, Long",
+			"name": "Espada, larga"
+		},
+		{
+			"id": "Sword, Short",
+			"name": "Espada, corta"
+		},
+		{
+			"id": "Throwing Dagger/Knife",
+			"name": "Cuchillo/daga arrojadizo"
+		},
+		{
+			"id": "Throwing Spear/Javelin",
+			"name": "Javalina/lanza arrojadiza"
+		},
+		{
+			"id": "Tommy Gun (.45)",
+			"name": "Tommy Gun (.45)"
+		},
+		{
+			"id": "Uzi (9mm)",
+			"name": "Uzi (9mm)"
+		},
+		{
+			"id": "Warhammer",
+			"name": "Warhammer"
+		},
+		{
+			"id": "Winchester '73 (.44-40)",
+			"name": "Winchester '73 (.44-40)"
+		}
+	]
+}
