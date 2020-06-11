@@ -1,9 +1,9 @@
 {
 	"label": "Habilidades",
 	"mapping": {
-        "description": "data.description"
+        "description": "data.description",
+        "notes": "data.notes"
     },
-
 	"entries": [
 		{
 			"id": "Academics",

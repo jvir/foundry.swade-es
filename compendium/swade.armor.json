@@ -1,5 +1,9 @@
 {
 	"label": "Armaduras",
+	"mapping": {
+        "description": "data.description",
+		"notes": "data.notes"
+    },
 	"entries": [
 		{
 			"id": "Battle Helment (head, full face)",

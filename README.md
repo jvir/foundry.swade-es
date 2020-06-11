@@ -11,10 +11,9 @@ Spanish language for the Savage Worlds Adventure Edition system on Foundry VTT.
 - Basic Armor compendium translation.
 - Basic Weapon compendium translation.
 - Basic Gear compendium translation.
+- Full action cards compemdium translation.
 
 ## WIP:
 - More Compendiums, more data in compediums.
 
-## Next
 
-- ¿Add Dinamiceffects to Edges, Hindrances, etc?
