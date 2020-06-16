@@ -1,6 +1,21 @@
+Hooks.once('init', () => {
+    game.settings.register('swade-es', 'pdfDirectory', {
+        name: 'Ubicación de los libros en PDF',
+        hint: 'Indica la carpeta donde estan los libros en pdf',
+        type: window.Azzu.SettingsTypes.DirectoryPicker,
+        default: ' ',
+        scope: 'world',
+        config: true,
+        onChange: directory => {
+            window.location.reload();
+        }
+    });
+});
+
 Hooks.on("renderItemSheet", (app, html, options) => {
             html.find('.swade-book').click((ev) => {
-                
+                    let element = ev.currentTarget;
+//                     console.log (element.dataset);
                     let buttons = {
                         close: {
                             icon: '<i class="fas fa-times"></i>',
@@ -8,13 +23,20 @@ Hooks.on("renderItemSheet", (app, html, options) => {
                         },
                     };
                     let dialogOptions = {
-                        width: 620,
+                        width: 630,
                         height: 500,
                     };
+                    
+                    let dialogContent = "";
+                    
+                    for(var i=element.dataset.pageStart; i<= element.dataset.pageEnd; i++) {
+                        dialogContent += `<canvas class="swade-pdf-canvas" data-book="${element.dataset.book}" data-page="${i}"></canvas>`;
+                    }
+                    
                     return new Promise(resolve => {
                         new Dialog({
                             title: 'pdf',
-                            content: '<canvas id="swade-pdf-canvas"></canvas>',
+                            content: dialogContent,
                             buttons: buttons,
                             default: 'close',
                             close: () => {
@@ -31,15 +53,9 @@ Hooks.on("renderItemSheet", (app, html, options) => {
 
 
 Hooks.on("renderDialog", (app, html, options) => {
-//     alert('renderCanvas');
-//     console.log(app);
-//     console.log(html);
-//     console.log(options);
-            html.find('#swade-pdf-canvas').click((ev) => {
-                
-//                     alert('canvas');
-                    ShowPdfPage('swade', 44);
-                    
+            html.find('.swade-pdf-canvas').each((index, element) => {
+                    console.log(element.dataset);
+                    ShowPdfPage(element, element.dataset.book, Number(element.dataset.page));                    
             });
 });
 
@@ -48,29 +64,26 @@ Hooks.on("renderDialog", (app, html, options) => {
 
 
 
-function ShowPdfPage(pdfFile, page) {
+function ShowPdfPage(element, pdfFile, page) {
    
-    
-    var loadingTask = pdfjsLib.getDocument('/modules/swade-es/pdf/swade.pdf');
-//         alert(pdfFile);
-        console.log(loadingTask);
+    console.log(`/modules/swade-es/pdf/${pdfFile}.pdf`);
+    var loadingTask = pdfjsLib.getDocument(`/${game.settings.get('swade-es', 'pdfDirectory')}/${pdfFile}.pdf`);
 
     loadingTask.promise.then(function(pdf) {
-//         alert('intoLoading');
-        pdf.getPage(44).then(function(page) {
-            var scale = 1.5;
-            var viewport = page.getViewport({ scale: scale, });
-// alert('kkk');
-            var canvas = document.getElementById('swade-pdf-canvas');
-            var context = canvas.getContext('2d');
-            canvas.height = viewport.height;
-            canvas.width = viewport.width;
+            pdf.getPage(page).then(function(page) {
+                var scale = 1.5;
+                var viewport = page.getViewport({ scale: scale, });
+                var canvas = element;//document.getElementById('swade-pdf-canvas');
+                var context = canvas.getContext('2d');
+                canvas.height = viewport.height;
+                canvas.width = viewport.width;
 
-            var renderContext = {
-            canvasContext: context,
-            viewport: viewport
-            };
-            page.render(renderContext);
-        });
+                var renderContext = {
+                canvasContext: context,
+                viewport: viewport
+                };
+                page.render(renderContext);
+            });
+            
     });
 }
