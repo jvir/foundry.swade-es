@@ -66,7 +66,6 @@ Hooks.on("renderDialog", (app, html, options) => {
 
 function ShowPdfPage(element, pdfFile, page) {
    
-    console.log(`/modules/swade-es/pdf/${pdfFile}.pdf`);
     var loadingTask = pdfjsLib.getDocument(`/${game.settings.get('swade-es', 'pdfDirectory')}/${pdfFile}.pdf`);
 
     loadingTask.promise.then(function(pdf) {
