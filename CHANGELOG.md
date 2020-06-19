@@ -2,6 +2,12 @@
 - Enlaces a PDF
 
 
+## [0.9.1] - 2020-06-16
+
+### Modificado
+- Añadidos enlaces a PDF en los compemdios restantes, gracias a Viriato139ac y albansalatti (Discord) por su ayuda.
+ 
+
 ## [0.9.0] - 2020-06-16
 
 ### Añadido

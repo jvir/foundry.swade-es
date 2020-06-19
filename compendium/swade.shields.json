@@ -1,37 +1,48 @@
 {
 	"label": "Escudos",
+	"mapping": {
+        "description": "data.description"
+    },
 	"entries": [
 		{
 			"id": "Ballistic Shield",
-			"name": "Escudo balístico"
+			"name": "Escudo balístico",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"102\" data-page-end=\"102\">&nbsp; Ver página 100 del manual básico</p>"
 		},
 		{
 			"id": "Large Shield",
-			"name": "Escudo grande"
+			"name": "Escudo grande",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"102\" data-page-end=\"102\">&nbsp; Ver página 100 del manual básico</p>"
 		},
 		{
 			"id": "Medium Shield",
-			"name": "Escudo mediano"
+			"name": "Escudo mediano",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"102\" data-page-end=\"102\">&nbsp; Ver página 100 del manual básico</p>"
 		},
 		{
 			"id": "Polymer Shield, Large",
-			"name": "Escudo de polímeros, grande"
+			"name": "Escudo de polímeros, grande",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"102\" data-page-end=\"102\">&nbsp; Ver página 100 del manual básico</p>"
 		},
 		{
 			"id": "Polymer Shield, Medium",
-			"name": "Escudo de polímeros, mediano"
+			"name": "Escudo de polímeros, mediano",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"102\" data-page-end=\"102\">&nbsp; Ver página 100 del manual básico</p>"
 		},
 		{
 			"id": "Polymer Shield, Small",
-			"name": "Escudo de polímeros, pequeño"
+			"name": "Escudo de polímeros, pequeño",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"102\" data-page-end=\"102\">&nbsp; Ver página 100 del manual básico</p>"
 		},
 		{
 			"id": "Riot Shield",
-			"name": "Escudo antidisturbios"
+			"name": "Escudo antidisturbios",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"102\" data-page-end=\"102\">&nbsp; Ver página 100 del manual básico</p>"
 		},
 		{
 			"id": "Small Shield",
-			"name": "Escudo pequeño"
+			"name": "Escudo pequeño",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"102\" data-page-end=\"102\">&nbsp; Ver página 100 del manual básico</p>"
 		}
 	]
 }

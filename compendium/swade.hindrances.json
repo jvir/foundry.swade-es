@@ -1,229 +1,288 @@
 {
 	"label": "Desventajas",
+	"mapping": {
+        "description": "data.description"
+    },
 	"entries": [
 		{
 			"id": "All Thumbs",
-			"name": "Manazas"
+			"name": "Manazas",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"39\" data-page-end=\"39\">&nbsp; Ver página 37 del manual básico</p>"
 		},
 		{
 			"id": "Anemic",
-			"name": "Anémico"
+			"name": "Anémico",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"33\" data-page-end=\"33\">&nbsp; Ver página 31 del manual básico</p>"
 		},
 		{
 			"id": "Arrogant",
-			"name": "Arrogante"
+			"name": "Arrogante",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"33\" data-page-end=\"33\">&nbsp; Ver página 31 del manual básico</p>"
 		},
 		{
 			"id": "Bad Eyes",
-			"name": "Corto de vista"
+			"name": "Corto de vista",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"35\" data-page-end=\"35\">&nbsp; Ver página 33 del manual básico</p>"
 		},
 		{
 			"id": "Bad Luck",
-			"name": "Mala suerte"
+			"name": "Mala suerte",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"39\" data-page-end=\"39\">&nbsp; Ver página 37 del manual básico</p>"
 		},
 		{
 			"id": "Big Mouth",
-			"name": "Bocazas"
+			"name": "Bocazas",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"34\" data-page-end=\"34\">&nbsp; Ver página 32 del manual básico</p>"
 		},
 		{
 			"id": "Blind",
-			"name": "Ciego"
+			"name": "Ciego",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"34\" data-page-end=\"34\">&nbsp; Ver página 32 del manual básico</p>"
 		},
 		{
 			"id": "Can't Swim",
-			"name": "Mal nadador"
+			"name": "Mal nadador",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"39\" data-page-end=\"39\">&nbsp; Ver página 37 del manual básico</p>"
 		},
 		{
 			"id": "Cautious",
-			"name": "Cauto"
+			"name": "Cauto",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"34\" data-page-end=\"34\">&nbsp; Ver página 32 del manual básico</p>"
 		},
 		{
 			"id": "Clueless",
-			"name": "Despistado"
+			"name": "Despistado",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"36\" data-page-end=\"36\">&nbsp; Ver página 34 del manual básico</p>"
 		},
 		{
 			"id": "Clumsy",
-			"name": "Patoso"
+			"name": "Patoso",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"41\" data-page-end=\"41\">&nbsp; Ver página 39 del manual básico</p>"
 		},
 		{
 			"id": "Code of Honor",
-			"name": "Codigo de honor"
+			"name": "Código de honor",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"34\" data-page-end=\"34\">&nbsp; Ver página 32 del manual básico</p>"
 		},
 		{
 			"id": "Curious",
-			"name": "Curioso"
+			"name": "Curioso",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"35\" data-page-end=\"35\">&nbsp; Ver página 33 del manual básico</p>"
 		},
 		{
 			"id": "Death Wish",
-			"name": "Deseo mortal"
+			"name": "Deseo mortal",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"36\" data-page-end=\"36\">&nbsp; Ver página 34 del manual básico</p>"
 		},
 		{
 			"id": "Delusional",
-			"name": "Delirio"
+			"name": "Delirio",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"35\" data-page-end=\"36\">&nbsp; Ver página 33 del manual básico</p>"
 		},
 		{
 			"id": "Doubting Thomas",
-			"name": "Escéptico"
+			"name": "Escéptico",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"37\" data-page-end=\"37\">&nbsp; Ver página 35 del manual básico</p>"
 		},
 		{
 			"id": "Driven",
-			"name": "Obsesión"
+			"name": "Obsesión",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"40\" data-page-end=\"40\">&nbsp; Ver página 38 del manual básico</p>"
 		},
 		{
 			"id": "Elderly",
-			"name": "Anciano"
+			"name": "Anciano",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"32\" data-page-end=\"32\">&nbsp; Ver página 30 del manual básico</p>"
 		},
 		{
 			"id": "Enemy",
-			"name": "Enemigo"
+			"name": "Enemigo",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"36\" data-page-end=\"36\">&nbsp; Ver página 34 del manual básico</p>"
 		},
 		{
 			"id": "Greedy",
-			"name": "Avaricioso"
+			"name": "Avaricioso",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"33\" data-page-end=\"33\">&nbsp; Ver página 31 del manual básico</p>"
 		},
 		{
 			"id": "Habit",
-			"name": "Hábito"
+			"name": "Hábito",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"37\" data-page-end=\"38\">&nbsp; Ver página 35 del manual básico</p>"
 		},
 		{
 			"id": "Hard of Hearing",
-			"name": "Sordo"
+			"name": "Sordo",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"42\" data-page-end=\"42\">&nbsp; Ver página 40 del manual básico</p>"
 		},
 		{
 			"id": "Heroic",
-			"name": "Heroico"
+			"name": "Heroico",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"38\" data-page-end=\"38\">&nbsp; Ver página 36 del manual básico</p>"
 		},
 		{
 			"id": "Hesitant",
-			"name": "Dubitativo"
+			"name": "Dubitativo",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"36\" data-page-end=\"36\">&nbsp; Ver página 34 del manual básico</p>"
 		},
 		{
 			"id": "Illiterate",
-			"name": "Analfabeto"
+			"name": "Analfabeto",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"32\" data-page-end=\"32\">&nbsp; Ver página 30 del manual básico</p>"
 		},
 		{
 			"id": "Impulsive",
-			"name": "Impulsivo"
+			"name": "Impulsivo",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"38\" data-page-end=\"38\">&nbsp; Ver página 36 del manual básico</p>"
 		},
 		{
 			"id": "Jealous",
-			"name": "Envidioso"
+			"name": "Envidioso",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"37\" data-page-end=\"37\">&nbsp; Ver página 35 del manual básico</p>"
 		},
 		{
 			"id": "Loyal",
-			"name": "Leal"
+			"name": "Leal",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"38\" data-page-end=\"38\">&nbsp; Ver página 36 del manual básico</p>"
 		},
 		{
 			"id": "Mean",
-			"name": "Canalla"
+			"name": "Canalla",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"34\" data-page-end=\"34\">&nbsp; Ver página 32 del manual básico</p>"
 		},
 		{
 			"id": "Mild Mannered",
-			"name": "Apacible"
+			"name": "Apacible",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"33\" data-page-end=\"33\">&nbsp; Ver página 31 del manual básico</p>"
 		},
 		{
 			"id": "Mute",
-			"name": "Mudo"
+			"name": "Mudo",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"40\" data-page-end=\"40\">&nbsp; Ver página 38 del manual básico</p>"
 		},
 		{
 			"id": "Obese",
-			"name": "Obeso"
+			"name": "Obeso",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"40\" data-page-end=\"40\">&nbsp; Ver página 38 del manual básico</p>"
 		},
 		{
 			"id": "Obligation",
-			"name": "Obligaciones"
+			"name": "Obligaciones",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"40\" data-page-end=\"40\">&nbsp; Ver página 38 del manual básico</p>"
 		},
 		{
 			"id": "One Arm",
-			"name": "Manco"
+			"name": "Manco",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"39\" data-page-end=\"39\">&nbsp; Ver página 37 del manual básico</p>"
 		},
 		{
 			"id": "One Eye",
-			"name": "Tuerto"
+			"name": "Tuerto",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"42\" data-page-end=\"42\">&nbsp; Ver página 40 del manual básico</p>"
 		},
 		{
 			"id": "Outsider",
-			"name": "Marginado"
+			"name": "Marginado",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"39\" data-page-end=\"40\">&nbsp; Ver página 37 del manual básico</p>"
 		},
 		{
 			"id": "Overconfident",
-			"name": "Exceso de confianza"
+			"name": "Exceso de confianza",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"37\" data-page-end=\"37\">&nbsp; Ver página 35 del manual básico</p>"
 		},
 		{
 			"id": "Pacifist",
-			"name": "Pacifista"
+			"name": "Pacifista",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"40\" data-page-end=\"41\">&nbsp; Ver página 38 del manual básico</p>"
 		},
 		{
 			"id": "Phobia",
-			"name": "Fobia"
+			"name": "Fobia",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"37\" data-page-end=\"37\">&nbsp; Ver página 35 del manual básico</p>"
 		},
 		{
 			"id": "Poverty",
-			"name": "Pobreza"
+			"name": "Pobreza",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"41\" data-page-end=\"41\">&nbsp; Ver página 39 del manual básico</p>"
 		},
 		{
 			"id": "Quirk",
-			"name": "Manía"
+			"name": "Manía",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"39\" data-page-end=\"39\">&nbsp; Ver página 37 del manual básico</p>"
 		},
 		{
 			"id": "Ruthless",
-			"name": "Despiadado"
+			"name": "Despiadado",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"36\" data-page-end=\"36\">&nbsp; Ver página 34 del manual básico</p>"
 		},
 		{
 			"id": "Secret",
-			"name": "Secreto"
+			"name": "Secreto",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"41\" data-page-end=\"42\">&nbsp; Ver página 39 del manual básico</p>"
 		},
 		{
 			"id": "Shamed",
-			"name": "Avergonzado"
+			"name": "Avergonzado",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"33\" data-page-end=\"34\">&nbsp; Ver página 31 del manual básico</p>"
 		},
 		{
 			"id": "Slow",
-			"name": "Cojo"
+			"name": "Cojo",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"35\" data-page-end=\"35\">&nbsp; Ver página 33 del manual básico</p>"
 		},
 		{
 			"id": "Small",
-			"name": "Pequeño"
+			"name": "Pequeño",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"41\" data-page-end=\"41\">&nbsp; Ver página 39 del manual básico</p>"
 		},
 		{
 			"id": "Stubborn",
-			"name": "Tozudo"
+			"name": "Tozudo",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"42\" data-page-end=\"42\">&nbsp; Ver página 40 del manual básico</p>"
 		},
 		{
 			"id": "Suspicious",
-			"name": "Suspicaz"
+			"name": "Suspicaz",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"42\" data-page-end=\"42\">&nbsp; Ver página 40 del manual básico</p>"
 		},
 		{
 			"id": "Thin Skinned",
-			"name": "Sensible"
+			"name": "Sensible",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"42\" data-page-end=\"42\">&nbsp; Ver página 40 del manual básico</p>"
 		},
 		{
 			"id": "Tongue-Tied",
-			"name": "Apocado"
+			"name": "Apocado",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"33\" data-page-end=\"33\">&nbsp; Ver página 31 del manual básico</p>"
 		},
 		{
 			"id": "Ugly",
-			"name": "Feo"
+			"name": "Feo",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"37\" data-page-end=\"37\">&nbsp; Ver página 35 del manual básico</p>"
 		},
 		{
 			"id": "Vengeful",
-			"name": "Vengativo"
+			"name": "Vengativo",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"42\" data-page-end=\"42\">&nbsp; Ver página 40 del manual básico</p>"
 		},
 		{
 			"id": "Vow",
-			"name": "Juramento"
+			"name": "Juramento",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"38\" data-page-end=\"38\">&nbsp; Ver página 36 del manual básico</p>"
 		},
 		{
 			"id": "Wanted",
-			"name": "Buscado"
+			"name": "Buscado",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"34\" data-page-end=\"34\">&nbsp; Ver página 32 del manual básico</p>"
 		},
 		{
 			"id": "Yellow",
-			"name": "Cobarde"
+			"name": "Cobarde",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"34\" data-page-end=\"34\">&nbsp; Ver página 32 del manual básico</p>"
 		},
 		{
 			"id": "Young",
-			"name": "Joven"
+			"name": "Joven",
+			"description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"38\" data-page-end=\"38\">&nbsp; Ver página 36 del manual básico</p>"
 		}
 	]
 }

@@ -43,18 +43,13 @@ Hooks.on("renderItemSheet", (app, html, options) => {
                                 false;
                             }
                         }, dialogOptions).render(true);
-                    }).then(
-                          result => alert('result'), // shows "done!" after 1 second
-                          error => alert('error') // doesn't run
-                    );
-                    
+                    })                    
             });
 });
 
 
 Hooks.on("renderDialog", (app, html, options) => {
             html.find('.swade-pdf-canvas').each((index, element) => {
-                    console.log(element.dataset);
                     ShowPdfPage(element, element.dataset.book, Number(element.dataset.page));                    
             });
 });
@@ -72,7 +67,7 @@ function ShowPdfPage(element, pdfFile, page) {
             pdf.getPage(page).then(function(page) {
                 var scale = 1.5;
                 var viewport = page.getViewport({ scale: scale, });
-                var canvas = element;//document.getElementById('swade-pdf-canvas');
+                var canvas = element;
                 var context = canvas.getContext('2d');
                 canvas.height = viewport.height;
                 canvas.width = viewport.width;
