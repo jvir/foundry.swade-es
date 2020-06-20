@@ -15,10 +15,10 @@ Lenguaje español (España) para el sistema Savage Worlds Edición Aventura en F
  - Traducción del compendio de Equipo (completa, con sistema de enlace a PDF)).
  - Traducción del compendio del Mazo de acción (completa).
  - Autocompletado de habiidades iniciales en la creación de personaje.
- - BETA: enlaces a PDF (no se incluye ningun PDF ni material sujeto de derechos de autor).
+ - Enlaces a PDF (no se incluye ningun PDF ni material sujeto de derechos de autor).
 
 
-## BETA: Enlaces a PDF
+## Enlaces a PDF
 En la configuración del modulo en un mundo determinado se puede indicar una carpeta en la que podemos poner PDF. Estos PDF puende ser luego enlazados.
 
 Para enlazar un pdf hemos usar un campo en el que podamos escribir html (usualmente los campos de descripción o biografía), el enlace debe ser algo como lo siguiente:

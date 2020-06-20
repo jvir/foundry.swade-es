@@ -1,6 +1,7 @@
-## [Unreleased]
-- Enlaces a PDF
+## [0.9.2] - 2020-06-20
 
+### Añadido
+- Permitir crear enlaces a PDF en los Journal.
 
 ## [0.9.1] - 2020-06-16
 

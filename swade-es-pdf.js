@@ -13,38 +13,11 @@ Hooks.once('init', () => {
 });
 
 Hooks.on("renderItemSheet", (app, html, options) => {
-            html.find('.swade-book').click((ev) => {
-                    let element = ev.currentTarget;
-//                     console.log (element.dataset);
-                    let buttons = {
-                        close: {
-                            icon: '<i class="fas fa-times"></i>',
-                            label: game.i18n.localize('SWADE.Cancel'),
-                        },
-                    };
-                    let dialogOptions = {
-                        width: 630,
-                        height: 500,
-                    };
-                    
-                    let dialogContent = "";
-                    
-                    for(var i=element.dataset.pageStart; i<= element.dataset.pageEnd; i++) {
-                        dialogContent += `<canvas class="swade-pdf-canvas" data-book="${element.dataset.book}" data-page="${i}"></canvas>`;
-                    }
-                    
-                    return new Promise(resolve => {
-                        new Dialog({
-                            title: 'pdf',
-                            content: dialogContent,
-                            buttons: buttons,
-                            default: 'close',
-                            close: () => {
-                                false;
-                            }
-                        }, dialogOptions).render(true);
-                    })                    
-            });
+            searchPdfInfo();
+});
+
+Hooks.on("renderJournalSheet", (app, html, options) => {
+            searchPdfInfo();
 });
 
 
@@ -80,4 +53,39 @@ function ShowPdfPage(element, pdfFile, page) {
             });
             
     });
+}
+
+function searchPdfInfo (){
+    html.find('.swade-book').click((ev) => {
+                    let element = ev.currentTarget;
+//                     console.log (element.dataset);
+                    let buttons = {
+                        close: {
+                            icon: '<i class="fas fa-times"></i>',
+                            label: game.i18n.localize('SWADE.Cancel'),
+                        },
+                    };
+                    let dialogOptions = {
+                        width: 630,
+                        height: 500,
+                    };
+                    
+                    let dialogContent = "";
+                    
+                    for(var i=element.dataset.pageStart; i<= element.dataset.pageEnd; i++) {
+                        dialogContent += `<canvas class="swade-pdf-canvas" data-book="${element.dataset.book}" data-page="${i}"></canvas>`;
+                    }
+                    
+                    return new Promise(resolve => {
+                        new Dialog({
+                            title: 'pdf',
+                            content: dialogContent,
+                            buttons: buttons,
+                            default: 'close',
+                            close: () => {
+                                false;
+                            }
+                        }, dialogOptions).render(true);
+                    })                    
+            });
 }
