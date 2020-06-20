@@ -13,11 +13,11 @@ Hooks.once('init', () => {
 });
 
 Hooks.on("renderItemSheet", (app, html, options) => {
-            searchPdfInfo();
+            searchPdfInfo(html);
 });
 
 Hooks.on("renderJournalSheet", (app, html, options) => {
-            searchPdfInfo();
+            searchPdfInfo(html);
 });
 
 
@@ -55,7 +55,7 @@ function ShowPdfPage(element, pdfFile, page) {
     });
 }
 
-function searchPdfInfo (){
+function searchPdfInfo (html){
     html.find('.swade-book').click((ev) => {
                     let element = ev.currentTarget;
 //                     console.log (element.dataset);
@@ -66,7 +66,7 @@ function searchPdfInfo (){
                         },
                     };
                     let dialogOptions = {
-                        width: 630,
+                        width: 640,
                         height: 500,
                     };
                     
