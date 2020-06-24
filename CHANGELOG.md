@@ -1,7 +1,14 @@
+## [0.9.3] - 2020-06-24
+
+## Corregido
+- Error en habilidad "Supervivencia"
+
+
 ## [0.9.2] - 2020-06-20
 
 ### Añadido
 - Permitir crear enlaces a PDF en los Journal.
+
 
 ## [0.9.1] - 2020-06-16
 
