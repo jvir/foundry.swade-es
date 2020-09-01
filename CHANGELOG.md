@@ -1,3 +1,9 @@
+## [0.9.4] - 2020-06-24
+
+### Añadido
+- Añadidas nuevas cadenas
+
+
 ## [0.9.3] - 2020-06-24
 
 ## Corregido

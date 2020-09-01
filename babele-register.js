@@ -8,7 +8,7 @@ Hooks.once('init', () => {
                 lang: 'es',
                 dir: 'compendium'
             });
-            console.log("swade_es compendiums translate enabled");
+            console.log("swade-es compendiums translate enabled");
 		}
 });
 
@@ -18,17 +18,23 @@ Hooks.on('ready', () => {
 });
 
 Hooks.on('createActor', async (actor, options, userId) => {
-    if (actor.data.type === 'character' && options.renderSheet) {
+    
+    let swadeRbActive = game.modules.get("swade-rb")?.active;
+    
+    if (actor.data.type === 'character' && options.renderSheet && !swadeRbActive) {
         const skillsToFind = [
             'Atletismo',
             'Conocimientos generales',
             'Notar',
             'Persuadir',
             'Sigilo',
+            'Sin entrenar'
         ];
         const skillIndex = (await game.packs
             .get('swade.skills')
             .getContent());
         actor.createEmbeddedEntity('OwnedItem', skillIndex.filter((i) => skillsToFind.includes(i.data.name)));
     }
+    
+    
 });
