@@ -6,7 +6,12 @@ Hooks.once('init', () => {
             Babele.get().register({
                 module: 'swade-es',
                 lang: 'es',
-                dir: 'compendium'
+                dir: 'compendium/es'
+            });
+            Babele.get().register({
+                module: 'swade-es',
+                lang: 'ca',
+                dir: 'compendium/ca'
             });
             console.log("swade-es compendiums translate enabled");
 		}

@@ -1,0 +1,380 @@
+{
+    "label": [
+        "Equipo"
+    ],
+    "mapping": {
+        "description": "data.description"
+    },
+    "entries": [
+        {
+            "id": "Arrow/Quarrel",
+            "name": "Flecha/virote",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Backpack",
+            "name": "Mochila",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Bedroll (sleeping bag; winterized)",
+            "name": "Petate (saco de dormir; invierno)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Bipod/Tripod",
+            "name": "Bípode/Trípode",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Blanket",
+            "name": "Manta",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Boots, Hiking",
+            "name": "Botas, senderismo",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Bug (Micro Transmitter)",
+            "name": "Micrófono transmisor ('Bicho', 12 horas de uso)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Bullet, Large",
+            "name": "Balas, grande",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Bullet, Medium",
+            "name": "Balas, mediano",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Bullet, Small",
+            "name": "Balas, pequeño",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Button Camera",
+            "name": "Cámara de botón (espía, 12 horas de uso)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Camera (disposable)",
+            "name": "Cámara (desechable)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Camera (regular)",
+            "name": "Cámara (estandar)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Cameras (digital)",
+            "name": "Cámara (digital)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Camouflage Fatigues",
+            "name": "Camuflaje militar",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Candle (one hour, 2 radius)",
+            "name": "Vela (1 hora, 2 pasos de radio)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Canteen (waterskin)",
+            "name": "Cantimplora (pellejo de agua)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Cellular Interceptor",
+            "name": "Interceptor de telefonía móvil",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Cellular Phone",
+            "name": "Télefono móvil",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Clothing, Casual",
+            "name": "Muda, casual",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Clothing, Formal",
+            "name": "Muda, formal",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Crowbar",
+            "name": "Palanqueta",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Desktop Computer",
+            "name": "Ordenador de sobremesa",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Elaborate Saddle",
+            "name": "Silla de montar (recargada)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Fast Food Meal",
+            "name": "Comida rápida",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "First Aid Kit (basic supplies)",
+            "name": "Kit básico de primeros auxilios (3 usos)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Flashlight (10 beam)",
+            "name": "Linterna (Rayo de 4 pasos)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Flask (ceramic)",
+            "name": "Petaca (cerámica)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Flint and Steel",
+            "name": "Pedernal y acero",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "GPS",
+            "name": "GPS",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Gatling Laser Power Pack",
+            "name": "Bateria para laser Gatling",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Goggles",
+            "name": "Gafas",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Good Meal (restaurant)",
+            "name": "Buena comida (restaurante)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Hammer",
+            "name": "Martillo para clavos",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Hand held computer",
+            "name": "Tableta",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Handcuffs (manacles)",
+            "name": "Esposas (o grilletes)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Horse",
+            "name": "Caballo",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Lantern (four hours, 4 radius)",
+            "name": "Lampara (4 horas, 4 pasos de radio)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Laptop computer",
+            "name": "Ordenador portátil",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Laser Pistol Battery",
+            "name": "Batería para pistola laser",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Laser Rifle or SMG Battery",
+            "name": "Batería para rifle laser",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Laser Sight",
+            "name": "Mira/puntero laser",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Lighter",
+            "name": "Encendedor",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Lineman's Telephone",
+            "name": "Interceptor de telefonía cableado*",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Lockpicks",
+            "name": "Ganzúas",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "MRE (Meal Ready to Eat)",
+            "name": "MRE (raciones militares listas para comer)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Medic Kit",
+            "name": "Kit médico (5 usos)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Night Vision Goggles",
+            "name": "Gafas de visión nocturna",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Oil (for lantern; one pint)",
+            "name": "Aceite (para lámpara, medio litro)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Parabolic Microphone",
+            "name": "Micrófono Parabólico",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Pepper Spray",
+            "name": "Espray de pimienta",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Quiver (holds 20 arrows/ bolts)",
+            "name": "Carcaj (20 flechas/virotes)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Rifle Scope",
+            "name": "Mira telescópica para rifle",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Rope, hemp (10/20 yards)",
+            "name": "Cuerda, cañamo (10 pasos/20 metros)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Rope, nylon (10/20 yards)",
+            "name": "Cuerda, naylon (10 pasos/20 metros)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Saddle",
+            "name": "Silla de montar",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Shot (w/ powder)",
+            "name": "Polvora y balín (10)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Shotgun shell",
+            "name": "Cartuchos de escopeta",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Shotgun slug",
+            "name": "Bala de escopeta",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Shovel",
+            "name": "Pala",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Sling stone",
+            "name": "Proyectiles honda (20)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Soap",
+            "name": "Jabón",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Stun Gun",
+            "name": "Táser",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Telephone Tap",
+            "name": "Micro para colocar en unteléfono fijo",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Tool Kit",
+            "name": "Maletín de herramientas",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Torch (one hour, 4 radius)",
+            "name": "Antorcha (1 hora, 4 pasos de radio)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Trail Rations",
+            "name": "Raciones de viaje (5 comidas)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Transmitter Detector",
+            "name": "Detector de transmisiones",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"99\" data-page-end=\"99\">&nbsp; Ver página 97 del manual básico</p>"
+        },
+        {
+            "id": "Umbrella",
+            "name": "Paraguas o sombrilla",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "War Horse",
+            "name": "Caballo de guerra",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Whetstone",
+            "name": "Piedra de afilar",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Whistle",
+            "name": "Silbato",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Winter Boots",
+            "name": "Botas de invierno",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        },
+        {
+            "id": "Winter Gear (cloak/parka)",
+            "name": "Muda de invierno (capa gruesa/parka)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"98\" data-page-end=\"98\">&nbsp; Ver página 96 del manual básico</p>"
+        }
+    ]
+}

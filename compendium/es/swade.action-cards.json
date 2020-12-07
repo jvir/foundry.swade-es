@@ -1,0 +1,221 @@
+{
+	"label": "Action Cards",
+	"entries": [
+		{
+			"id": "10 of Clubs",
+			"name": "10 de Treboles"
+		},
+		{
+			"id": "10 of Diamonds",
+			"name": "10 de Diamantes"
+		},
+		{
+			"id": "10 of Hearts",
+			"name": "10 de Corazones"
+		},
+		{
+			"id": "10 of Spades",
+			"name": "10 de Picas"
+		},
+		{
+			"id": "2 of Clubs",
+			"name": "2 de Treboles"
+		},
+		{
+			"id": "2 of Diamonds",
+			"name": "2 de Diamantes"
+		},
+		{
+			"id": "2 of Hearts",
+			"name": "2 de Corazones"
+		},
+		{
+			"id": "2 of Spades",
+			"name": "2 de Picas"
+		},
+		{
+			"id": "3 of Clubs",
+			"name": "3 de Treboles"
+		},
+		{
+			"id": "3 of Diamonds",
+			"name": "3 de Diamantes"
+		},
+		{
+			"id": "3 of Hearts",
+			"name": "3 de Corazones"
+		},
+		{
+			"id": "3 of Spades",
+			"name": "3 de Picas"
+		},
+		{
+			"id": "4 of Clubs",
+			"name": "4 de Treboles"
+		},
+		{
+			"id": "4 of Diamonds",
+			"name": "4 de Diamantes"
+		},
+		{
+			"id": "4 of Hearts",
+			"name": "4 de Corazones"
+		},
+		{
+			"id": "4 of Spades",
+			"name": "4 de Picas"
+		},
+		{
+			"id": "5 of Clubs",
+			"name": "5 de Treboles"
+		},
+		{
+			"id": "5 of Diamonds",
+			"name": "5 de Diamantes"
+		},
+		{
+			"id": "5 of Hearts",
+			"name": "5 de Corazones"
+		},
+		{
+			"id": "5 of Spades",
+			"name": "5 de Picas"
+		},
+		{
+			"id": "6 of Clubs",
+			"name": "6 de Treboles"
+		},
+		{
+			"id": "6 of Diamonds",
+			"name": "6 de Diamantes"
+		},
+		{
+			"id": "6 of Hearts",
+			"name": "6 de Corazones"
+		},
+		{
+			"id": "6 of Spades",
+			"name": "6 de Picas"
+		},
+		{
+			"id": "7 of Clubs",
+			"name": "7 de Treboles"
+		},
+		{
+			"id": "7 of Diamonds",
+			"name": "7 de Diamantes"
+		},
+		{
+			"id": "7 of Hearts",
+			"name": "7 de Corazones"
+		},
+		{
+			"id": "7 of Spades",
+			"name": "7 de Picas"
+		},
+		{
+			"id": "8 of Clubs",
+			"name": "8 de Treboles"
+		},
+		{
+			"id": "8 of Diamonds",
+			"name": "8 de Diamantes"
+		},
+		{
+			"id": "8 of Hearts",
+			"name": "8 de Corazones"
+		},
+		{
+			"id": "8 of Spades",
+			"name": "8 de Picas"
+		},
+		{
+			"id": "9 of Clubs",
+			"name": "9 de Treboles"
+		},
+		{
+			"id": "9 of Diamonds",
+			"name": "9 de Diamantes"
+		},
+		{
+			"id": "9 of Hearts",
+			"name": "9 de Corazones"
+		},
+		{
+			"id": "9 of Spades",
+			"name": "9 de Picas"
+		},
+		{
+			"id": "Ace of Clubs",
+			"name": "As de Treboles"
+		},
+		{
+			"id": "Ace of Diamonds",
+			"name": "As de Diamantes"
+		},
+		{
+			"id": "Ace of Hearts",
+			"name": "As de Corazones"
+		},
+		{
+			"id": "Ace of Spades",
+			"name": "As de Picas"
+		},
+		{
+			"id": "Black Joker",
+			"name": "Joker negro"
+		},
+		{
+			"id": "Jack of Clubs",
+			"name": "Jota de Treboles"
+		},
+		{
+			"id": "Jack of Diamonds",
+			"name": "Jota de Diamantes"
+		},
+		{
+			"id": "Jack of Hearts",
+			"name": "Jota de Corazones"
+		},
+		{
+			"id": "Jack of Spades",
+			"name": "Jota de Picas"
+		},
+		{
+			"id": "King of Clubs",
+			"name": "Rey de Treboles"
+		},
+		{
+			"id": "King of Diamonds",
+			"name": "Rey de Diamantes"
+		},
+		{
+			"id": "King of Hearts",
+			"name": "Rey de Corazones"
+		},
+		{
+			"id": "King of Spades",
+			"name": "Rey de Picas"
+		},
+		{
+			"id": "Queen of Clubs",
+			"name": "Reina de Treboles"
+		},
+		{
+			"id": "Queen of Diamonds",
+			"name": "Reina de Diamantes"
+		},
+		{
+			"id": "Queen of Hearts",
+			"name": "Reina de Corazones"
+		},
+		{
+			"id": "Queen of Spades",
+			"name": "Reina de Picas"
+		},
+		{
+			"id": "Red Joker",
+			"name": "Joker rojo"
+		}
+	]
+}

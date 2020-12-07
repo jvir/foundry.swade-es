@@ -2,10 +2,10 @@
   "name": "swade-es",
   "title": "SWADE Spanish translation",
   "description": "Adds Spanish(Spain) to the SWADE system",
-  "version": "0.9.4",
+  "version": "0.10.0",
   "minimumCoreVersion" : "0.6.2",
-  "compatibleCoreVersion" : "0.6.6",
-  "author": "jvir, alfarobl",
+  "compatibleCoreVersion" : "0.7.8",
+  "author": "jvir, alfarobl, montver",
   
   "esmodules": ["babele-register.js", "swade-es-pdf.js"],    
   "scripts": ["pdf.min.js"],
@@ -15,8 +15,13 @@
   "languages": [
     {
       "lang": "es",
-      "name": "Spanish (Spain)",
+      "name": "Español",
       "path": "es.json"
+    },
+    {
+      "lang": "ca",
+      "name": "català",
+      "path": "ca.json"
     }
   ],
   
