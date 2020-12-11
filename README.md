@@ -1,18 +1,16 @@
 # swade-es
 
-Spanish language for the Savage Worlds Adventure Edition system on Foundry VTT.
+Spanish and Catalonian language for the Savage Worlds Adventure Edition system on Foundry VTT.
 
-Lenguaje español (España) para el sistema Savage Worlds Edición Aventura en Foundry VTT
+Lenguaje Español y Català para el sistema Savage Worlds en Foundry VTT.
+Llenguatge català i espanyol per al sistema Savage Worlds a Foundry VTT.
+
+
 
  - Traducción de campos básicos.
  - Traducción del compendio de Habilidades (completa, con sistema de enlace a PDF).
  - Traducción del compendio de Ventajas (completa, con sistema de enlace a PDF)).
  - Traducción del compendio de Desventajas (completa, con sistema de enlace a PDF)).
- - Traducción del compendio de Poderes (completa, con sistema de enlace a PDF)).
- - Traducción del compendio de Escudos (completa, con sistema de enlace a PDF)).
- - Traducción del compendio de Armaduras (completa, con sistema de enlace a PDF)).
- - Traducción del compendio de Armas (completa, con sistema de enlace a PDF)).
- - Traducción del compendio de Equipo (completa, con sistema de enlace a PDF)).
  - Traducción del compendio del Mazo de acción (completa).
  - Autocompletado de habiidades iniciales en la creación de personaje.
  - Enlaces a PDF (no se incluye ningun PDF ni material sujeto de derechos de autor).

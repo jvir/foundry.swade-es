@@ -2,10 +2,10 @@
   "name": "swade-es",
   "title": "SWADE Spanish translation",
   "description": "Adds Spanish(Spain) to the SWADE system",
-  "version": "0.10.0",
-  "minimumCoreVersion" : "0.6.2",
+  "version": "0.11.0",
+  "minimumCoreVersion" : "0.6.6",
   "compatibleCoreVersion" : "0.7.8",
-  "author": "jvir, alfarobl, montver",
+  "author": "ForjaSalvaje, JuanV, Montver, ParvusDomus",
   
   "esmodules": ["babele-register.js", "swade-es-pdf.js"],    
   "scripts": ["pdf.min.js"],

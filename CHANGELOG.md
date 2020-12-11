@@ -1,5 +1,16 @@
 ## [0.9.4] - 2020-06-24
 
+### Actualizado
+- Cadenas para la versión SWADE 0.15.0, primera versión Oficial de PEG.
+
+
+## [0.9.4] - 2020-06-24
+
+### Añadido
+- Idioma Catalán para el sistema
+
+## [0.9.4] - 2020-06-24
+
 ### Añadido
 - Añadidas nuevas cadenas
 
