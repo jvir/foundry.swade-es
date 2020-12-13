@@ -1,0 +1,303 @@
+{
+  "label": "Poderes",
+  "mapping": {
+    "description": "data.description"
+  },
+  "entries": [
+    {
+      "id": "Arcane Protection",
+      "name": "Protección arcana",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"247\" data-page-end=\"247\">&nbsp; Ver página 245 del manual básico<\/p>"
+    },
+    {
+      "id": "Armor",
+      "name": "Armadura",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"230\" data-page-end=\"230\">&nbsp; Ver página 228 del manual básico<\/p>"
+    },
+    {
+      "id": "Banish",
+      "name": "Destierro",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"235\" data-page-end=\"235\">&nbsp; Ver página 233 del manual básico<\/p>"
+    },
+    {
+      "id": "Barrier",
+      "name": "Barrera",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"230\" data-page-end=\"230\">&nbsp; Ver página 228 del manual básico<\/p>"
+    },
+    {
+      "id": "Beast Friend",
+      "name": "Amistad animal",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"229\" data-page-end=\"230\">&nbsp; Ver página 227 del manual básico<\/p>"
+    },
+    {
+      "id": "Blast",
+      "name": "Explosión",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"239\" data-page-end=\"239\">&nbsp; Ver página 237 del manual básico<\/p>"
+    },
+    {
+      "id": "Blind",
+      "name": "Ceguera",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"233\" data-page-end=\"233\">&nbsp; Ver página 231 del manual básico<\/p>"
+    },
+    {
+      "id": "Bolt",
+      "name": "Proyectil",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"248\" data-page-end=\"248\">&nbsp; Ver página 246 del manual básico<\/p>"
+    },
+    {
+      "id": "Boost/Lower Trait",
+      "name": "Mejora/reducción de rasgo",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"246\" data-page-end=\"246\">&nbsp; Ver página 244 del manual básico<\/p>"
+    },
+    {
+      "id": "Burrow",
+      "name": "Cavar",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"233\" data-page-end=\"233\">&nbsp; Ver página 231 del manual básico<\/p>"
+    },
+    {
+      "id": "Burst",
+      "name": "Chorro",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"233\" data-page-end=\"234\">&nbsp; Ver página 231 del manual básico<\/p>"
+    },
+    {
+      "id": "Confusion",
+      "name": "Confusión",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"234\" data-page-end=\"234\">&nbsp; Ver página 232 del manual básico<\/p>"
+    },
+    {
+      "id": "Damage Field",
+      "name": "Aura dañina",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"230\" data-page-end=\"230\">&nbsp; Ver página 228 del manual básico<\/p>"
+    },
+    {
+      "id": "Darksight",
+      "name": "Visión oscura",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"251\" data-page-end=\"251\">&nbsp; Ver página 249 del manual básico<\/p>"
+    },
+    {
+      "id": "Deflection",
+      "name": "Desvío",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"236\" data-page-end=\"236\">&nbsp; Ver página 234 del manual básico<\/p>"
+    },
+    {
+      "id": "Detect/Conceal Arcana",
+      "name": "Detección/Ocultamiento Arcano",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"236\" data-page-end=\"236\">&nbsp; Ver página 234 del manual básico<\/p>"
+    },
+    {
+      "id": "Disguise",
+      "name": "Disfraz",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"237\" data-page-end=\"237\">&nbsp; Ver página 235 del manual básico<\/p>"
+    },
+    {
+      "id": "Dispel",
+      "name": "Disipación",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"237\" data-page-end=\"238\">&nbsp; Ver página 235 del manual básico<\/p>"
+    },
+    {
+      "id": "Divination",
+      "name": "Adivinación",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"228\" data-page-end=\"229\">&nbsp; Ver página 226 del manual básico<\/p>"
+    },
+    {
+      "id": "Drain Power Points",
+      "name": "Drenaje de puntos de poder",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"238\" data-page-end=\"238\">&nbsp; Ver página 236 del manual básico<\/p>"
+    },
+    {
+      "id": "Elemental Manipulation",
+      "name": "Manipulación elemental",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"245\" data-page-end=\"245\">&nbsp; Ver página 243 del manual básico<\/p>"
+    },
+    {
+      "id": "Empathy",
+      "name": "Empatía",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"238\" data-page-end=\"238\">&nbsp; Ver página 236 del manual básico<\/p>"
+    },
+    {
+      "id": "Entangle",
+      "name": "Captura",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"231\" data-page-end=\"232\">&nbsp; Ver página 229 del manual básico<\/p>"
+    },
+    {
+      "id": "Environmental Protection",
+      "name": "Protección medioambiental",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"247\" data-page-end=\"248\">&nbsp; Ver página 245 del manual básico<\/p>"
+    },
+    {
+      "id": "Farsight",
+      "name": "Vista lejana",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"252\" data-page-end=\"252\">&nbsp; Ver página 250 del manual básico<\/p>"
+    },
+    {
+      "id": "Fear",
+      "name": "Miedo",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"246\" data-page-end=\"247\">&nbsp; Ver página 244 del manual básico<\/p>"
+    },
+    {
+      "id": "Fly",
+      "name": "Volar",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"252\" data-page-end=\"252\">&nbsp; Ver página 250 del manual básico<\/p>"
+    },
+    {
+      "id": "Growth/Shrink",
+      "name": "Gigantismo/enanismo",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"239\" data-page-end=\"239\">&nbsp; Ver página 237 del manual básico<\/p>"
+    },
+    {
+      "id": "Havoc",
+      "name": "Empujon",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"238\" data-page-end=\"239\">&nbsp; Ver página 236 del manual básico<\/p>"
+    },
+    {
+      "id": "Healing",
+      "name": "Curación",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"234\" data-page-end=\"234\">&nbsp; Ver página 232 del manual básico<\/p>"
+    },
+    {
+      "id": "Illusion",
+      "name": "Ilusión",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"240\" data-page-end=\"240\">&nbsp; Ver página 238 del manual básico<\/p>"
+    },
+    {
+      "id": "Intangibility",
+      "name": "Intangibilidad",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"240\" data-page-end=\"241\">&nbsp; Ver página 238 del manual básico<\/p>"
+    },
+    {
+      "id": "Invisibility",
+      "name": "Invisibilidad",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"241\" data-page-end=\"241\">&nbsp; Ver página 239 del manual básico<\/p>"
+    },
+    {
+      "id": "Light/Darkness",
+      "name": "Luz/oscuridad",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"244\" data-page-end=\"244\">&nbsp; Ver página 242 del manual básico<\/p>"
+    },
+    {
+      "id": "Mind Link",
+      "name": "Vínculo mental",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"251\" data-page-end=\"251\">&nbsp; Ver página 249 del manual básico<\/p>"
+    },
+    {
+      "id": "Mind Reading",
+      "name": "Lectura de mentes",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"243\" data-page-end=\"243\">&nbsp; Ver página 241 del manual básico<\/p>"
+    },
+    {
+      "id": "Mind Wipe",
+      "name": "Borrado de recuerdos Manipulación de recuerdos?",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"244\" data-page-end=\"245\">&nbsp; Ver página 242 del manual básico<\/p>"
+    },
+    {
+      "id": "Object Reading",
+      "name": "Lectura de objetos",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"243\" data-page-end=\"243\">&nbsp; Ver página 241 del manual básico<\/p>"
+    },
+    {
+      "id": "Protection",
+      "name": "Protección",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"247\" data-page-end=\"247\">&nbsp; Ver página 245 del manual básico<\/p>"
+    },
+    {
+      "id": "Pummel",
+      "name": "Caos (me envía a Empujón)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"238\" data-page-end=\"239\">&nbsp; Ver página 236 del manual básico<\/p>"
+    },
+    {
+      "id": "Puppet",
+      "name": "Marioneta",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"245\" data-page-end=\"246\">&nbsp; Ver página 243 del manual básico<\/p>"
+    },
+    {
+      "id": "Quickness",
+      "name": "Velocidad (me envia a lentitud/rapidez)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"243\" data-page-end=\"244\">&nbsp; Ver página 241 del manual básico<\/p>"
+    },
+    {
+      "id": "Relief",
+      "name": "Alivio",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"229\" data-page-end=\"229\">&nbsp; Ver página 227 del manual básico<\/p>"
+    },
+    {
+      "id": "Resurrection",
+      "name": "Resurrección",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"248\" data-page-end=\"248\">&nbsp; Ver página 246 del manual básico<\/p>"
+    },
+    {
+      "id": "Shape Change",
+      "name": "Cambio de forma",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"231\" data-page-end=\"231\">&nbsp; Ver página 229 del manual básico<\/p>"
+    },
+    {
+      "id": "Sloth/Speed",
+      "name": "Lentitud/Rapidez",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"243\" data-page-end=\"244\">&nbsp; Ver página 241 del manual básico<\/p>"
+    },
+    {
+      "id": "Slow/Speed",
+      "name": "Frenar/Acelerar (no esá en compendio)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"@ref-error\" data-page-end=\"@ref-error\">&nbsp; Ver página @ref-error del manual básico<\/p>"
+    },
+    {
+      "id": "Slumber",
+      "name": "Sueño",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"249\" data-page-end=\"250\">&nbsp; Ver página 247 del manual básico<\/p>"
+    },
+    {
+      "id": "Smite",
+      "name": "Castigo",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"232\" data-page-end=\"232\">&nbsp; Ver página 230 del manual básico<\/p>"
+    },
+    {
+      "id": "Sound/Silence",
+      "name": "Silencio/sonido",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"248\" data-page-end=\"248\">&nbsp; Ver página 246 del manual básico<\/p>"
+    },
+    {
+      "id": "Speak Language",
+      "name": "Lenguas",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"243\" data-page-end=\"243\">&nbsp; Ver página 241 del manual básico<\/p>"
+    },
+    {
+      "id": "Stun",
+      "name": "Conmoción",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"234\" data-page-end=\"234\">&nbsp; Ver página 232 del manual básico<\/p>"
+    },
+    {
+      "id": "Succor",
+      "name": "Recuperar (no está en compendio)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"@ref-error\" data-page-end=\"@ref-error\">&nbsp; Ver página @ref-error del manual básico<\/p>"
+    },
+    {
+      "id": "Summon Ally",
+      "name": "Invocación de aliados",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"241\" data-page-end=\"242\">&nbsp; Ver página 239 del manual básico<\/p>"
+    },
+    {
+      "id": "Telekinesis",
+      "name": "Telequinesis",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"250\" data-page-end=\"250\">&nbsp; Ver página 248 del manual básico<\/p>"
+    },
+    {
+      "id": "Teleport",
+      "name": "Teleportación",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"250\" data-page-end=\"250\">&nbsp; Ver página 248 del manual básico<\/p>"
+    },
+    {
+      "id": "Wall Walker",
+      "name": "Trepamuros",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"250\" data-page-end=\"251\">&nbsp; Ver página 248 del manual básico<\/p>"
+    },
+    {
+      "id": "Warrior's Gift",
+      "name": "Ventaja de combate",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"251\" data-page-end=\"251\">&nbsp; Ver página 249 del manual básico<\/p>"
+    },
+    {
+      "id": "Zombie",
+      "name": "Zombi",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"252\" data-page-end=\"253\">&nbsp; Ver página 250 del manual básico<\/p>"
+    }
+  ]
+}

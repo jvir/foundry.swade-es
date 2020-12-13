@@ -1,0 +1,410 @@
+{
+    "label": [
+        "Armas"
+    ],
+    "mapping": {
+        "description": "data.description"
+    },
+    "entries": [
+        {
+            "id": "AK47 (7.62mm)",
+            "name": "AK47 (7.62mm)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"107\" data-page-end=\"107\">&nbsp; Ver página 105 del manual básico</p>"
+        },
+        {
+            "id": "Axe, Battle",
+            "name": "Hacha, batalla",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Axe, Great",
+            "name": "Hacha, gran",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Axe, Hand",
+            "name": "Hacha, mano",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Axe, Throwing",
+            "name": "Hacha, arrojadiza",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Bangstick",
+            "name": "Palo explosivo",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Barrett (.50)",
+            "name": "Barrett (.50)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"107\" data-page-end=\"107\">&nbsp; Ver página 105 del manual básico</p>"
+        },
+        {
+            "id": "Bayonet",
+            "name": "Bayoneta",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Billy Club/Baton",
+            "name": "Bastón/porra",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Blunderbuss",
+            "name": "Trabuco",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"105\" data-page-end=\"105\">&nbsp; Ver página 103 del manual básico</p>"
+        },
+        {
+            "id": "Bow",
+            "name": "Arco",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"105\" data-page-end=\"105\">&nbsp; Ver página 103 del manual básico</p>"
+        },
+        {
+            "id": "Brass Knuckles",
+            "name": "Puño americano",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Brown Bess, etc",
+            "name": "Mosquete Brown Bess (o similar)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"105\" data-page-end=\"105\">&nbsp; Ver página 103 del manual básico</p>"
+        },
+        {
+            "id": "Browning Automatic Rifle (BAR)(.30-6)",
+            "name": "Rifle automatico Browning (BAR)(.30-6)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"108\" data-page-end=\"108\">&nbsp; Ver página 106 del manual básico</p>"
+        },
+        {
+            "id": "Chainsaw",
+            "name": "Motosierra",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Club, Heavy",
+            "name": "Porra, Pesada",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"103\" data-page-end=\"103\">&nbsp; Ver página 101 del manual básico</p>"
+        },
+        {
+            "id": "Club, Light",
+            "name": "Porra, Ligera",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"103\" data-page-end=\"103\">&nbsp; Ver página 101 del manual básico</p>"
+        },
+        {
+            "id": "Colt 1911 (.45)",
+            "name": "Colt 1911 (.45)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"106\" data-page-end=\"106\">&nbsp; Ver página 104 del manual básico</p>"
+        },
+        {
+            "id": "Colt Peacemaker (.45)",
+            "name": "Colt Peacemaker (.45)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"106\" data-page-end=\"106\">&nbsp; Ver página 104 del manual básico</p>"
+        },
+        {
+            "id": "Compound Bow (Modern)",
+            "name": "Arco compuesto (comtemporaneo)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Crossbow (Hand Drawn)",
+            "name": "Ballesta (ligera)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Crossbow (Heavy)",
+            "name": "Ballesta (pesada)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Crossbow (Modern)",
+            "name": "Ballesta de poleas",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Dagger/Knife",
+            "name": "Cuchillo/daga",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Derringer (.41)",
+            "name": "Derringer (.41)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"106\" data-page-end=\"106\">&nbsp; Ver página 104 del manual básico</p>"
+        },
+        {
+            "id": "Desert Egle (.50)",
+            "name": "Desert Eagle (.50)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"106\" data-page-end=\"106\">&nbsp; Ver página 104 del manual básico</p>"
+        },
+        {
+            "id": "Double-Barrel",
+            "name": "Dos cañones",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"107\" data-page-end=\"107\">&nbsp; Ver página 105 del manual básico</p>"
+        },
+        {
+            "id": "Flail",
+            "name": "Mangual",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"103\" data-page-end=\"103\">&nbsp; Ver página 101 del manual básico</p>"
+        },
+        {
+            "id": "Flintlock Pistol",
+            "name": "Pistola de chispa",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"105\" data-page-end=\"105\">&nbsp; Ver página 103 del manual básico</p>"
+        },
+        {
+            "id": "Gatling (.45)",
+            "name": "Gatling (.45)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"108\" data-page-end=\"108\">&nbsp; Ver página 106 del manual básico</p>"
+        },
+        {
+            "id": "Gatling Laser",
+            "name": "Láser de pulsos (Gatling)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"109\" data-page-end=\"109\">&nbsp; Ver página 107 del manual básico</p>"
+        },
+        {
+            "id": "Glock (9mm)",
+            "name": "Glock (9mm)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"106\" data-page-end=\"106\">&nbsp; Ver página 104 del manual básico</p>"
+        },
+        {
+            "id": "H&K MP5 (9mm)",
+            "name": "H&K MP5 (9mm)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"106\" data-page-end=\"106\">&nbsp; Ver página 104 del manual básico</p>"
+        },
+        {
+            "id": "Halberd",
+            "name": "Alabarda",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"103\" data-page-end=\"103\">&nbsp; Ver página 101 del manual básico</p>"
+        },
+        {
+            "id": "Hunting Rifle (.308)",
+            "name": "Rifle de caza (.308)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"107\" data-page-end=\"107\">&nbsp; Ver página 105 del manual básico</p>"
+        },
+        {
+            "id": "Katana",
+            "name": "Katana",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"103\" data-page-end=\"103\">&nbsp; Ver página 101 del manual básico</p>"
+        },
+        {
+            "id": "Kentucky Rifle",
+            "name": "Rifle Kentucky",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"105\" data-page-end=\"105\">&nbsp; Ver página 103 del manual básico</p>"
+        },
+        {
+            "id": "Lance",
+            "name": "Lanza",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"103\" data-page-end=\"103\">&nbsp; Ver página 101 del manual básico</p>"
+        },
+        {
+            "id": "Laser Pistol",
+            "name": "Pistola Laser",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"109\" data-page-end=\"109\">&nbsp; Ver página 107 del manual básico</p>"
+        },
+        {
+            "id": "Laser Rifle",
+            "name": "Laser Rifle",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"109\" data-page-end=\"109\">&nbsp; Ver página 107 del manual básico</p>"
+        },
+        {
+            "id": "Laser SMG",
+            "name": "Laser SMG*",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"109\" data-page-end=\"109\">&nbsp; Ver página 107 del manual básico</p>"
+        },
+        {
+            "id": "Laser Sword",
+            "name": "Sable láser",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Long Bow",
+            "name": "Arco largo",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "M-16 (5.56mm)",
+            "name": "M-16 (5.56mm)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"107\" data-page-end=\"107\">&nbsp; Ver página 105 del manual básico</p>"
+        },
+        {
+            "id": "M1 Garand (.30-06)",
+            "name": "M1 Garand (.30-06)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"107\" data-page-end=\"107\">&nbsp; Ver página 105 del manual básico</p>"
+        },
+        {
+            "id": "M2 Browning (.50 Cal)",
+            "name": "M2 Browning (.50 Cal)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"108\" data-page-end=\"108\">&nbsp; Ver página 106 del manual básico</p>"
+        },
+        {
+            "id": "M60 (7.62mm)",
+            "name": "M60 (7.62mm)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"108\" data-page-end=\"108\">&nbsp; Ver página 106 del manual básico</p>"
+        },
+        {
+            "id": "MG42 (7.62mm)",
+            "name": "MG42 (7.62mm)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"108\" data-page-end=\"108\">&nbsp; Ver página 106 del manual básico</p>"
+        },
+        {
+            "id": "Mace",
+            "name": "Maza",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"103\" data-page-end=\"103\">&nbsp; Ver página 101 del manual básico</p>"
+        },
+        {
+            "id": "Maul",
+            "name": "Martillo de guerra",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"103\" data-page-end=\"103\">&nbsp; Ver página 101 del manual básico</p>"
+        },
+        {
+            "id": "Minigun (7.62mm)",
+            "name": "Minigun (7.62mm)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"108\" data-page-end=\"108\">&nbsp; Ver página 106 del manual básico</p>"
+        },
+        {
+            "id": "Molecular Knife",
+            "name": "Daga molecular",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Molecular Sword",
+            "name": "Espada molecular",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Net (weighted)",
+            "name": "Red de guerra (contrapesada)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Pike",
+            "name": "Pica",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"103\" data-page-end=\"103\">&nbsp; Ver página 101 del manual básico</p>"
+        },
+        {
+            "id": "Police Revolver (.38)",
+            "name": "Revolver policial (.38)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"106\" data-page-end=\"106\">&nbsp; Ver página 104 del manual básico</p>"
+        },
+        {
+            "id": "Pump Action",
+            "name": "Escopeta repetidora",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"107\" data-page-end=\"107\">&nbsp; Ver página 105 del manual básico</p>"
+        },
+        {
+            "id": "Rapier",
+            "name": "Estoque",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"103\" data-page-end=\"103\">&nbsp; Ver página 101 del manual básico</p>"
+        },
+        {
+            "id": "Ruger (.22)",
+            "name": "Ruger (.22)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"106\" data-page-end=\"106\">&nbsp; Ver página 104 del manual básico</p>"
+        },
+        {
+            "id": "SAW (5.56mm)",
+            "name": "SAW (5.56mm)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"108\" data-page-end=\"108\">&nbsp; Ver página 106 del manual básico</p>"
+        },
+        {
+            "id": "Sawed-Off DB",
+            "name": "Recortada",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"107\" data-page-end=\"107\">&nbsp; Ver página 105 del manual básico</p>"
+        },
+        {
+            "id": "Sharps Big 50 (.50)",
+            "name": "Sharps Big 50 (.50)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"107\" data-page-end=\"107\">&nbsp; Ver página 105 del manual básico</p>"
+        },
+        {
+            "id": "Sling (Athletics (throwing))",
+            "name": "Honda (Atletismo (lanzar))",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Smith & Wesson (.357)",
+            "name": "Smith & Wesson (.357)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"106\" data-page-end=\"106\">&nbsp; Ver página 104 del manual básico</p>"
+        },
+        {
+            "id": "Spear",
+            "name": "Lanza",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"103\" data-page-end=\"103\">&nbsp; Ver página 101 del manual básico</p>"
+        },
+        {
+            "id": "Spencer Carbine (.52)",
+            "name": "Carabina Spencer (.52)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"107\" data-page-end=\"107\">&nbsp; Ver página 105 del manual básico</p>"
+        },
+        {
+            "id": "Springfield Rifle Model 1861",
+            "name": "Rifle Springfield model0 1861",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"105\" data-page-end=\"105\">&nbsp; Ver página 103 del manual básico</p>"
+        },
+        {
+            "id": "Staff",
+            "name": "Vara",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"103\" data-page-end=\"103\">&nbsp; Ver página 101 del manual básico</p>"
+        },
+        {
+            "id": "Steyr AUG (5.56mm)",
+            "name": "Steyr AUG (5.56mm)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"107\" data-page-end=\"107\">&nbsp; Ver página 105 del manual básico</p>"
+        },
+        {
+            "id": "Streetsweeper",
+            "name": "Streetsweeper",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"107\" data-page-end=\"107\">&nbsp; Ver página 105 del manual básico</p>"
+        },
+        {
+            "id": "Switchblade",
+            "name": "Navaja",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Sword, Great",
+            "name": "Espadón",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"103\" data-page-end=\"103\">&nbsp; Ver página 101 del manual básico</p>"
+        },
+        {
+            "id": "Sword, Long",
+            "name": "Espada, larga",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"103\" data-page-end=\"103\">&nbsp; Ver página 101 del manual básico</p>"
+        },
+        {
+            "id": "Sword, Short",
+            "name": "Espada, corta",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"103\" data-page-end=\"103\">&nbsp; Ver página 101 del manual básico</p>"
+        },
+        {
+            "id": "Throwing Dagger/Knife",
+            "name": "Cuchillo/daga arrojadizo",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 101 del manual básico</p>"
+        },
+        {
+            "id": "Throwing Spear/Javelin",
+            "name": "Javalina/lanza arrojadiza",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"104\" data-page-end=\"104\">&nbsp; Ver página 102 del manual básico</p>"
+        },
+        {
+            "id": "Tommy Gun (.45)",
+            "name": "Tommy Gun (.45)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"106\" data-page-end=\"106\">&nbsp; Ver página 104 del manual básico</p>"
+        },
+        {
+            "id": "Uzi (9mm)",
+            "name": "Uzi (9mm)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"106\" data-page-end=\"106\">&nbsp; Ver página 104 del manual básico</p>"
+        },
+        {
+            "id": "Warhammer",
+            "name": "Martillo de Guerra",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"103\" data-page-end=\"103\">&nbsp; Ver página 101 del manual básico</p>"
+        },
+        {
+            "id": "Winchester '73 (.44-40)",
+            "name": "Winchester '73 (.44-40)",
+            "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"107\" data-page-end=\"107\">&nbsp; Ver página 105 del manual básico</p>"
+        }
+    ]
+}

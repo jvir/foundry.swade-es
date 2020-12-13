@@ -1,5 +1,5 @@
 {
-	"label": "Habilidades",
+	"label": "Habilitats",
 	"mapping": {
         "description": "data.description",
         "notes": "data.notes"
@@ -7,168 +7,168 @@
 	"entries": [
 		{
 			"id": "Academics",
-			"name": "Humanidades",
-			"description": "Página 44 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"46\" data-page-end=\"47\"><i class=\"fas fa-book\"></i></span>"
+			"name": "Humanitats",
+			"description": "Pàgina 44 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"46\" data-page-end=\"47\"><i class=\"fas fa-book\"></i></span>"
         },
 		{
 			"id": "Athletics",
-			"name": "Atletismo",
-			"description": "Página 42 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"44\" data-page-end=\"44\"><i class=\"fas fa-book\"></i></span>"
+			"name": "Atletisme",
+			"description": "Pàgina 42 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"44\" data-page-end=\"44\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Battle",
-			"name": "Tácticas",
-			"description": "Página 53 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"55\" data-page-end=\"55\"><i class=\"fas fa-book\"></i></span>"
+			"name": "Tàctiques",
+			"description": "Pàgina 53 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"55\" data-page-end=\"55\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Boating",
 			"name": "Navegar",
-			"description": "Página 48 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"50\" data-page-end=\"50\"><i class=\"fas fa-book\"></i></span>"
+			"description": "Pàgina 48 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"50\" data-page-end=\"50\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Common Knowledge",
-			"name": "Conocimientos generales",
-			"description": "Página 44 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"46\" data-page-end=\"46\"><i class=\"fas fa-book\"></i></span>"
+			"name": "Coneixements generals",
+			"description": "Pàgina 44 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"46\" data-page-end=\"46\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Driving",
-			"name": "Conducir",
-			"description": "Página 44 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"46\" data-page-end=\"46\"><i class=\"fas fa-book\"></i></span>"
+			"name": "Conduir",
+			"description": "Pàgina 44 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"46\" data-page-end=\"46\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Electronics",
-			"name": "Electrónica",
-			"description": "Página 44 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"46\" data-page-end=\"46\"><i class=\"fas fa-book\"></i></span>"
+			"name": "Electrònica",
+			"description": "Pàgina 44 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"46\" data-page-end=\"46\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Faith",
 			"name": "Fe",
-			"description": "Página 44 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"46\" data-page-end=\"46\"><i class=\"fas fa-book\"></i></span>"
+			"description": "Pàgina 44 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"46\" data-page-end=\"46\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Fighting",
-			"name": "Pelear",
-			"description": "Página 49 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"51\" data-page-end=\"51\"><i class=\"fas fa-book\"></i></span>"
+			"name": "Lluita",
+			"description": "Pàgina 49 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"51\" data-page-end=\"51\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Focus",
 			"name": "Control",
-			"description": "Página 44 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"46\" data-page-end=\"46\"><i class=\"fas fa-book\"></i></span>"
+			"description": "Pàgina 44 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"46\" data-page-end=\"46\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Gambling",
 			"name": "Apostar",
-			"description": "Página 42 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"44\" data-page-end=\"44\"><i class=\"fas fa-book\"></i></span>"
+			"description": "Pàgina 42 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"44\" data-page-end=\"44\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Hacking",
-			"name": "Ordenadores",
-			"description": "Página 49 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"51\" data-page-end=\"51\"><i class=\"fas fa-book\"></i></span>"
+			"name": "Ordinadors",
+			"description": "Pàgina 49 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"51\" data-page-end=\"51\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Healing",
 			"name": "Medicina",
-			"description": "Página 48 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"50\" data-page-end=\"50\"><i class=\"fas fa-book\"></i></span>"
+			"description": "Pàgina 48 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"50\" data-page-end=\"50\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Intimidation",
 			"name": "Intimidar",
-			"description": "Página 46 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"48\" data-page-end=\"48\"><i class=\"fas fa-book\"></i></span>"
+			"description": "Pàgina 46 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"48\" data-page-end=\"48\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Language",
 			"name": "Idioma",
-			"description": "Página 45 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"47\" data-page-end=\"47\"><i class=\"fas fa-book\"></i></span>"
+			"description": "Pàgina 45 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"47\" data-page-end=\"47\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Notice",
 			"name": "Notar",
-			"description": "Página 48 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"50\" data-page-end=\"50\"><i class=\"fas fa-book\"></i></span>"
+			"description": "Pàgina 48 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"50\" data-page-end=\"50\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Occult",
-			"name": "Ocultismo",
-			"description": "Página 48 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"50\" data-page-end=\"50\"><i class=\"fas fa-book\"></i></span>"
+			"name": "Ocultisme",
+			"description": "Pàgina 48 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"50\" data-page-end=\"50\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Performance",
 			"name": "Interpretar",
-			"description": "Página 45 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"47\" data-page-end=\"47\"><i class=\"fas fa-book\"></i></span>"
+			"description": "Pàgina 45 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"47\" data-page-end=\"47\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Persuasion",
 			"name": "Persuadir",
-			"description": "Página 49 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"51\" data-page-end=\"51\"><i class=\"fas fa-book\"></i></span>"
+			"description": "Pàgina 49 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"51\" data-page-end=\"51\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Piloting",
 			"name": "Pilotar",
-			"description": "Página 50 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"52\" data-page-end=\"52\"><i class=\"fas fa-book\"></i></span>"
+			"description": "Pàgina 50 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"52\" data-page-end=\"52\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Psionics",
-			"name": "Psiónica",
-			"description": "Página 51 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"53\" data-page-end=\"53\"><i class=\"fas fa-book\"></i></span>"
+			"name": "Psiònica",
+			"description": "Pàgina 51 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"53\" data-page-end=\"53\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Repair",
 			"name": "Reparar",
-			"description": "Página 51 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"53\" data-page-end=\"53\"><i class=\"fas fa-book\"></i></span>"
+			"description": "Pàgina 51 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"53\" data-page-end=\"53\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Research",
 			"name": "Investigar",
-			"description": "Página 47 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"49\" data-page-end=\"49\"><i class=\"fas fa-book\"></i></span>"
+			"description": "Pàgina 47 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"49\" data-page-end=\"49\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Riding",
-			"name": "Cabalgar",
-			"description": "Página 42 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"44\" data-page-end=\"44\"><i class=\"fas fa-book\"></i></span>"
+			"name": "Cavalcar",
+			"description": "Pàgina 42 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"44\" data-page-end=\"44\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Science",
-			"name": "Ciencias",
-			"description": "Página 44 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"46\" data-page-end=\"46\"><i class=\"fas fa-book\"></i></span>"
+			"name": "Ciències",
+			"description": "Pàgina 44 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"46\" data-page-end=\"46\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Shooting",
 			"name": "Disparar",
-			"description": "Página 44 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"46\" data-page-end=\"46\"><i class=\"fas fa-book\"></i></span>"
+			"description": "Pàgina 44 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"46\" data-page-end=\"46\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Spellcasting",
-			"name": "Hechicería",
-			"description": "Página 44 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"46\" data-page-end=\"46\"><i class=\"fas fa-book\"></i></span>"
+			"name": "Fetilleria",
+			"description": "Pàgina 44 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"46\" data-page-end=\"46\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Stealth",
-			"name": "Sigilo",
-			"description": "Página 51 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"51\" data-page-end=\"51\"><i class=\"fas fa-book\"></i></span>"
+			"name": "Sigil",
+			"description": "Pàgina 51 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"51\" data-page-end=\"51\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Survival",
-			"name": "Supervivencia",
-			"description": "Página 53 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"55\" data-page-end=\"55\"><i class=\"fas fa-book\"></i></span>"
+			"name": "Supervivència",
+			"description": "Pàgina 53 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"55\" data-page-end=\"55\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Taunt",
 			"name": "Provocar",
-			"description": "Página 51 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"53\" data-page-end=\"53\"><i class=\"fas fa-book\"></i></span>"
+			"description": "Pàgina 51 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"53\" data-page-end=\"53\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Thievery",
-			"name": "Latrocinio",
-			"description": "Página 47 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"49\" data-page-end=\"49\"><i class=\"fas fa-book\"></i></span>"
+			"name": "Lladronicis",
+			"description": "Pàgina 47 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"49\" data-page-end=\"49\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Untrained",
-			"name": "Sin habilidad",
-			"description": "Página 125 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"125\" data-page-end=\"125\"><i class=\"fas fa-book\"></i></span>"
+			"name": "Sense Entrenar",
+			"description": "Pàgina 125 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"125\" data-page-end=\"125\"><i class=\"fas fa-book\"></i></span>"
 		},
 		{
 			"id": "Wierd Science",
-			"name": "Ciencia extraña",
-			"description": "Página 42 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"44\" data-page-end=\"44\"><i class=\"fas fa-book\"></i></span>"
+			"name": "Ciència estranya",
+			"description": "Pàgina 42 <span class=\"swade-book\" data-book=\"swade\" data-page-start=\"44\" data-page-end=\"44\"><i class=\"fas fa-book\"></i></span>"
 		}
 	]
 }

@@ -13,6 +13,11 @@ Hooks.once('init', () => {
                 lang: 'ca',
                 dir: 'compendium/ca'
             });
+            Babele.get().register({
+                module: 'swade-es',
+                lang: 'gl',
+                dir: 'compendium/gl'
+            });
             console.log("swade-es compendiums translate enabled");
 		}
 });

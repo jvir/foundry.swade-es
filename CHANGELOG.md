@@ -1,10 +1,16 @@
-## [0.9.4] - 2020-06-24
+## [0.12.0] - 2020-06-24
+
+### Añadido
+- Idioma Galego para el sistema
+- Compendios en Català
+
+## [0.11.0] - 2020-06-24
 
 ### Actualizado
 - Cadenas para la versión SWADE 0.15.0, primera versión Oficial de PEG.
 
 
-## [0.9.4] - 2020-06-24
+## [0.10.0] - 2020-06-24
 
 ### Añadido
 - Idioma Catalán para el sistema

@@ -6,673 +6,673 @@
   "entries": [
     {
       "id": "Rabble-Rouser",
-      "name": "Demagogo",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"79\" data-page-end=\"80\">&nbsp; Ver página 77 del manual básico<\/p>"
+      "name": "Demagog",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"79\" data-page-end=\"80\">&nbsp; Veure pàgina 77 del manual bàsic<\/p>"
     },
     {
       "id": "Scholar",
-      "name": "Erudito",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"76\" data-page-end=\"77\">&nbsp; Ver página 74 del manual básico<\/p>"
+      "name": "Erudit",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"76\" data-page-end=\"77\">&nbsp; Veure pàgina 74 del manual bàsic<\/p>"
     },
     {
       "id": "Combat Acrobat",
-      "name": "Acróbata Marcial",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"75\" data-page-end=\"76\">&nbsp; Ver página 73 del manual básico<\/p>"
+      "name": "Acròbata marcial",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"75\" data-page-end=\"76\">&nbsp; Veure pàgina 73 del manual bàsic<\/p>"
     },
     {
       "id": "Professional",
-      "name": "Profesional",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"74\" data-page-end=\"75\">&nbsp; Ver página 72 del manual básico<\/p>"
+      "name": "Professional",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"74\" data-page-end=\"75\">&nbsp; Veure pàgina 72 del manual bàsic<\/p>"
     },
     {
       "id": "Liquid Courage",
-      "name": "Coraje líquido",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"72\" data-page-end=\"73\">&nbsp; Ver página 70 del manual básico<\/p>"
+      "name": "Coratge líquid",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"72\" data-page-end=\"73\">&nbsp; Veure pàgina 70 del manual bàsic<\/p>"
     },
     {
       "id": "Famous",
-      "name": "Muy famoso",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"69\" data-page-end=\"70\">&nbsp; Ver página 67 del manual básico<\/p>"
+      "name": "Molt famós",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"69\" data-page-end=\"70\">&nbsp; Veure pàgina 67 del manual bàsic<\/p>"
     },
     {
       "id": "Berserk",
       "name": "Berserk",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"68\" data-page-end=\"69\">&nbsp; Ver página 66 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"68\" data-page-end=\"69\">&nbsp; Veure pàgina 66 del manual bàsic<\/p>"
     },
     {
       "id": "Alertness",
       "name": "Alerta",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"67\" data-page-end=\"68\">&nbsp; Ver página 65 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"67\" data-page-end=\"68\">&nbsp; Veure pàgina 65 del manual bàsic<\/p>"
     },
     {
       "id": "Mentalist",
       "name": "Mentalista",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"65\" data-page-end=\"66\">&nbsp; Ver página 63 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"65\" data-page-end=\"66\">&nbsp; Veure pàgina 63 del manual bàsic<\/p>"
     },
     {
       "id": "Extra Effort",
-      "name": "Esfuerzo extra",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"64\" data-page-end=\"65\">&nbsp; Ver página 62 del manual básico<\/p>"
+      "name": "Esforç extra",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"64\" data-page-end=\"65\">&nbsp; Veure pàgina 62 del manual bàsic<\/p>"
     },
     {
       "id": "Inspire",
-      "name": "Inspiración",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"62\" data-page-end=\"63\">&nbsp; Ver página 60 del manual básico<\/p>"
+      "name": "Inspiració",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"62\" data-page-end=\"63\">&nbsp; Veure pàgina 60 del manual bàsic<\/p>"
     },
     {
       "id": "Marksman",
-      "name": "Puntería",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"61\" data-page-end=\"62\">&nbsp; Ver página 59 del manual básico<\/p>"
+      "name": "Punteria",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"61\" data-page-end=\"62\">&nbsp; Veure pàgina 59 del manual bàsic<\/p>"
     },
     {
       "id": "Improved Frenzy",
-      "name": "Frenesí mejorado",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"59\" data-page-end=\"60\">&nbsp; Ver página 57 del manual básico<\/p>"
+      "name": "Frenesí millorat",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"59\" data-page-end=\"60\">&nbsp; Veure pàgina 57 del manual bàsic<\/p>"
     },
     {
       "id": "First Strike",
-      "name": "Ataque repentino",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"56\" data-page-end=\"57\">&nbsp; Ver página 54 del manual básico<\/p>"
+      "name": "Atac sobtat",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"56\" data-page-end=\"57\">&nbsp; Veure pàgina 54 del manual bàsic<\/p>"
     },
     {
       "id": "Trademark Weapon",
       "name": "Arma distintiva",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"56\" data-page-end=\"56\">&nbsp; Ver página 54 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"56\" data-page-end=\"56\">&nbsp; Veure pàgina 54 del manual bàsic<\/p>"
     },
     {
       "id": "Improved Trademark Weapon",
-      "name": "Arma distintiva mejorada",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"56\" data-page-end=\"56\">&nbsp; Ver página 54 del manual básico<\/p>"
+      "name": "Arma distintiva millorada",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"56\" data-page-end=\"56\">&nbsp; Veure pàgina 54 del manual bàsic<\/p>"
     },
     {
       "id": "Martial Artist",
       "name": "Artista marcial",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"56\" data-page-end=\"56\">&nbsp; Ver página 54 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"56\" data-page-end=\"56\">&nbsp; Veure pàgina 54 del manual bàsic<\/p>"
     },
     {
       "id": "Martial Warrior",
-      "name": "Artista marcial mejorado",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"56\" data-page-end=\"56\">&nbsp; Ver página 54 del manual básico<\/p>"
+      "name": "Artista marcial millorat",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"56\" data-page-end=\"56\">&nbsp; Veure pàgina 54 del manual bàsic<\/p>"
     },
     {
       "id": "Improved First Strike",
-      "name": "Ataque repentino mejorado",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"57\" data-page-end=\"57\">&nbsp; Ver página 55 del manual básico<\/p>"
+      "name": "Atac sobtat millorat",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"57\" data-page-end=\"57\">&nbsp; Veure pàgina 55 del manual bàsic<\/p>"
     },
     {
       "id": "Sweep",
-      "name": "Barrido",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"57\" data-page-end=\"57\">&nbsp; Ver página 55 del manual básico<\/p>"
+      "name": "Escombrada",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"57\" data-page-end=\"57\">&nbsp; Veure pàgina 55 del manual bàsic<\/p>"
     },
     {
       "id": "Improved Sweep",
-      "name": "Barrido mejorado",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"57\" data-page-end=\"57\">&nbsp; Ver página 55 del manual básico<\/p>"
+      "name": "Escombrada millorada",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"57\" data-page-end=\"57\">&nbsp; Veure pàgina 55 del manual bàsic<\/p>"
     },
     {
       "id": "Block",
-      "name": "Bloqueo",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"57\" data-page-end=\"57\">&nbsp; Ver página 55 del manual básico<\/p>"
+      "name": "Bloqueig",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"57\" data-page-end=\"57\">&nbsp; Veure pàgina 55 del manual bàsic<\/p>"
     },
     {
       "id": "Improved Block",
-      "name": "Bloqueo mejorado",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"57\" data-page-end=\"57\">&nbsp; Ver página 55 del manual básico<\/p>"
+      "name": "Bloqueig millorat",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"57\" data-page-end=\"57\">&nbsp; Veure pàgina 55 del manual bàsic<\/p>"
     },
     {
       "id": "Calculating",
       "name": "Calculador",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"57\" data-page-end=\"57\">&nbsp; Ver página 55 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"57\" data-page-end=\"57\">&nbsp; Veure pàgina 55 del manual bàsic<\/p>"
     },
     {
       "id": "Two-Fisted",
-      "name": "Con un par",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"57\" data-page-end=\"57\">&nbsp; Ver página 55 del manual básico<\/p>"
+      "name": "Amb un parell",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"57\" data-page-end=\"57\">&nbsp; Veure pàgina 55 del manual bàsic<\/p>"
     },
     {
       "id": "Harder To Kill",
-      "name": "Aún más difícil de matar",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"58\" data-page-end=\"58\">&nbsp; Ver página 56 del manual básico<\/p>"
+      "name": "Encara més difícil de matar",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"58\" data-page-end=\"58\">&nbsp; Veure pàgina 56 del manual bàsic<\/p>"
     },
     {
       "id": "Counterattack",
-      "name": "Contraataque",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"58\" data-page-end=\"58\">&nbsp; Ver página 56 del manual básico<\/p>"
+      "name": "Contraatac",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"58\" data-page-end=\"58\">&nbsp; Veure pàgina 56 del manual bàsic<\/p>"
     },
     {
       "id": "Improved Counterattack",
-      "name": "Contraataque mejorado",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"58\" data-page-end=\"58\">&nbsp; Ver página 56 del manual básico<\/p>"
+      "name": "Contraatac millorat",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"58\" data-page-end=\"58\">&nbsp; Veure pàgina 56 del manual bàsic<\/p>"
     },
     {
       "id": "Hard To Kill",
       "name": "Difícil de matar",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"58\" data-page-end=\"58\">&nbsp; Ver página 56 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"58\" data-page-end=\"58\">&nbsp; Veure pàgina 56 del manual bàsic<\/p>"
     },
     {
       "id": "Double Tap",
-      "name": "Disparo doble",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"58\" data-page-end=\"58\">&nbsp; Ver página 56 del manual básico<\/p>"
+      "name": "Tret doble",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"58\" data-page-end=\"58\">&nbsp; Veure pàgina 56 del manual bàsic<\/p>"
     },
     {
       "id": "Dead Shot",
-      "name": "Disparo mortal",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"59\" data-page-end=\"59\">&nbsp; Ver página 57 del manual básico<\/p>"
+      "name": "Tret mortal",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"59\" data-page-end=\"59\">&nbsp; Veure pàgina 57 del manual bàsic<\/p>"
     },
     {
       "id": "Rapid Fire",
-      "name": "Disparo rápido",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"59\" data-page-end=\"59\">&nbsp; Ver página 57 del manual básico<\/p>"
+      "name": "Tret ràpid",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"59\" data-page-end=\"59\">&nbsp; Veure pàgina 57 del manual bàsic<\/p>"
     },
     {
       "id": "Improved Rapid Fire",
-      "name": "Disparo rápido mejorado",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"59\" data-page-end=\"59\">&nbsp; Ver página 57 del manual básico<\/p>"
+      "name": "Tret ràpid millorat",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"59\" data-page-end=\"59\">&nbsp; Veure pàgina 57 del manual bàsic<\/p>"
     },
     {
       "id": "Dodge",
       "name": "Esquiva",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"59\" data-page-end=\"59\">&nbsp; Ver página 57 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"59\" data-page-end=\"59\">&nbsp; Veure pàgina 57 del manual bàsic<\/p>"
     },
     {
       "id": "Improved Dodge",
-      "name": "Esquiva mejorada",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"59\" data-page-end=\"59\">&nbsp; Ver página 57 del manual básico<\/p>"
+      "name": "Esquiva millorada",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"59\" data-page-end=\"59\">&nbsp; Veure pàgina 57 del manual bàsic<\/p>"
     },
     {
       "id": "Feint",
       "name": "Finta",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"59\" data-page-end=\"59\">&nbsp; Ver página 57 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"59\" data-page-end=\"59\">&nbsp; Veure pàgina 57 del manual bàsic<\/p>"
     },
     {
       "id": "Frenzy",
       "name": "Frenesí",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"59\" data-page-end=\"59\">&nbsp; Ver página 57 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"59\" data-page-end=\"59\">&nbsp; Veure pàgina 57 del manual bàsic<\/p>"
     },
     {
       "id": "Extraction",
-      "name": "Fuga",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"60\" data-page-end=\"60\">&nbsp; Ver página 58 del manual básico<\/p>"
+      "name": "Fugida",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"60\" data-page-end=\"60\">&nbsp; Veure pàgina 58 del manual bàsic<\/p>"
     },
     {
       "id": "Improved Extraction",
-      "name": "Fuga mejorada",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"60\" data-page-end=\"60\">&nbsp; Ver página 58 del manual básico<\/p>"
+      "name": "Fugida millorada",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"60\" data-page-end=\"60\">&nbsp; Veure pàgina 58 del manual bàsic<\/p>"
     },
     {
       "id": "Mighty Blow",
-      "name": "Golpe poderoso",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"60\" data-page-end=\"60\">&nbsp; Ver página 58 del manual básico<\/p>"
+      "name": "Cop poderós",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"60\" data-page-end=\"60\">&nbsp; Veure pàgina 58 del manual bàsic<\/p>"
     },
     {
       "id": "Improvisational Fighter",
-      "name": "Improvisación",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"60\" data-page-end=\"60\">&nbsp; Ver página 58 del manual básico<\/p>"
+      "name": "Improvisació",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"60\" data-page-end=\"60\">&nbsp; Veure pàgina 58 del manual bàsic<\/p>"
     },
     {
       "id": "Killer Instinct",
-      "name": "Instinto asesino",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"60\" data-page-end=\"60\">&nbsp; Ver página 58 del manual básico<\/p>"
+      "name": "Instint assassí",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"60\" data-page-end=\"60\">&nbsp; Veure pàgina 58 del manual bàsic<\/p>"
     },
     {
       "id": "Two-Gun Kid",
-      "name": "Kid dos pistolas",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"60\" data-page-end=\"60\">&nbsp; Ver página 58 del manual básico<\/p>"
+      "name": "Kid dues pistoles",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"60\" data-page-end=\"60\">&nbsp; Veure pàgina 58 del manual bàsic<\/p>"
     },
     {
       "id": "Iron Jaw",
-      "name": "Mandibula de hierro",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"60\" data-page-end=\"60\">&nbsp; Ver página 58 del manual básico<\/p>"
+      "name": "Mandíbula de ferro",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"60\" data-page-end=\"60\">&nbsp; Veure pàgina 58 del manual bàsic<\/p>"
     },
     {
       "id": "Steady Hands",
-      "name": "Manos firmes",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"60\" data-page-end=\"60\">&nbsp; Ver página 58 del manual básico<\/p>"
+      "name": "Mans fermes",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"60\" data-page-end=\"60\">&nbsp; Veure pàgina 58 del manual bàsic<\/p>"
     },
     {
       "id": "Bruiser",
       "name": "Gorila",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"61\" data-page-end=\"61\">&nbsp; Ver página 59 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"61\" data-page-end=\"61\">&nbsp; Veure pàgina 59 del manual bàsic<\/p>"
     },
     {
       "id": "Giant Killer",
-      "name": "Matagigantes",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"61\" data-page-end=\"61\">&nbsp; Ver página 59 del manual básico<\/p>"
+      "name": "Matagegants",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"61\" data-page-end=\"61\">&nbsp; Veure pàgina 59 del manual bàsic<\/p>"
     },
     {
       "id": "Brawler",
-      "name": "Matón",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"61\" data-page-end=\"61\">&nbsp; Ver página 59 del manual básico<\/p>"
+      "name": "Perdonavides",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"61\" data-page-end=\"61\">&nbsp; Veure pàgina 59 del manual bàsic<\/p>"
     },
     {
       "id": "Nerves of Steel",
-      "name": "Nervios de acero",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"61\" data-page-end=\"61\">&nbsp; Ver página 59 del manual básico<\/p>"
+      "name": "Nervis d'acer",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"61\" data-page-end=\"61\">&nbsp; Veure pàgina 59 del manual bàsic<\/p>"
     },
     {
       "id": "Improved Nerves of Steel",
-      "name": "Nervios de acero mejorados",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"61\" data-page-end=\"61\">&nbsp; Ver página 59 del manual básico<\/p>"
+      "name": "Nervis d'acer millorats",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"61\" data-page-end=\"61\">&nbsp; Veure pàgina 59 del manual bàsic<\/p>"
     },
     {
       "id": "Free Runner",
       "name": "Parkour",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"61\" data-page-end=\"61\">&nbsp; Ver página 59 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"61\" data-page-end=\"61\">&nbsp; Veure pàgina 59 del manual bàsic<\/p>"
     },
     {
       "id": "Rock and Roll!",
       "name": "¡Rock'n'Roll!",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"62\" data-page-end=\"62\">&nbsp; Ver página 60 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"62\" data-page-end=\"62\">&nbsp; Veure pàgina 60 del manual bàsic<\/p>"
     },
     {
       "id": "Fervor",
       "name": "Fervor",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"62\" data-page-end=\"62\">&nbsp; Ver página 60 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"62\" data-page-end=\"62\">&nbsp; Veure pàgina 60 del manual bàsic<\/p>"
     },
     {
       "id": "Combat Reflexes",
-      "name": "Reflejos de combate",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"62\" data-page-end=\"62\">&nbsp; Ver página 60 del manual básico<\/p>"
+      "name": "Reflexes de combat",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"62\" data-page-end=\"62\">&nbsp; Veure pàgina 60 del manual bàsic<\/p>"
     },
     {
       "id": "No Mercy",
-      "name": "Sin piedad",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"62\" data-page-end=\"62\">&nbsp; Ver página 60 del manual básico<\/p>"
+      "name": "Sense pietat",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"62\" data-page-end=\"62\">&nbsp; Veure pàgina 60 del manual bàsic<\/p>"
     },
     {
       "id": "Level Headed",
       "name": "Temple",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"62\" data-page-end=\"62\">&nbsp; Ver página 60 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"62\" data-page-end=\"62\">&nbsp; Veure pàgina 60 del manual bàsic<\/p>"
     },
     {
       "id": "Imrpoved Level Headed",
-      "name": "Temple mejorado",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"62\" data-page-end=\"62\">&nbsp; Ver página 60 del manual básico<\/p>"
+      "name": "Temple millorat",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"62\" data-page-end=\"62\">&nbsp; Veure pàgina 60 del manual bàsic<\/p>"
     },
     {
       "id": "Hold The Line!",
-      "name": "¡Mantened la formación!",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"63\" data-page-end=\"63\">&nbsp; Ver página 61 del manual básico<\/p>"
+      "name": "Mantingueu la formació!",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"63\" data-page-end=\"63\">&nbsp; Veure pàgina 61 del manual bàsic<\/p>"
     },
     {
       "id": "Natural Leader",
-      "name": "Líder nato",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"63\" data-page-end=\"63\">&nbsp; Ver página 61 del manual básico<\/p>"
+      "name": "Líder nat",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"63\" data-page-end=\"63\">&nbsp; Veure pàgina 61 del manual bàsic<\/p>"
     },
     {
       "id": "Command",
-      "name": "Mando",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"63\" data-page-end=\"63\">&nbsp; Ver página 61 del manual básico<\/p>"
+      "name": "Comandament",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"63\" data-page-end=\"63\">&nbsp; Veure pàgina 61 del manual bàsic<\/p>"
     },
     {
       "id": "Command Presence",
-      "name": "Presencia de mando",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"63\" data-page-end=\"63\">&nbsp; Ver página 61 del manual básico<\/p>"
+      "name": "Presència de comandament",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"63\" data-page-end=\"63\">&nbsp; Veure pàgina 61 del manual bàsic<\/p>"
     },
     {
       "id": "Tactician",
-      "name": "Táctico",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"63\" data-page-end=\"63\">&nbsp; Ver página 61 del manual básico<\/p>"
+      "name": "Tàctic",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"63\" data-page-end=\"63\">&nbsp; Veure pàgina 61 del manual bàsic<\/p>"
     },
     {
       "id": "Master Tactician",
-      "name": "Táctico, genio",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"63\" data-page-end=\"63\">&nbsp; Ver página 61 del manual básico<\/p>"
+      "name": "Tàctic, geni",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"63\" data-page-end=\"63\">&nbsp; Veure pàgina 61 del manual bàsic<\/p>"
     },
     {
       "id": "Artificer",
-      "name": "Artífice",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"64\" data-page-end=\"64\">&nbsp; Ver página 62 del manual básico<\/p>"
+      "name": "Artífex",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"64\" data-page-end=\"64\">&nbsp; Veure pàgina 62 del manual bàsic<\/p>"
     },
     {
       "id": "Channeling",
-      "name": "Canalización",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"64\" data-page-end=\"64\">&nbsp; Ver página 62 del manual básico<\/p>"
+      "name": "Canalització",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"64\" data-page-end=\"64\">&nbsp; Veure pàgina 62 del manual bàsic<\/p>"
     },
     {
       "id": "Concentration",
-      "name": "Concentración",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"64\" data-page-end=\"64\">&nbsp; Ver página 62 del manual básico<\/p>"
+      "name": "Concentració",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"64\" data-page-end=\"64\">&nbsp; Veure pàgina 62 del manual bàsic<\/p>"
     },
     {
       "id": "Soul Drain",
-      "name": "Drenar el alma",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"64\" data-page-end=\"64\">&nbsp; Ver página 62 del manual básico<\/p>"
+      "name": "Drenar l'ànima",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"64\" data-page-end=\"64\">&nbsp; Veure pàgina 62 del manual bàsic<\/p>"
     },
     {
       "id": "Holy/Unholy Warrior",
-      "name": "Guerrero sagrado/impío",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"65\" data-page-end=\"65\">&nbsp; Ver página 63 del manual básico<\/p>"
+      "name": "Guerrer sagrat/impiu",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"65\" data-page-end=\"65\">&nbsp; Veure pàgina 63 del manual bàsic<\/p>"
     },
     {
       "id": "Gadgeteer",
       "name": "Inventor",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"65\" data-page-end=\"65\">&nbsp; Ver página 63 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"65\" data-page-end=\"65\">&nbsp; Veure pàgina 63 del manual bàsic<\/p>"
     },
     {
       "id": "Wizard",
-      "name": "Mago",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"65\" data-page-end=\"65\">&nbsp; Ver página 63 del manual básico<\/p>"
+      "name": "Mag",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"65\" data-page-end=\"65\">&nbsp; Veure pàgina 63 del manual bàsic<\/p>"
     },
     {
       "id": "New Powers",
-      "name": "Nuevos Poderes",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"66\" data-page-end=\"66\">&nbsp; Ver página 64 del manual básico<\/p>"
+      "name": "Nous Poders",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"66\" data-page-end=\"66\">&nbsp; Veure pàgina 64 del manual bàsic<\/p>"
     },
     {
       "id": "Power Points",
-      "name": "Puntos de poder",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"66\" data-page-end=\"66\">&nbsp; Ver página 64 del manual básico<\/p>"
+      "name": "Punts de poder",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"66\" data-page-end=\"66\">&nbsp; Veure pàgina 64 del manual bàsic<\/p>"
     },
     {
       "id": "Rapid Recharge",
-      "name": "Recuperación rápida",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"66\" data-page-end=\"66\">&nbsp; Ver página 64 del manual básico<\/p>"
+      "name": "Recuperació ràpida",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"66\" data-page-end=\"66\">&nbsp; Veure pàgina 64 del manual bàsic<\/p>"
     },
     {
       "id": "Improved Rapid Recharge",
-      "name": "Recuperación rápida mejorada",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"66\" data-page-end=\"66\">&nbsp; Ver página 64 del manual básico<\/p>"
+      "name": "Recuperació ràpida millorada",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"66\" data-page-end=\"66\">&nbsp; Veure pàgina 64 del manual bàsic<\/p>"
     },
     {
       "id": "Power Surge",
-      "name": "Súbidon de poder",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"66\" data-page-end=\"66\">&nbsp; Ver página 64 del manual básico<\/p>"
+      "name": "Pujada de poder",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"66\" data-page-end=\"66\">&nbsp; Veure pàgina 64 del manual bàsic<\/p>"
     },
     {
       "id": "Luck",
-      "name": "Afortunado",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"67\" data-page-end=\"67\">&nbsp; Ver página 65 del manual básico<\/p>"
+      "name": "Afortunat",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"67\" data-page-end=\"67\">&nbsp; Veure pàgina 65 del manual bàsic<\/p>"
     },
     {
       "id": "Aristocrat",
-      "name": "Alcurnia",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"67\" data-page-end=\"67\">&nbsp; Ver página 65 del manual básico<\/p>"
+      "name": "Llinatge",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"67\" data-page-end=\"67\">&nbsp; Veure pàgina 65 del manual bàsic<\/p>"
     },
     {
       "id": "Great Luck",
-      "name": "Muy afortunado",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"67\" data-page-end=\"67\">&nbsp; Ver página 65 del manual básico<\/p>"
+      "name": "Molt afortunat",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"67\" data-page-end=\"67\">&nbsp; Veure pàgina 65 del manual bàsic<\/p>"
     },
     {
       "id": "Ambidextrous",
-      "name": "Ambidextro",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"68\" data-page-end=\"68\">&nbsp; Ver página 66 del manual básico<\/p>"
+      "name": "Ambidextre",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"68\" data-page-end=\"68\">&nbsp; Veure pàgina 66 del manual bàsic<\/p>"
     },
     {
       "id": "Elan",
       "name": "Ardor",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"68\" data-page-end=\"68\">&nbsp; Ver página 66 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"68\" data-page-end=\"68\">&nbsp; Veure pàgina 66 del manual bàsic<\/p>"
     },
     {
       "id": "Attractive",
-      "name": "Atractivo",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"68\" data-page-end=\"68\">&nbsp; Ver página 66 del manual básico<\/p>"
+      "name": "Atractiu",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"68\" data-page-end=\"68\">&nbsp; Veure pàgina 66 del manual bàsic<\/p>"
     },
     {
       "id": "Very Attractive",
-      "name": "Muy Atractivo",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"68\" data-page-end=\"68\">&nbsp; Ver página 66 del manual básico<\/p>"
+      "name": "Molt atractiu",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"68\" data-page-end=\"68\">&nbsp; Veure pàgina 66 del manual bàsic<\/p>"
     },
     {
       "id": "Brute",
       "name": "Bestia",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"69\" data-page-end=\"69\">&nbsp; Ver página 67 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"69\" data-page-end=\"69\">&nbsp; Veure pàgina 67 del manual bàsic<\/p>"
     },
     {
       "id": "Charismatic",
-      "name": "Carismático",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"69\" data-page-end=\"69\">&nbsp; Ver página 67 del manual básico<\/p>"
+      "name": "Carismàtic",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"69\" data-page-end=\"69\">&nbsp; Veure pàgina 67 del manual bàsic<\/p>"
     },
     {
       "id": "Fast Healer",
-      "name": "Curación rapida",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"69\" data-page-end=\"69\">&nbsp; Ver página 67 del manual básico<\/p>"
+      "name": "Curació ràpida",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"69\" data-page-end=\"69\">&nbsp; Veure pàgina 67 del manual bàsic<\/p>"
     },
     {
       "id": "Fame",
-      "name": "Famoso",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"69\" data-page-end=\"69\">&nbsp; Ver página 67 del manual básico<\/p>"
+      "name": "Famós",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"69\" data-page-end=\"69\">&nbsp; Veure pàgina 67 del manual bàsic<\/p>"
     },
     {
       "id": "Brawny",
-      "name": "Fornido",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"70\" data-page-end=\"70\">&nbsp; Ver página 68 del manual básico<\/p>"
+      "name": "Fornid",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"70\" data-page-end=\"70\">&nbsp; Veure pàgina 68 del manual bàsic<\/p>"
     },
     {
       "id": "Linguist",
       "name": "Lingüista",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"70\" data-page-end=\"70\">&nbsp; Ver página 68 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"70\" data-page-end=\"70\">&nbsp; Veure pàgina 68 del manual bàsic<\/p>"
     },
     {
       "id": "Brave",
-      "name": "Osado",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"70\" data-page-end=\"70\">&nbsp; Ver página 68 del manual básico<\/p>"
+      "name": "Agosarat ",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"70\" data-page-end=\"70\">&nbsp; Veure pàgina 68 del manual bàsic<\/p>"
     },
     {
       "id": "Fleet-Footed",
-      "name": "Pies ligeros",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"70\" data-page-end=\"70\">&nbsp; Ver página 68 del manual básico<\/p>"
+      "name": "Peus lleugers",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"70\" data-page-end=\"70\">&nbsp; Veure pàgina 68 del manual bàsic<\/p>"
     },
     {
       "id": "Quick",
-      "name": "Rápido",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"70\" data-page-end=\"70\">&nbsp; Ver página 68 del manual básico<\/p>"
+      "name": "Ràpid",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"70\" data-page-end=\"70\">&nbsp; Veure pàgina 68 del manual bàsic<\/p>"
     },
     {
       "id": "Arcane Resistance",
-      "name": "Resistencia arcana",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"70\" data-page-end=\"70\">&nbsp; Ver página 68 del manual básico<\/p>"
+      "name": "Resistència arcana",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"70\" data-page-end=\"70\">&nbsp; Veure pàgina 68 del manual bàsic<\/p>"
     },
     {
       "id": "Improved Arcane Resistance",
-      "name": "Resistencia arcana mejorada",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"70\" data-page-end=\"70\">&nbsp; Ver página 68 del manual básico<\/p>"
+      "name": "Resistència arcana millorada",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"70\" data-page-end=\"70\">&nbsp; Veure pàgina 68 del manual bàsic<\/p>"
     },
     {
       "id": "Filthy Rich",
-      "name": "Asquerosamente Rico",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"71\" data-page-end=\"71\">&nbsp; Ver página 69 del manual básico<\/p>"
+      "name": "Fastigosament ric",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"71\" data-page-end=\"71\">&nbsp; Veure pàgina 69 del manual bàsic<\/p>"
     },
     {
       "id": "Rich",
-      "name": "Rico",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"71\" data-page-end=\"71\">&nbsp; Ver página 69 del manual básico<\/p>"
+      "name": "Ric",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"71\" data-page-end=\"71\">&nbsp; Veure pàgina 69 del manual bàsic<\/p>"
     },
     {
       "id": "Arcane Background",
-      "name": "Trasfondo arcano",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"71\" data-page-end=\"71\">&nbsp; Ver página 69 del manual básico<\/p>"
+      "name": "Rerefons arcà",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"71\" data-page-end=\"71\">&nbsp; Veure pàgina 69 del manual bàsic<\/p>"
     },
     {
       "id": "Scavenger",
       "name": "Acaparador",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"72\" data-page-end=\"72\">&nbsp; Ver página 70 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"72\" data-page-end=\"72\">&nbsp; Veure pàgina 70 del manual bàsic<\/p>"
     },
     {
       "id": "Champion",
-      "name": "Campeón",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"72\" data-page-end=\"72\">&nbsp; Ver página 70 del manual básico<\/p>"
+      "name": "Campió",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"72\" data-page-end=\"72\">&nbsp; Veure pàgina 70 del manual bàsic<\/p>"
     },
     {
       "id": "Chi",
-      "name": "Chi",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"72\" data-page-end=\"72\">&nbsp; Ver página 70 del manual básico<\/p>"
+      "name": "Txi",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"72\" data-page-end=\"72\">&nbsp; Veure pàgina 70 del manual bàsic<\/p>"
     },
     {
       "id": "Healer",
       "name": "Curandero",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"73\" data-page-end=\"73\">&nbsp; Ver página 71 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"73\" data-page-end=\"73\">&nbsp; Veure pàgina 71 del manual bàsic<\/p>"
     },
     {
       "id": "Danger Sense",
-      "name": "Sentir el peligro",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"73\" data-page-end=\"73\">&nbsp; Ver página 71 del manual básico<\/p>"
+      "name": "Sentir el perill",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"73\" data-page-end=\"73\">&nbsp; Veure pàgina 71 del manual bàsic<\/p>"
     },
     {
       "id": "Beast Master",
-      "name": "Señor de las bestias",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"73\" data-page-end=\"73\">&nbsp; Ver página 71 del manual básico<\/p>"
+      "name": "Senyor de les besties",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"73\" data-page-end=\"73\">&nbsp; Veure pàgina 71 del manual bàsic<\/p>"
     },
     {
       "id": "Beast Bond",
-      "name": "Vínculo animal",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"73\" data-page-end=\"73\">&nbsp; Ver página 71 del manual básico<\/p>"
+      "name": "Vincle animal",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"73\" data-page-end=\"73\">&nbsp; Veure pàgina 71 del manual bàsic<\/p>"
     },
     {
       "id": "Sidekick",
-      "name": "Ayudante",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"74\" data-page-end=\"74\">&nbsp; Ver página 72 del manual básico<\/p>"
+      "name": "Ajudant",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"74\" data-page-end=\"74\">&nbsp; Veure pàgina 72 del manual bàsic<\/p>"
     },
     {
       "id": "Tough As Nails",
-      "name": "Hueso duro de roer",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"74\" data-page-end=\"74\">&nbsp; Ver página 72 del manual básico<\/p>"
+      "name": "Os dur de rosegar",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"74\" data-page-end=\"74\">&nbsp; Veure pàgina 72 del manual bàsic<\/p>"
     },
     {
       "id": "Tougher Than Nails",
-      "name": "Hueso muy duro de roer",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"74\" data-page-end=\"74\">&nbsp; Ver página 72 del manual básico<\/p>"
+      "name": "Os molt dur de rosegar",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"74\" data-page-end=\"74\">&nbsp; Veure pàgina 72 del manual bàsic<\/p>"
     },
     {
       "id": "Weapon Master",
-      "name": "Maestro de armas",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"74\" data-page-end=\"74\">&nbsp; Ver página 72 del manual básico<\/p>"
+      "name": "Mestre d'armes",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"74\" data-page-end=\"74\">&nbsp; Veure pàgina 72 del manual bàsic<\/p>"
     },
     {
       "id": "Master of Arms",
-      "name": "Maestro de armas mejorado",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"74\" data-page-end=\"74\">&nbsp; Ver página 72 del manual básico<\/p>"
+      "name": "Mestre d'armes millorat",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"74\" data-page-end=\"74\">&nbsp; Veure pàgina 72 del manual bàsic<\/p>"
     },
     {
       "id": "Acrobat",
-      "name": "Acrobata",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"75\" data-page-end=\"75\">&nbsp; Ver página 73 del manual básico<\/p>"
+      "name": "Acròbata",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"75\" data-page-end=\"75\">&nbsp; Veure pàgina 73 del manual bàsic<\/p>"
     },
     {
       "id": "Expert",
-      "name": "Experto",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"75\" data-page-end=\"75\">&nbsp; Ver página 73 del manual básico<\/p>"
+      "name": "Expert",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"75\" data-page-end=\"75\">&nbsp; Veure pàgina 73 del manual bàsic<\/p>"
     },
     {
       "id": "Master",
-      "name": "Maestro",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"75\" data-page-end=\"75\">&nbsp; Ver página 73 del manual básico<\/p>"
+      "name": "Mestre",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"75\" data-page-end=\"75\">&nbsp; Veure pàgina 73 del manual bàsic<\/p>"
     },
     {
       "id": "Followers",
-      "name": "Seguidores",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"75\" data-page-end=\"75\">&nbsp; Ver página 73 del manual básico<\/p>"
+      "name": "Seguidors",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"75\" data-page-end=\"75\">&nbsp; Veure pàgina 73 del manual bàsic<\/p>"
     },
     {
       "id": "Ace",
       "name": "As",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"76\" data-page-end=\"76\">&nbsp; Ver página 74 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"76\" data-page-end=\"76\">&nbsp; Veure pàgina 74 del manual bàsic<\/p>"
     },
     {
       "id": "Assasin",
-      "name": "Asesino",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"76\" data-page-end=\"76\">&nbsp; Ver página 74 del manual básico<\/p>"
+      "name": "Assasí",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"76\" data-page-end=\"76\">&nbsp; Veure pàgina 74 del manual bàsic<\/p>"
     },
     {
       "id": "Jack-of-all-Trades",
-      "name": "Hombre de recursos",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"77\" data-page-end=\"77\">&nbsp; Ver página 75 del manual básico<\/p>"
+      "name": "Home de recursos",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"77\" data-page-end=\"77\">&nbsp; Veure pàgina 75 del manual bàsic<\/p>"
     },
     {
       "id": "Investigator",
       "name": "Investigador",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"77\" data-page-end=\"77\">&nbsp; Ver página 75 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"77\" data-page-end=\"77\">&nbsp; Veure pàgina 75 del manual bàsic<\/p>"
     },
     {
       "id": "Thief",
-      "name": "Ladrón",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"77\" data-page-end=\"77\">&nbsp; Ver página 75 del manual básico<\/p>"
+      "name": "Lladre",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"77\" data-page-end=\"77\">&nbsp; Veure pàgina 75 del manual bàsic<\/p>"
     },
     {
       "id": "Woodsman",
-      "name": "Leñador",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"78\" data-page-end=\"78\">&nbsp; Ver página 76 del manual básico<\/p>"
+      "name": "Llenyataire",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"78\" data-page-end=\"78\">&nbsp; Veure pàgina 76 del manual bàsic<\/p>"
     },
     {
       "id": "McGyver",
       "name": "McGyver",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"78\" data-page-end=\"78\">&nbsp; Ver página 76 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"78\" data-page-end=\"78\">&nbsp; Veure pàgina 76 del manual bàsic<\/p>"
     },
     {
       "id": "Mr. Fix It",
-      "name": "Mr. Arreglalotodo",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"78\" data-page-end=\"78\">&nbsp; Ver página 76 del manual básico<\/p>"
+      "name": "Senyor Manetes",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"78\" data-page-end=\"78\">&nbsp; Veure pàgina 76 del manual bàsic<\/p>"
     },
     {
       "id": "Soldier",
-      "name": "Soldado",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"78\" data-page-end=\"78\">&nbsp; Ver página 76 del manual básico<\/p>"
+      "name": "Soldat",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"78\" data-page-end=\"78\">&nbsp; Veure pàgina 76 del manual bàsic<\/p>"
     },
     {
       "id": "Menacing",
-      "name": "Amenazador",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"79\" data-page-end=\"79\">&nbsp; Ver página 77 del manual básico<\/p>"
+      "name": "Amenaçador",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"79\" data-page-end=\"79\">&nbsp; Veure pàgina 77 del manual bàsic<\/p>"
     },
     {
       "id": "Bolster",
       "name": "Animar",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"79\" data-page-end=\"79\">&nbsp; Ver página 77 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"79\" data-page-end=\"79\">&nbsp; Veure pàgina 77 del manual bàsic<\/p>"
     },
     {
       "id": "Streetwise",
-      "name": "Callejear",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"79\" data-page-end=\"79\">&nbsp; Ver página 77 del manual básico<\/p>"
+      "name": "Fill del carrer",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"79\" data-page-end=\"79\">&nbsp; Veure pàgina 77 del manual bàsic<\/p>"
     },
     {
       "id": "Connections",
-      "name": "Conexiones",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"79\" data-page-end=\"79\">&nbsp; Ver página 77 del manual básico<\/p>"
+      "name": "Connexions",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"79\" data-page-end=\"79\">&nbsp; Veure pàgina 77 del manual bàsic<\/p>"
     },
     {
       "id": "Strong Willed",
-      "name": "Fuerza de voluntad",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"80\" data-page-end=\"80\">&nbsp; Ver página 78 del manual básico<\/p>"
+      "name": "Força de voluntat",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"80\" data-page-end=\"80\">&nbsp; Veure pàgina 78 del manual bàsic<\/p>"
     },
     {
       "id": "Humiliate",
-      "name": "Humillar",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"80\" data-page-end=\"80\">&nbsp; Ver página 78 del manual básico<\/p>"
+      "name": "Humiliar",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"80\" data-page-end=\"80\">&nbsp; Veure pàgina 78 del manual bàsic<\/p>"
     },
     {
       "id": "Provoke",
       "name": "Ofuscar",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"80\" data-page-end=\"80\">&nbsp; Ver página 78 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"80\" data-page-end=\"80\">&nbsp; Veure pàgina 78 del manual bàsic<\/p>"
     },
     {
       "id": "Retort",
       "name": "Replicar",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"80\" data-page-end=\"80\">&nbsp; Ver página 78 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"80\" data-page-end=\"80\">&nbsp; Veure pàgina 78 del manual bàsic<\/p>"
     },
     {
       "id": "Reliable",
       "name": "Responsable",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"80\" data-page-end=\"80\">&nbsp; Ver página 78 del manual básico<\/p>"
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"80\" data-page-end=\"80\">&nbsp; Veure pàgina 78 del manual bàsic<\/p>"
     },
     {
       "id": "Iron Will",
-      "name": "Voluntad de hierro",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"80\" data-page-end=\"80\">&nbsp; Ver página 78 del manual básico<\/p>"
+      "name": "Voluntat de ferro",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"80\" data-page-end=\"80\">&nbsp; Veure pàgina 78 del manual bàsic<\/p>"
     },
     {
       "id": "Common Bond",
-      "name": "Vínculo",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"81\" data-page-end=\"81\">&nbsp; Ver página 79 del manual básico<\/p>"
+      "name": "Vincle",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"81\" data-page-end=\"81\">&nbsp; Veure pàgina 79 del manual bàsic<\/p>"
     },
     {
       "id": "Work The Crowd",
-      "name": "Voz muy potente",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"81\" data-page-end=\"81\">&nbsp; Ver página 79 del manual básico<\/p>"
+      "name": "Veu molt potent",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"81\" data-page-end=\"81\">&nbsp; Veure pàgina 79 del manual bàsic<\/p>"
     },
     {
       "id": "Work The Room",
-      "name": "Voz potente",
-      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"81\" data-page-end=\"81\">&nbsp; Ver página 79 del manual básico<\/p>"
+      "name": "Veu potent",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"81\" data-page-end=\"81\">&nbsp; Veure pàgina 79 del manual bàsic<\/p>"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "name": "swade-es",
-  "title": "SWADE Spanish translation",
-  "description": "Adds Spanish(Spain) to the SWADE system",
-  "version": "0.11.0",
+  "title": "SWADE ES, CA, GL translation",
+  "description": "Adds Spanish, Catalonian and Galician to the SWADE system",
+  "version": "0.12.0",
   "minimumCoreVersion" : "0.6.6",
   "compatibleCoreVersion" : "0.7.8",
-  "author": "ForjaSalvaje, JuanV, Montver, ParvusDomus",
+  "author": "ForjaSalvaje, JuanV, Montver, ParvusDomus, Penta",
   
   "esmodules": ["babele-register.js", "swade-es-pdf.js"],    
   "scripts": ["pdf.min.js"],
@@ -22,6 +22,11 @@
       "lang": "ca",
       "name": "català",
       "path": "ca.json"
+    },
+    {
+      "lang": "gl",
+      "name": "Galego",
+      "path": "gl.json"
     }
   ],
   
