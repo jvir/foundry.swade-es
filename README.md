@@ -1,10 +1,10 @@
 # swade-es
 
-Spanish and Catalonian language for the Savage Worlds Adventure Edition system on Foundry VTT.
+Spanish, Catalonian and Galician languages for the Savage Worlds Adventure Edition system on Foundry VTT.
 
-Lenguaje Español y Català para el sistema Savage Worlds en Foundry VTT.
-Llenguatge català i espanyol per al sistema Savage Worlds a Foundry VTT.
-
+Idiomas Español, Catalán y Gallego para el sistema Savage Worlds en Foundry VTT.
+Idiomas Català, Espanyol i Gallego per al sistema Savage Worlds a Foundry VTT.
+Idiomas Galego, Español e Catalán para o sistema Savage Worlds en Foundry VTT.
 
 
  - Traducción de campos básicos.
