@@ -1,3 +1,8 @@
+## [0.12.2] - 2020-06-24
+
+### Actualizado
+- creación de habilidades iniciales en Catalán
+
 ## [0.12.1] - 2020-06-24
 
 ### Actualizado

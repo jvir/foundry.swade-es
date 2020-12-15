@@ -32,18 +32,31 @@ Hooks.on('createActor', async (actor, options, userId) => {
     let swadeRbActive = game.modules.get("swade-rb")?.active;
     
     if (actor.data.type === 'character' && options.renderSheet && !swadeRbActive) {
-        const skillsToFind = [
-            'Atletismo',
+        var skillsToFind = {
+         'es': ['Atletismo',
             'Conocimientos generales',
             'Notar',
             'Persuadir',
             'Sigilo',
-            'Sin entrenar'
-        ];
+            'Sin entrenar'],
+         'ca': ['Atletisme',
+            'Coneixements generals',
+            'Notar',
+            'Persuadir',
+            'Sigil',
+            'Sense Entrenar'],
+         'gl': ['Atletismo',
+            'Conocimientos generales',
+            'Notar',
+            'Persuadir',
+            'Sigilo',
+            'Sen Entrenar']
+        };
+        
         const skillIndex = (await game.packs
             .get('swade.skills')
             .getContent());
-        actor.createEmbeddedEntity('OwnedItem', skillIndex.filter((i) => skillsToFind.includes(i.data.name)));
+        actor.createEmbeddedEntity('OwnedItem', skillIndex.filter((i) => skillsToFind[game.i18n.lang].includes(i.data.name)));
     }
     
     
