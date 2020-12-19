@@ -1,3 +1,8 @@
+## [0.12.3] - 2020-06-24
+
+### Actualizado
+- Cadenas swade 0.15.2 en Español y Catalán. Versión preliminar.
+
 ## [0.12.2] - 2020-06-24
 
 ### Actualizado
