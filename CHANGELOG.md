@@ -1,3 +1,11 @@
+## [0.12.4] - 2020-06-24
+
+### Añadido
+- Versión preliminar no completo del Euskera.
+
+### Actualizado
+- Cadenas swade 0.15.2 en Español, Catalán y Gallego.
+
 ## [0.12.3] - 2020-06-24
 
 ### Actualizado

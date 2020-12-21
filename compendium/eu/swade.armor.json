@@ -1,0 +1,178 @@
+{
+  "label": "Armaduras",
+  "mapping": {
+    "description": "data.description"
+  },
+  "entries": [
+    {
+      "id": "Battle Helment (head, full face)",
+      "name": "Casco de combate (cabeza, cara)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Bike Helmet (head)",
+      "name": "Casco de ciclista (cabeza)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"100\" data-page-end=\"100\">&nbsp; Ver página 98 del manual básico<\/p>"
+    },
+    {
+      "id": "Body Armor (torso, arms, legs)",
+      "name": "Armadura corporal (torso, brazos, piernas)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"100\" data-page-end=\"100\">&nbsp; Ver página 98 del manual básico<\/p>"
+    },
+    {
+      "id": "Bombproof Suit (entire body)",
+      "name": "Traje de artificiero (todo el cuerpo)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"100\" data-page-end=\"100\">&nbsp; Ver página 98 del manual básico<\/p>"
+    },
+    {
+      "id": "Bronze Barding (horse)",
+      "name": "Barda para caballos, bronce (caballo)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Bronze Corselet (torso)",
+      "name": "Pectoral, bronce (torso)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Bronze Greaves (legs)",
+      "name": "Grevas, bronce (piernas)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Bronze Helment (head)",
+      "name": "Casco Corintio (cabeza)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Bronze Vambraces (arms)",
+      "name": "Brazales, bronce (brazos)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Chain Hood or Helm (head)",
+      "name": "Cofia o casco, malla (cabeza)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Chain Mail Leggings (legs)",
+      "name": "Pantalones, malla (piernas)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Chain Mail Shirt (torso, arms)",
+      "name": "Camisa, malla (torso, brazos)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Cloth or Light Leather Jacket (torso, arms)",
+      "name": "Chaqueta, tela gruesa/cuero ligero (torso, brazos)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Cloth/Light Leather Cap (head)",
+      "name": "Gorro, tela gruesa/cuero ligero (cabeza)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Cloth/Light Leather Leggings (legs)",
+      "name": "Pantalones, tela gruesa/cuero ligero (piernas)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Cloth/Light Leather Robes (torso, arms)",
+      "name": "Túnica, tela gruesa/cuero ligero (torso, brazos)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Flack Jacket (Vietnam-era, torso)",
+      "name": "Chaleco antibalas, Vietnam (torso)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"100\" data-page-end=\"100\">&nbsp; Ver página 98 del manual básico<\/p>"
+    },
+    {
+      "id": "Heavy Plate Helm (head)",
+      "name": "Yelmo abierto, coraza (cabeza)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Heavy Plate Helm, Enclosed (head)",
+      "name": "Yelmo cerrado, coraza (cabeza)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Infantry Battle Suit (torso, arms, legs)",
+      "name": "Traje de batalla para infanteria (torso, brazos, piernas)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Kevlar Riding Jacket (torso, arms)",
+      "name": "Chaqueta de motero con Kevlar (torso, brazos)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"100\" data-page-end=\"100\">&nbsp; Ver página 98 del manual básico<\/p>"
+    },
+    {
+      "id": "Kevlar Riding Jeans (legs)",
+      "name": "Pantalones de motero con Kevlar (piernas)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"100\" data-page-end=\"100\">&nbsp; Ver página 98 del manual básico<\/p>"
+    },
+    {
+      "id": "Kevlar Vest (torso)",
+      "name": "Chaleco de Kevlar (torso)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"100\" data-page-end=\"100\">&nbsp; Ver página 98 del manual básico<\/p>"
+    },
+    {
+      "id": "Kevlar Vest with ceramic inserts (torso)",
+      "name": "Chaleco de Kevlar con refuerzos (torso)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"100\" data-page-end=\"100\">&nbsp; Ver página 98 del manual básico<\/p>"
+    },
+    {
+      "id": "Kevlar helmet (head)",
+      "name": "Casco de Kevlar (cabeza)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"100\" data-page-end=\"100\">&nbsp; Ver página 98 del manual básico<\/p>"
+    },
+    {
+      "id": "Leather Riding Chaps (legs)",
+      "name": "Chaparrera, pantalones gruesos (piernas)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"100\" data-page-end=\"100\">&nbsp; Ver página 98 del manual básico<\/p>"
+    },
+    {
+      "id": "Motorcycle Helmet (head)",
+      "name": "Casco de motorista (cabeza)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"100\" data-page-end=\"100\">&nbsp; Ver página 98 del manual básico<\/p>"
+    },
+    {
+      "id": "Plate Barding (horse)",
+      "name": "Barda para caballos, malla (Caballo)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Plate Corselet (torso)",
+      "name": "Pectoral, coraza (torso)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Plate Greaves (legs)",
+      "name": "Grebas, coraza (piernas)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Plate Vambraces (arms)",
+      "name": "Brazales, coraza (brazos)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Thick Leather/Tough Hides Cap (head)",
+      "name": "Gorro, piel gruesa/cuero cocido (cabeza)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Thick Leather/Tough Hides Jacket (torso, arms)",
+      "name": "Chaqueta, piel gruesa/cuero cocido (torso, brazos)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    },
+    {
+      "id": "Thick Leather/Tough Hides Leggings (legs)",
+      "name": "Pantalones, piel gruesa/cuero cocido (piernas)",
+      "description": "<p class=\"swade-book fas fa-book\" data-book=\"swade\" data-page-start=\"101\" data-page-end=\"101\">&nbsp; Ver página 99 del manual básico<\/p>"
+    }
+  ]
+}

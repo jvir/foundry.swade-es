@@ -18,6 +18,11 @@ Hooks.once('init', () => {
                 lang: 'gl',
                 dir: 'compendium/gl'
             });
+            Babele.get().register({
+                module: 'swade-es',
+                lang: 'eu',
+                dir: 'compendium/eu'
+            });
             console.log("swade-es compendiums translate enabled");
 		}
 });
