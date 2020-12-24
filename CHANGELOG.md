@@ -1,4 +1,9 @@
-## [0.12.4] - 2020-06-24
+## [0.13.0]
+
+### Añadido
+- Euskera.
+
+## [0.12.4]
 
 ### Añadido
 - Versión preliminar no completo del Euskera.
@@ -6,17 +11,17 @@
 ### Actualizado
 - Cadenas swade 0.15.2 en Español, Catalán y Gallego.
 
-## [0.12.3] - 2020-06-24
+## [0.12.3]
 
 ### Actualizado
 - Cadenas swade 0.15.2 en Español y Catalán. Versión preliminar.
 
-## [0.12.2] - 2020-06-24
+## [0.12.2]
 
 ### Actualizado
 - creación de habilidades iniciales en Catalán
 
-## [0.12.1] - 2020-06-24
+## [0.12.1]
 
 ### Actualizado
 - Idioma Español
