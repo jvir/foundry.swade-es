@@ -1,3 +1,11 @@
+## [0.14.0]
+
+### Añadido
+- Traducción de habilidades en desplegable de vehiculos.
+
+### Actualizado
+- Modificaciones para SWADE 0.16.1
+
 ## [0.13.0]
 
 ### Añadido
