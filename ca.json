@@ -11,7 +11,7 @@
     "SWADE.Adv": "Avanç",
     "SWADE.Rank": "Rang",
     "SWADE.Inv": "Equip",
-    "SWADE.Summary": "General",
+    "SWADE.Summary": "Trets",
     "SWADE.Pow": "Poders",
     "SWADE.Extra": "Extra",
     "ACTOR.TypeNpc": "Personatge no jugador (PNJ)",
@@ -114,10 +114,10 @@
     "SWADE.WoundsMax": "Feridas màximes",
     "SWADE.Fatigue": "Fatiga",
     "SWADE.FatigueMax": "Fatiga màxima",
-    "SWADE.Incap": "Incapacitat!",
+    "SWADE.Incap": "Incapacitat",
     "SWADE.Init": "Iniciativa",
     "SWADE.InitDraw": "reps una carta!",
-    "SWADE.JokersWild": "reps un Jòquer Salvatge!",
+    "SWADE.JokersWild": "Jòquer Salvatge",
     "SWADE.Handling": "Maniobra",
     "SWADE.Topspeed": "Vel. Màx.",
     "SWADE.OutOfControl": "Fora de control",
@@ -146,7 +146,7 @@
     "SWADE.Formula": "Fórmula",
     "SWADE.SitMod": "Modificar Tirada",
     "SWADE.RollMode": "Mode",
-    "SWADE.RollExample": "ex. +1d6x= ó -2",
+    "SWADE.RollExample": "ex. +1d6x ó -2",
     "SWADE.Roll": "Tirar",
     "SWADE.RollRaise": "Tirar amb augment",
     "SWADE.GroupRoll": "Tirada de grup",
@@ -317,5 +317,5 @@
     "SWADE.Reach": "Abast",
     "SWADE.Torch": "Torxa",
     "SWADE.Invisible": "Invisible",
-    "SWADE.Smite": "Destruït"
+    "SWADE.Smite": "Càstig"
 }
