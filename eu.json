@@ -167,7 +167,7 @@
     "SWADE.WoundsMax": "Gehienezko Zauriak",
     "SWADE.Fatigue": "Nekea",
     "SWADE.FatigueMax": "Gehienezko Nekea",
-    "SWADE.Incap": "Ezgaitua!",
+    "SWADE.Incap": "Ezgaitua",
     "SWADE.InitDraw": "Iniziatiba karta jasotzen du!",
     "SWADE.JokersWild": "Joker Basatia dagokio!",
     "SWADE.Addi": "Gehigarria",
@@ -210,7 +210,7 @@
     "SWADE.Formula": "Formula",
     "SWADE.SitMod": "Proba Mod-a",
     "SWADE.RollMode": "Proba Modua",
-    "SWADE.RollExample": "adib. +1d6x= edo -2",
+    "SWADE.RollExample": "adib. +1d6x edo -2",
     "SWADE.Roll": "Jaurti",
     "SWADE.RollRaise": "Gorapenarekin Bota",
     "SWADE.Frightened": "Beldurtuta",
@@ -315,5 +315,7 @@
     "SSO.PEGLogo": "Pinnacle Entertainment Group Logoa",
     "SSO.Skills": "Haibilitateak",
     "SSO.Vuln": "Zaurgarri",
-    "SSO.Running": "Korrika"
+    "SSO.Running": "Korrika",
+    "SWADE.DmgOver": "kalteak baliogabetu",
+    "SWADE.Eqd": "Eqd"
 }

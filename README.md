@@ -1,3 +1,7 @@
+# Se busca mantenedor
+Creo que ha llegado el momento de dejar de mantener este proyecto ya que no me siento a gusto con las formas de actuar del proyecto padre (Sistema SWADE FVTT) y es por ello que busco quien quiera mantenerlo.
+Lo siento por todas esas personas que han apoyyado este modulo y han contribuido a el, pero a veces tenemos que avanzar en otra dirección.
+
 # swade-es
 
 Spanish, Catalonian, Galician and Basque languages for the Savage Worlds Adventure Edition system on Foundry VTT.
