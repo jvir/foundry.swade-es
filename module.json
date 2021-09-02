@@ -35,7 +35,7 @@
     }
   ],
   
-  "url": "https://github.com/montver/foundryvtt-swade-es",
-  "manifest": "https://gitlab.com/montver/foundryvtt-swade-es/-/raw/master/module.json",
-  "download": "https://gitlab.com/montver/foundryvtt-swade-es/-/archive/master/foundryvtt-swade-es-master.zip"
+  "url": "https://github.com/montver/foundry-swade-es",
+  "manifest": "https://raw.githubusercontent.com/montver/foundry-swade-es/master/module.json",
+  "download": "https://github.com/montver/foundry-swade-es/archive/refs/heads/master.zip"
 }
