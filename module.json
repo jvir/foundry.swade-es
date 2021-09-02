@@ -2,7 +2,7 @@
   "name": "swade-es",
   "title": "SWADE ES, CA, GL, EU translation",
   "description": "Adds Spanish, Catalonian, Galician and Basque to the SWADE system",
-  "version": "0.16.0",
+  "version": "0.17.0",
   "minimumCoreVersion" : "0.6.6",
   "compatibleCoreVersion" : "0.7.9",
   "author": "ForjaSalvaje, JuanV, Montver, ParvusDomus, Penta, MKL",
@@ -35,7 +35,7 @@
     }
   ],
   
-  "url": "https://gitlab.com/jvir/foundryvtt-swade-es",
-  "manifest": "https://gitlab.com/jvir/foundryvtt-swade-es/-/raw/master/module.json",
-  "download": "https://gitlab.com/jvir/foundryvtt-swade-es/-/archive/master/foundryvtt-swade-es-master.zip"
+  "url": "https://github.com/montver/foundryvtt-swade-es",
+  "manifest": "https://gitlab.com/montver/foundryvtt-swade-es/-/raw/master/module.json",
+  "download": "https://gitlab.com/montver/foundryvtt-swade-es/-/archive/master/foundryvtt-swade-es-master.zip"
 }
