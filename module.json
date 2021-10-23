@@ -2,7 +2,7 @@
   "name": "swade-es",
   "title": "SWADE ES, CA, GL, EU translation",
   "description": "Adds Spanish, Catalonian, Galician and Basque to the SWADE system",
-  "version": "0.17.0",
+  "version": "0.18.0",
   "minimumCoreVersion" : "0.6.6",
   "compatibleCoreVersion" : "0.8.9",
   "author": "ForjaSalvaje, JuanV, Montver, ParvusDomus, Penta, MKL",
