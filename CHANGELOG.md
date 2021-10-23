@@ -1,5 +1,11 @@
+## [0.18.0]
+Modificaciones para SWADE v0.21.2
+## [0.17.0]
+- Modificaciones para SWADE 0.20
+## [0.16.0]
+- Modificaciones para SWADE 0.19
 ## [0.15.0]
-
+- Modificaciones para SWADE 0.18
 ### Actualizado
 - Modificaciones para SWADE 0.17.2
 
