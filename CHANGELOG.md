@@ -1,4 +1,6 @@
 ## [0.18.0]
+- Cambios menoresrespecto SWADE v.0.21.2 
+## [0.18.0]
 Modificaciones para SWADE v0.21.2
 ## [0.17.0]
 - Modificaciones para SWADE 0.20
