@@ -39,5 +39,7 @@ Donde:
 
  Para usar los enlaces proporcionados por el modulo el libro debe estar en la carpeta que indiquemos en la conficuración y tener de nombre "swade.pdf"
  
+ **Update to SWADE v0.21.2**
+ 
 
 
