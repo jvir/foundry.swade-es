@@ -453,5 +453,8 @@
     "SWADE.ChangeBennyWarning": "Per canviar aquesta configuració, caldrà que actualitzeu la pàgina.",
     "SWADE.3DBennies": "Benis en 3D",
     "SWADE.HardChoices": "Eleccions difícils",
-    "SWADE.WealthSelectionNoneOther": "Cap / Altres"
+    "SWADE.WealthSelectionNoneOther": "Cap / Altres",
+    "SWADE.ArcaneSkill": "Habilitat arcana",
+    "SWADE.ArcaneDevice": "Artefacte arcà",
+    "SWADE.ActivateArcaneDevice": "Activar artefacte"
 }

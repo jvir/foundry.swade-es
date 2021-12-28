@@ -72,7 +72,7 @@
     "SWADE.Conv": "Convicción",
     "SWADE.UseConv": "¡Utiliza su Convicción!",
     "SWADE.AutoCalc": "Cálculos automáticos",
-    "SWADE.InclArmor": "Calcular automáticamente la dureza (incluido armadura).",
+    "SWADE.InclArmor": "Calcular automáticamente la dureza (incluido armadura)",
     "SWADE.Label": "Etiqueta",
     "SWADE.HasMaxValue": "Tiene máximo",
     "SWADE.Enabled": "Habilitado",
@@ -453,5 +453,8 @@
     "SWADE.HardChoices": "Elecciones difíciles",
     "SWADE.HardChoicesDesc": "Si se marca esta opción, se activará la regla de Elecciones difíciles",
     "SWADE.WealthSelectionNoneOther": "Ninguno/Otros",
-    "SWADE.UseAttributeShortsDesc": "Activa esta opción si quieres ver los nombres de los atributos abreviados en las hojas de PJ y PNJ, es decir, Agi en lugar de Agilidad, AST en lugar de Astucia, etc. Tendrás que cerrar y volver a abrir todas las hojas abiertas para que esta opción tenga efecto."
+    "SWADE.UseAttributeShortsDesc": "Activa esta opción si quieres ver los nombres de los atributos abreviados en las hojas de PJ y PNJ, es decir, Agi en lugar de Agilidad, AST en lugar de Astucia, etc. Tendrás que cerrar y volver a abrir todas las hojas abiertas para que esta opción tenga efecto.",
+    "SWADE.ArcaneSkill": "Habilidad arcana",
+    "SWADE.ActivateArcaneDevice": "Activar artefacto",
+    "SWADE.ArcaneDevice": "Artefacto arcano"
 }
