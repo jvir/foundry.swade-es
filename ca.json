@@ -456,5 +456,17 @@
     "SWADE.WealthSelectionNoneOther": "Cap / Altres",
     "SWADE.ArcaneSkill": "Habilitat arcana",
     "SWADE.ArcaneDevice": "Artefacte arcà",
-    "SWADE.ActivateArcaneDevice": "Activar artefacte"
+    "SWADE.ActivateArcaneDevice": "Activar artefacte",
+    "SWADE.Archetype": "",
+    "SWADE.ArchetypeAbilities": "",
+    "SWADE.Benny3DFrontBump": "",
+    "SWADE.Benny3DBackBumpDesc": "",
+    "SWADE.Modifiers": "",
+    "SWADE.Duplicates": "",
+    "SWADE.DuplicateItemsBodyText": "",
+    "SWADE.ActionTraitMod": "",
+    "SWADE.Benny3DFrontBumpDesc": "",
+    "SWADE.ActionDmgMod": "",
+    "SWADE.ItemTraitMod": "",
+    "SWADE.ItemDmgMod": ""
 }
