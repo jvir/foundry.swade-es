@@ -47,7 +47,7 @@
     "SWADE.RoF": "CdF",
     "SWADE.Mag": "Mun.",
     "SWADE.Parry": "Parada",
-    "SWADE.Cover": "Cobertura",
+    "SWADE.Cover._name": "Cobertura",
     "SWADE.Notes": "Notas",
     "SWADE.HitLocations": "Localizaciones",
     "SWADE.Head": "Cabeza",
