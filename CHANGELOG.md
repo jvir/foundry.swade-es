@@ -1,5 +1,5 @@
 ## [0.18.2]
-Bugs corregido de tiradas
+Bugs corregidos de tiradas
 ## [0.18.1]
 Cambios de traducción y adaptación a v9
 ## [0.18.0]
