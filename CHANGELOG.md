@@ -1,8 +1,10 @@
-## [0.18.2]
-Bugs corregidos de tiradas
-## [0.18.1]
-Cambios de traducción y adaptación a v9
-## [0.18.0]
+## [v1.0.0]
+Cambios de traducción y adaptación a v9. Cambio de nomenclatura de swade.
+## [0.21.0]
+Traducciones de cadenas
+## [0.20.0]
+Traducciones de cadenas
+## [0.19.0]
 - Cambios menoresrespecto SWADE v.0.21.2 
 ## [0.18.0]
 Modificaciones para SWADE v0.21.2
