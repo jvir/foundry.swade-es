@@ -469,5 +469,6 @@
     "SWADE.Benny3DBackBump": "Back Bump Map",
     "SWADE.Benny3DFrontBumpDesc": "Front bump map del beni",
     "SWADE.Modifiers": "Modificadores",
-    "SWADE.ActionTraitMod": "Modificador de rasgo de acción"
+    "SWADE.ActionTraitMod": "Modificador de rasgo de acción",
+    "SWADE.Cover._name": "Cobertura"
 }
