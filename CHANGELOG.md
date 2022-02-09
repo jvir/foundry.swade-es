@@ -1,3 +1,7 @@
+## [0.18.2]
+Bugs corregido de tiradas
+## [0.18.1]
+Cambios de traducción y adaptación a v9
 ## [0.18.0]
 - Cambios menoresrespecto SWADE v.0.21.2 
 ## [0.18.0]
