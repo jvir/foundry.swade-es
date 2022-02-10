@@ -1,3 +1,5 @@
+## [v1.0.1]
+Corrección de errores en tiradas
 ## [v1.0.0]
 Cambios de traducción y adaptación a v9. Cambio de nomenclatura de swade.
 ## [0.21.0]
