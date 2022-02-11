@@ -4,7 +4,7 @@
   "description": "Adds Spanish, Catalonian, Galician and Basque to the SWADE system",
   "version": "v1.0.1",
   "minimumCoreVersion" : "0.6.6",
-  "compatibleCoreVersion" : "0.9.249",
+  "compatibleCoreVersion" : "9.249",
   "author": "ForjaSalvaje, JuanV, Montver, ParvusDomus, Penta, MKL",
   
   "esmodules": ["babele-register.js", "swade-es-pdf.js", "swade-es.js"],    
