@@ -363,7 +363,7 @@
     "SWADE.ActAfterCurrentCombatant": "Actuar después del combatiente actual",
     "SWADE.LoseTurn": "Alternar perder turno",
     "SWADE.DrawInit": "Repartir iniciativa",
-    "SWADE.ActionDeckReset": "Restablecer la tabla del mazo de acción",
+    "SWADE.ActionDeckReset": "Restablecer el mazo de acción",
     "SWADE.ActionDeckResetNotification": "Reiniciar el mazo de acción",
     "SWADE.WildDiePreset": "Tema del dado salvaje",
     "SWADE.WildDiePresetDesc": "Selecciona un tema DSN para tu dado salvaje. Selecciona 'Personalizado' si deseas crear el tuyo propio o 'Ninguno' si no deseas que tu dado salvaje se vea diferente. Ten en cuenta que actualmente solo puedes ver los dados salvajes creados por ti mismo. Otros jugadores los verán de manera diferente.",
