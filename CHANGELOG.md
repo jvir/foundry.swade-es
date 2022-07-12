@@ -1,5 +1,5 @@
 ## [v1.0.4]
-Nuevos errores de cadenas en Swade 1.1.8
+Traduccion de los cambios en Swade 1.1.8 y corrección de error de cadenas disonantes 
 ## [v1.0.3]
 Nuevos errores de cadenas
 ## [v1.0.2]
