@@ -493,6 +493,7 @@
     "SWADE.Illumination.Dark": "Oscuridad",
     "SWADE.Illumination.Dim": "Penumbra",
     "SWADE.Illumination.Pitch": "Oscuridad completa",
+    "SWADE.Cover._name": "Cobertura",
     "SWADE.Cover.Light": "Cobertura ligera",
     "SWADE.Cover.Medium": "Cobertura media",
     "SWADE.Cover.Heavy": "Cobertura pesada",
