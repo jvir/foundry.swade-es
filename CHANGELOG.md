@@ -1,3 +1,7 @@
+## [v1.0.4]
+Traduccion de los cambios en Swade 1.1.8 y corrección de error de cadenas disonantes 
+## [v1.0.3]
+Nuevos errores de cadenas
 ## [v1.0.2]
 Cadenas de traducciones nuevas de swade V1.0.0 y bugs varios
 ## [v1.0.1]
