@@ -1,3 +1,5 @@
+## [v1.0.5]
+arreglar cadenas de texto traducidas de la nueva SWADE System Update v1.2 para español. 
 ## [v1.0.4]
 Traduccion de los cambios en Swade 1.1.8 y corrección de error de cadenas disonantes 
 ## [v1.0.3]
