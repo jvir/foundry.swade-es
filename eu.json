@@ -211,6 +211,8 @@
     "SWADE.RollExample": "adib. +1d6x edo -2",
     "SWADE.Roll": "Jaurti",
     "SWADE.RollRaise": "Gorapenarekin Bota",
+    "SWADE.WealthDie.Label": "Aberastasuna",
+    "SWADE.MAPenalty.Label": "Ekintza Anitzeko Zigorra",
     "SWADE.Frightened": "Beldurtuta",
     "SWADE.APLong": "Armadura Zulatzailea",
     "SWADE.SkillModUni": "Trebezia Modifikatzailea (unibertsala)",
