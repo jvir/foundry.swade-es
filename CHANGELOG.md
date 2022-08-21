@@ -1,3 +1,5 @@
+## [v1.0.6]
+arreglar cadenas de texto traducidas de la nueva SWADE System Update v1.2 para català, galego y euskera. 
 ## [v1.0.5]
 arreglar cadenas de texto traducidas de la nueva SWADE System Update v1.2 para español. 
 ## [v1.0.4]
