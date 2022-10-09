@@ -6,8 +6,6 @@
   "minimumCoreVersion" : "0.6.6",
   "compatibleCoreVersion" : "10.287",
   "author": "JuanV, Montver, ForjaSalvaje, ParvusDomus, Penta, MKL, javierrivera",
-  
-  "scripts": ["pdf.min.js"],
   "styles": [],
   "packs": [],
   
