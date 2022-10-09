@@ -799,7 +799,7 @@
         },
         "Category": "Categoria d'objectes",
         "EmptyRacialAbilitiesHint": "Aquesta {race} o {archetype} encara no té cap habilitat. Arrossegueu i deixeu anar alguna cosa a la fitxa per començar."
-    },
+   	},
 	"Cover": {
             "_name": "\"Cobertura\"",
             "Shield": "Cobertura - Escut",
@@ -808,7 +808,7 @@
             "Heavy": "Cobertura pesada",
             "Total": "Cobertura gairebé total"
         }
-    "ITEM": {
+   	"ITEM": {
         "TypeConsumable": "Consumibles"
-    }
+   	}
 }
