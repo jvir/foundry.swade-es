@@ -808,7 +808,8 @@
             "Heavy": "Cobertura pesada",
             "Total": "Cobertura gairebé total"
         }
-   	"ITEM": {
+    },
+    "ITEM": {
         "TypeConsumable": "Consumibles"
-   	}
+    }
 }
