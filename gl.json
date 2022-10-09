@@ -21,7 +21,6 @@
         "Pace": "Paso",
         "Tough": "Dureza",
         "RunningDie": "Dado de correr",
-        "Rank": "Rango",
         "Inv": "Equipo",
         "Summary": "Trazos",
         "Pow": "Poderes",
@@ -106,7 +105,6 @@
         "RollRun": "Preme para correr",
         "WildCard": "Comodín",
         "AttributeTest": "Proba de Atributo",
-        "Attributes": "Atributos",
         "Derived": "Estatísticas derivadas",
         "AnimalSmarts": "Astucia Animal",
         "LinkAttr": "Atributo ligado",
@@ -194,7 +192,6 @@
         "SitMod": "Mod. Tirada",
         "RollMode": "Modo de tirada",
         "RollExample": "ex. +1d6 ou - 2",
-        "Roll": "Tirar",
         "RollRaise": "Tirar con Aumento",
         "GroupRoll": "Tirada de Grupo",
         "Cancel": "Cancelar",
@@ -221,20 +218,15 @@
         "Curr": "Actual",
         "Roll": "Tirar",
         "Edit": "Editar",
-        "Add": "Engadir",
         "Expand": "Expandir",
-        "Race": "Raza",
         "Rank": "Rango",
         "Advances": "Avances",
         "Conviction": "Convencemento",
         "Active": "Activo",
         "PEGLogo": "Logotipo de Pinnacle Entertainment Group",
         "SWADELogo": "Logo de Savage Worlds Edición Aventura",
-        "Summary": "Resumo",
-        "Edges": "Vantaxes",
         "Inventory": "Inventario",
         "Powers": "Poderes",
-        "Desc": "Descrición",
         "Attributes": "Atributos",
         "Derived": "Derivados",
         "Skills": "Habilidades",
@@ -351,7 +343,6 @@
         "ActionDeckReset": "Restablecer o mazo de acción",
         "ShowBennyAnimation": "Mostrar benis animados",
         "ShowBennyAnimationDesc": "Reproduce unha animación o usar un Beni. So si DSN está instalado",
-        "AddBenny": "Engadir Beni",
         "Crew": "Tripulación requirida",
         "Passengers": "Pasaxeiros Adicionais",
         "String": "Texto",
@@ -520,12 +511,8 @@
         "ArcaneDevice": "Artefacto arcano",
         "CopyMarkdown": "Copia Markdown",
         "Benny3DFrontBump": "Bump Map Frontal",
-        "Benny3DBackBump": "Bump Map Traseiro",
+        "Benny3DBackBump": "Bump Map Traseiro"
     }
 }
         
-    
-        
-        
-        
-        
+ 
