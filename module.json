@@ -1,11 +1,21 @@
 {
-  "name": "swade-es",
+  "id": "swade-es",
   "title": "SWADE ES, CA, GL, EU translation",
   "description": "Adds Spanish, Catalonian, Galician and Basque to the SWADE system",
   "version": "v2.0",
-  "minimumCoreVersion" : "0.6.6",
-  "compatibleCoreVersion" : "10.287",
-  "author": "JuanV, Montver, ForjaSalvaje, ParvusDomus, Penta, MKL, javierrivera",
+  "compatibility": {
+    "minimun": "10",
+    "verified": "10.287"
+  },
+  "authors": [
+    {"name": "JuanV"},
+    {"name": "Montver",
+    {"name": "ForjaSalvaje"},
+    {"name": "ParvusDomus"},
+    {"name": "Penta"},
+    {"name": "MKL"},
+    {"name": "javierrivera"}
+  ],
   "styles": [],
   "packs": [],
   
@@ -31,7 +41,6 @@
       "path": "eu.json"
     }
   ],
-  
   "url": "https://github.com/montver/foundry-swade-es",
   "manifest": "https://raw.githubusercontent.com/montver/foundry-swade-es/master/module.json",
   "download": "https://github.com/montver/foundry-swade-es/archive/refs/heads/master.zip"
