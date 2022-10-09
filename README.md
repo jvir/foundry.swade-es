@@ -1,5 +1,7 @@
 # swade-es
 
+**Update to SWADE v2.0.5**
+
 Spanish, Catalonian, Galician and Basque languages for the Savage Worlds Adventure Edition system on Foundry VTT.
 
 Idiomas Español, Catalán, Gallego y Euskera para el sistema Savage Worlds en Foundry VTT.
@@ -39,7 +41,7 @@ Donde:
 
  Para usar los enlaces proporcionados por el modulo el libro debe estar en la carpeta que indiquemos en la conficuración y tener de nombre "swade.pdf"
  
- **Update to SWADE v1.2**
+ 
  
 
 
