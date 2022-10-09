@@ -558,5 +558,256 @@
     "SWADE.Advances.Modes.Expanded": "Ampliat",
     "SWADE.Advances.Types.Edge": "Nova avantatge",
     "SWADE.Advances.Types.SingleSkill": "Augmentar una habilitat",
-    "SWADE.CharacterGoals": "Objectius"
+    "SWADE.CharacterGoals": "Objectius",
+    "SWADE": {
+        "ItemSheet": "Fitxa d'objectes de Savage Worlds",
+        "ActBeforeCurrentCombatant": "Actuar ara",
+        "WealthDie": {
+            "Broke": {
+                "Label": "Trencat",
+                "Hint": "Està trencat!"
+            }
+        },
+        "CustomWildDie": "- Dau salvatge personalitzat -",
+        "MAPenalty": {
+            "None": "No"
+        },
+        "Advances": {
+            "Modes": {
+                "Legacy": "Heretada"
+            }
+        },
+        "ActiveEffects": {
+            "ResetDuration": "Restablir la duració"
+        },
+        "Settings": {
+            "HighlightTemplate": {
+                "Hint": "Quan està activat, les plantilles de mesura sempre es destaquen a si mateixes en lloc de la graella.",
+                "Name": "Destacar sempre les plantilles"
+            },
+            "FantasyCompanionEntangle": {
+                "Hint": "Utilitzeu l'estat d'aferrat del Fantasy Companion en lloc de la versió del bàsic. Requereix recarregar perquè tingui efecte",
+                "Name": "Aferrat del Fantasy Companion"
+            },
+            "ParryBase": {
+                "Name": "Nom localitzat de l'habilitat de lluita",
+                "Hint": "Habilitat que s'utilitzarà per calcular la parada del PJ"
+            },
+            "UseAttributeShorts": {
+                "Hint": "Activeu aquesta opció si voleu veure noms d'atributs abreujats als fulls de PJ i PNJ, és a dir, Agi en lloc d'Agility, Ast en lloc d'astúcia, etc. Haureu de tancar i tornar a obrir tots les fitxes obertes perquè aquesta opció tingui efecte.",
+                "Name": "Utilitzeu noms d'atributs escurçats"
+            },
+            "WeightUnit": {
+                "Name": "Unitat de pes",
+                "Hint": "Estableix si els pesos es mesuren en lliures o quilograms. Canviar això NO canviarà els pesos dels objectes, només com es calcula la càrrega"
+            },
+            "HideNpcItemChatCards": {
+                "Hint": "Quan s'activa, les targetes de xat d'objectes PNJ s'envien automàticament com a xiuxiueig a tots els DJ en lloc de publicar-se perquè tothom les vegi",
+                "Name": "Amaga les targetes de xat d'objectes dels PNJ"
+            },
+            "AutoInit": {
+                "Hint": "Dona automàticament cartes d'acció cada ronda",
+                "Name": "Iniciativa automàtica"
+            },
+            "Benny3DFrontBump": {
+                "Hint": "Mapa davanter del bump del beni",
+                "Name": "Mapa frontal del bump"
+            },
+            "CoreSkillsList": {
+                "Hint": "Introduïu una llista separada per comes d'habilitats per definir com a habilitats bàsiques per a tots els actors",
+                "Name": "Llista d'habilitats bàsiques"
+            },
+            "CoreSkillsPack": {
+                "Name": "Compendi d'habilitats bàsiques",
+                "Hint": "Trieu de quin compendi es trauran les habilitats bàsiques"
+            },
+            "AmmoManagement": {
+                "Hint": "Quan s'activa, i és aplicable, les accions resten munició del carregador de l'arma. Les cartes d'objecte també obtenen un nou botó de recàrrega i no podreu llançar un atac si no hi ha prou munició disponible",
+                "Name": "Gestió de municions"
+            },
+            "EnableWoundPace": {
+                "Hint": "Quan està activat, el pas es veu afectat automàticament per les ferides",
+                "Name": "Ajustar el pas amb les ferides"
+            },
+            "EnableConv": {
+                "Name": "Convicció",
+                "Hint": "Activar la regla de convicció"
+            },
+            "NoPowerPoints": {
+                "Hint": "Quan està activada, aquesta opció amaga totes les interaccions de Punts de poder",
+                "Name": "Sense punts de poder"
+            },
+            "ApplyEncumbrance": {
+                "Name": "Aplicar penalitzacions de càrrega",
+                "Hint": "Aplicar penalitzacions de càrrega. Si us plau, tingueu en compte que actualment NO admet les tirades de {vigor} per resistir la {fatigue}!"
+            },
+            "GmBennies": {
+                "Name": "Benis del DJ",
+                "Hint": "Estableix quants benis rep el DJ al reiniciar"
+            },
+            "VehicleEdges": {
+                "Hint": "Els vehicles utilitzen avantatges i desavantatges",
+                "Name": "Avantages de vehicles"
+            },
+            "HardChoices": {
+                "Hint": "Si marques això, s'habilitarà la regla Eleccions difícils",
+                "Name": "Eleccions difícils"
+            },
+            "CardSound": {
+                "Hint": "Reprodueix un so de carta en repartir Iniciativa",
+                "Name": "So de la carta"
+            },
+            "InitDiscardPile": {
+                "Name": "Pila de descart d'iniciativa"
+            },
+            "InitCardDeck": {
+                "Name": "Baralla de cartes per a la iniciativa"
+            },
+            "EnableBennyNotify": {
+                "Name": "Notificació de benis",
+                "Hint": "Mostra missatges de xat quan es gasten, es donen o s'actualitzen benis."
+            },
+            "HideWC": {
+                "Name": "Amaga els comodins PNJ",
+                "Hint": "No mostris quins PNJ són comodins als jugadors"
+            },
+            "CreateInitChat": {
+                "Name": "Crea un missatge de xat per a la iniciativa"
+            },
+            "Benny3DFront": {
+                "Name": "Textura frontal",
+                "Hint": "Textura frontal 3D del beni"
+            },
+            "Benny3DBack": {
+                "Name": "Textura posterior",
+                "Hint": "Textura posterior del beni 3D"
+            },
+            "Benny3DBackBump": {
+                "Name": "Mapa posterior del Bump",
+                "Hint": "Mapa de la part posterior del beni"
+            },
+            "WealthType": {
+                "Name": "Tipus de riquesa",
+                "Hint": "Trieu com fer un seguiment de la riquesa i la moneda dels PJ"
+            },
+            "CurrencyName": {
+                "Name": "Nom de la moneda",
+                "Hint": "Anomena la teva moneda"
+            },
+            "JokersWild": {
+                "Name": "Jòquer salvatge",
+                "Hint": "Ofereix un beni a cada PJ quan un d'ells rep un jòquer"
+            },
+            "PCAmmoFromInventory": {
+                "Name": "Els PJ utilitzen munició de l'inventari",
+                "Hint": "Quan està activada, l'opció per configurar un objecte \"Equipable\" es pot configurar per utilitzar-lo com a munició i s'utilitzarà quan es recarregui l'arma"
+            },
+            "NPCAmmoFromInventory": {
+                "Name": "Els PNJ utilitzen munició del seu inventari"
+            },
+            "VehicleAmmoFromInventory": {
+                "Name": "Els vehicles utilitzen munició del seu inventari"
+            },
+            "VehicleMods": {
+                "Name": "Modificadors de vehicles",
+                "Hint": "Els vehicles utilitzen modificadors"
+            },
+            "BennyImageSheet": {
+                "Name": "Beni",
+                "Hint": "Selecciona quina imatge vols utilitzar pels benis a la fitxa de PJ"
+            }
+        },
+        "EffectCallbacks": {
+            "Shaken": {
+                "RollSpirit": "Tirada d'esperit",
+                "Flavor": "Tirada d'esperit per treure l'atordit",
+                "Title": "Treure l'atordit d'en {name}",
+                "UnshakeModifier": "Modificador per sortir de l'atordiment",
+                "Question": "Què vols fer?",
+                "Success": "Ja no estàs atordit"
+            },
+            "Stunned": {
+                "Success": "Ja no estàs conmocionat, però segueixes sent Vulnerable",
+                "Title": "Tirada de vigor per deixar d'estar conmocionat",
+                "Fail": "Et quedes conmocionat",
+                "Raise": "Ja no estàs conmocionat ni vulnerable"
+            },
+            "BleedingOut": {
+                "Title": "Tirada de vigor per resistir el sagnat",
+                "Fail": "Morts",
+                "Success": "Aguanta, de moment.",
+                "Raise": "T'has estabilitzat amb èxit"
+            }
+        },
+        "Properties": "Propietats",
+        "DeleteEmbeddedPowerPrompt": "Estàs segur que vols esborrar el poder {power}?",
+        "ItemEquipStatus": {
+            "OffHand": "Mà dolenta",
+            "TwoHands": "a dos mans",
+            "Label": "Localització",
+            "Stored": "Emmagatzemada",
+            "Carried": "Equipada",
+            "Equipped": "Equipada",
+            "MainHand": "Mà principal"
+        },
+        "Mod": {
+            "Value": "Valor",
+            "Ignore": "Ignorar?"
+        },
+        "BenniesSpendGM": "Gasta un beni del DJ",
+        "DocumentLink": "Enllaç",
+        "DocumentTweaks": "Paràmetres",
+        "TargetVulnerable": "L'objectiu és vulnerable",
+        "WildAttack": "Atac salvatge",
+        "ItemType": "Tipus d'objecte",
+        "Source": "Font",
+        "AddAction": "Afegir acció",
+        "DeleteEmbeddedActionPrompt": "Estàs segur que vols esborrar l'acció {action}",
+        "TrademarkWeapon": {
+            "Label": "Arma distintiva",
+            "Regular": "Regular",
+            "Improved": "Millorada"
+        },
+        "OffHandPenalty": "Mà dolenta",
+        "DestroyOnEmpty": "Destrueix quan estigui buit",
+        "Charges": "Càrregues",
+        "Consumable": {
+            "Use": "Ús",
+            "Consumables": "Consumibles"
+        },
+        "Templates": {
+            "Cone": {
+                "Short": "Con"
+            },
+            "Stream": {
+                "Short": "Stream",
+                "Long": "Plantilla de stream"
+            },
+            "Small": {
+                "Short": "PAP"
+            },
+            "Medium": {
+                "Short": "PAM"
+            },
+            "Large": {
+                "Short": "PAG",
+                "Large": "PAC"
+            },
+            "Available": "Plantilles disponibles",
+            "Possible": "Plantilles possibles"
+        },
+        "CompendiumTOC": {
+            "Dialog": {
+                "Title": "Confirma l'interruptor",
+                "Content": "Perquè el canvi tingui efecte, Foundry VTT i tots els clients connectats es tornaran a carregar. Si us plau confirma."
+            },
+            "Toggle": "Interrompre l'ús del Compendi TOC",
+            "Header": "Continguts"
+        },
+        "Category": "Categoria d'objectes",
+        "EmptyRacialAbilitiesHint": "Aquesta {race} o {archetype} encara no té cap habilitat. Arrossegueu i deixeu anar alguna cosa a la fitxa per començar."
+    },
+    "ITEM": {
+        "TypeConsumable": "Consumibles"
+    }
 }
