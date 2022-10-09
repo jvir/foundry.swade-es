@@ -558,5 +558,255 @@
     "SWADE.Advances.Types.SingleSkill": "Aumentar una habilidad",
     "SWADE.Advances.Types.Hindrance": "Eliminar una desventaja",
     "SWADE.ActiveEffects.Add": "Añadir efecto activo",
-    "SWADE.Advances.Toggle": "Cambiar de planificado a activado"
+    "SWADE.Advances.Toggle": "Cambiar de planificado a activado",
+    "SWADE": {
+        "Settings": {
+            "HighlightTemplate": {
+                "Name": "Destacar siempre las plantillas",
+                "Hint": "Cuando se activa, las plantillas de medición siempre se resaltan a sí mismas en lugar de la rejilla."
+            },
+            "FantasyCompanionEntangle": {
+                "Hint": "Utiliza el estado de aferrado de Fantasy Companion en lugar de la versión Core. Requiere una recarga para que surta efecto",
+                "Name": "Fantasy Companion aferrado"
+            },
+            "UseAttributeShorts": {
+                "Hint": "Activa esta opción si quieres ver los nombres de los atributos abreviados en las hojas de PJ y PNJ, es decir, Agi en lugar de Agilidad, Ast en lugar de Astucia, etc. Tendrás que cerrar y volver a abrir todas las hojas abiertas para que esta opción tenga efecto.",
+                "Name": "Utilizar nombres de atributos acortados"
+            },
+            "HideNpcItemChatCards": {
+                "Hint": "Cuando se activan, las tarjetas de chat de objetos de PNJ se envían automáticamente como un susurro a todos los Gamemasters en lugar de ser publicadas para que todos las vean",
+                "Name": "Ocultar tarjetas de chat de objetos de PNJ"
+            },
+            "AutoInit": {
+                "Hint": "Robar automáticamente cartas de acción en cada ronda",
+                "Name": "Iniciativa automática"
+            },
+            "Benny3DFrontBump": {
+                "Hint": "Mapa frontal del bump del beni",
+                "Name": "Mapa frontal del bump"
+            },
+            "CoreSkillsList": {
+                "Hint": "Introduzca una lista separada por comas de las habilidades que se definirán como competencias básicas para todos los actores",
+                "Name": "Lista de habilidades básicas"
+            },
+            "JokersWild": {
+                "Hint": "Da un beni a cada PJ cuando uno de ellos recibe un comodín",
+                "Name": "Comodín salvaje"
+            },
+            "AmmoManagement": {
+                "Hint": "Cuando se activa, y es aplicable, las acciones restan munición del cargador del arma. Las cartas de objetos también ganan un nuevo botón de recarga y no podrás lanzar un ataque si no hay suficiente munición disponible",
+                "Name": "Gestión de la munición"
+            },
+            "EnableConv": {
+                "Hint": "Habilitar la regla de convicción",
+                "Name": "Convicción"
+            },
+            "NoPowerPoints": {
+                "Hint": "Cuando se activa esta opción se ocultan todas las interacciones de Puntos de poder",
+                "Name": "Sin puntos de poder"
+            },
+            "ApplyEncumbrance": {
+                "Hint": "Aplicar penalizaciones por sobrecarga. Por favor, ten en cuenta que esto actualmente NO ESTÁ SOPORTADO para las pruebas de {vigor} para resistir la {fatiga}",
+                "Name": "Aplicar penalizaciones de carga"
+            },
+            "WeightUnit": {
+                "Hint": "Establece si los pesos se miden en libras o en kilogramos. Cambiar esto NO cambiará los pesos de los objetos, sólo cómo se calcula la carga",
+                "Name": "Unidad de peso"
+            },
+            "InitDiscardPile": {
+                "Name": "Pila de descartes de iniciativa"
+            },
+            "InitCardDeck": {
+                "Name": "Mazo de cartas para usar en la iniciativa"
+            },
+            "ParryBase": {
+                "Name": "Nombre de la habilidad de combate localizada",
+                "Hint": "Nombre de la habilidad que se utilizará para calcular la parada de un personaje"
+            },
+            "EnableBennyNotify": {
+                "Name": "Notificaciones de Beni",
+                "Hint": "Muestra mensajes de chat cuando se gastan, se dan o se actualizan los bennies."
+            },
+            "HideWC": {
+                "Name": "Ocultar los Comodines PNJ",
+                "Hint": "No mostrar que PNJ son Comodines a los jugadores"
+            },
+            "CreateInitChat": {
+                "Name": "Crear un mensaje de chat para la iniciativa"
+            },
+            "Benny3DFront": {
+                "Name": "Textura frontal",
+                "Hint": "Textura frontal del Beni en 3D"
+            },
+            "Benny3DBack": {
+                "Name": "Textura trasera",
+                "Hint": "Textura trasera del beni en 3D"
+            },
+            "Benny3DBackBump": {
+                "Name": "Mapa trasero del bump",
+                "Hint": "Bump mapa trasero del beni"
+            },
+            "CoreSkillsPack": {
+                "Name": "Compendio de habiliades básicas",
+                "Hint": "Eligea de que compendio se extraerán las habilidades básicas"
+            },
+            "WealthType": {
+                "Name": "Tipo de riqueza",
+                "Hint": "Elige cómo hacer el seguimiento de la riqueza y la moneda de los PJ"
+            },
+            "CurrencyName": {
+                "Name": "Nombre de la moneda",
+                "Hint": "Renombra tu moneda"
+            },
+            "PCAmmoFromInventory": {
+                "Name": "Los PJ utilizan la munición del inventario",
+                "Hint": "Cuando se activa la opción de establecer un elemento `Equipable` se puede establecer para ser utilizado como munición y se utilizará al recargar el arma"
+            },
+            "NPCAmmoFromInventory": {
+                "Name": "Los PNJ utilizan la munición de su inventario"
+            },
+            "VehicleAmmoFromInventory": {
+                "Name": "Los vehículos utilizan munición de su inventario"
+            },
+            "EnableWoundPace": {
+                "Name": "Ajustar el paso con las heridas",
+                "Hint": "Cuando se activa, el paso se ve afectado automáticamente por las heridas"
+            },
+            "GmBennies": {
+                "Name": "Benis del DJ",
+                "Hint": "Establece cuántos Benis recibe el DJ al reiniciar"
+            },
+            "VehicleMods": {
+                "Name": "Modificadores de vehículos",
+                "Hint": "Los vehículos utilizan modificadores"
+            },
+            "VehicleEdges": {
+                "Name": "Ventajas de vehículos",
+                "Hint": "Los vehículos utilizan ventajas y desventajas"
+            },
+            "BennyImageSheet": {
+                "Name": "Beni",
+                "Hint": "Selecciona que imagen usar para los benis en la hoja del PJ"
+            },
+            "HardChoices": {
+                "Name": "Elecciones difíciles",
+                "Hint": "Si se marca esta opción, se activará la regla de Opciones difíciles"
+            },
+            "CardSound": {
+                "Name": "Sonido de las cartas",
+                "Hint": "Reproducir un breve sonido de cartas cuando se reparte la Iniciativa"
+            }
+        },
+        "EffectCallbacks": {
+            "Shaken": {
+                "Flavor": "Tirada de Espíritu para quitar el aturdido",
+                "RollSpirit": "Tirada de Espíritu",
+                "Title": "Quitar el Aturdido de {name}",
+                "UnshakeModifier": "Modificador para quitar el aturdimiento",
+                "Question": "¿Qué quieres hacer?",
+                "Success": "Ya no estás aturdido"
+            },
+            "Stunned": {
+                "Title": "Tirada de vigor para eliminar el Conmocionado",
+                "Fail": "Permaneces conmocionado",
+                "Success": "Ya no estás Conmocionado pero sigues siendo Vulnerable",
+                "Raise": "Ya no estás Conmocionado ni eres Vulnerable"
+            },
+            "BleedingOut": {
+                "Title": "Tirada de vigor para evitar el desangramiento",
+                "Fail": "Has muerto",
+                "Success": "Aguanta, por ahora.",
+                "Raise": "Se ha estabilizado"
+            }
+        },
+        "DeleteEmbeddedActionPrompt": "¿Estás seguro de que quieres eliminar la acción {action}?",
+        "ItemEquipStatus": {
+            "MainHand": "Mano principal",
+            "Label": "Localización",
+            "Stored": "Almacenada",
+            "Carried": "Equipada",
+            "Equipped": "Equipado",
+            "OffHand": "Mano mala",
+            "TwoHands": "A dos manos"
+        },
+        "DestroyOnEmpty": "Destruir cuando esté vacío",
+        "EmptyRacialAbilitiesHint": "Esta {race} o {archetype} aún no tiene ninguna habilidad. Arrastra y suelta algo en la hoja para empezar.",
+        "Templates": {
+            "Cone": {
+                "Short": "Cono"
+            },
+            "Stream": {
+                "Short": "Chorro",
+                "Long": "Plantilla de chorro"
+            },
+            "Large": {
+                "Short": "PAG",
+                "Large": "PAC"
+            },
+            "Small": {
+                "Short": "PAP"
+            },
+            "Medium": {
+                "Short": "PAM"
+            },
+            "Available": "Plantillas disponibles",
+            "Possible": "Posibles plantillas"
+        },
+        "CompendiumTOC": {
+            "Dialog": {
+                "Title": "Confirmar la alternancia",
+                "Content": "Para que el cambio surta efecto, se recargará Foundry VTT y todos los clientes conectados. Por favor, confirmalo."
+            },
+            "Toggle": "Alternar el uso del Compendio TOC",
+            "Header": "Contenido"
+        },
+        "Advances": {
+            "Modes": {
+                "Legacy": "Heredado"
+            }
+        },
+        "Mod": {
+            "Value": "Valor",
+            "Ignore": "¿Ignorar?"
+        },
+        "CustomWildDie": "- Dado salvaje personalizado -",
+        "BenniesSpendGM": "Gasta un beni del DJ",
+        "DocumentLink": "Enlace",
+        "DocumentTweaks": "Ajustes",
+        "TargetVulnerable": "El objetivo es vulnerable",
+        "WildAttack": "Ataque salvaje",
+        "ItemType": "Tipo de objeto",
+        "Source": "Fuente",
+        "Properties": "Propiedades",
+        "AddAction": "Añadir acción",
+        "DeleteEmbeddedPowerPrompt": "¿Estás seguro de que quieres eliminar el poder {power}?",
+        "TrademarkWeapon": {
+            "Regular": "Regular",
+            "Improved": "Mejorada",
+            "Label": "Arma distintiva"
+        },
+        "OffHandPenalty": "Penalización por mano mala",
+        "Charges": "Cargas",
+        "Consumable": {
+            "Use": "Usar",
+            "Consumables": "Consumibles"
+        },
+        "Category": "Categoría de objeto",
+        "ItemSheet": "Hoja de objetos de Savage Worlds",
+        "ActBeforeCurrentCombatant": "Actuar ahora",
+        "WealthDie": {
+            "Broke": {
+                "Label": "Roto"
+            }
+        },
+        "MAPenalty": {
+            "None": "No"
+        },
+        "ActiveEffects": {
+            "ResetDuration": "Restablecer la duración"
+        }
+    },
+    "ITEM": {
+        "TypeConsumable": "Consumibles"
+    }
 }
