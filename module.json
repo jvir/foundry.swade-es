@@ -7,7 +7,6 @@
   "compatibleCoreVersion" : "10.287",
   "author": "JuanV, Montver, ForjaSalvaje, ParvusDomus, Penta, MKL, javierrivera",
   
-  "esmodules": ["babele-register.js", "swade-es-pdf.js", "swade-es.js"],    
   "scripts": ["pdf.min.js"],
   "styles": [],
   "packs": [],
