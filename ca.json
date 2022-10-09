@@ -326,7 +326,7 @@
 	"ConvictionActive": "Convicció activa",
 	"Reload": "Recarregar",
 	"Expand": "Expandre",
-	NoPowerPointsDesc": "Quan l'opció està activada, s'amagen totes les interaccions amb Punts de Poder",
+	"NoPowerPointsDesc": "Quan l'opció està activada, s'amagen totes les interaccions amb Punts de Poder",
 	"WealthType": "Tipus de riquesa",
 	"WealthTypeDesc": "Escull com gestionar els diners i la riquesa dels personatges",
 	"Subtract": "Resta",
