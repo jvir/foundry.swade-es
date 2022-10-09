@@ -13,6 +13,7 @@ Idiomas Galego, Español, Catalán e Vasco para o sistema Savage Worlds en Found
 Foundry VTTko Savage Worlds sistemarentzat euskara, gaztelera, katalan, eta galego hizkuntzak.
 
 **Installation / Instalación**
+
 You can install it using the Install Module button inside Foundry and searching for it.
 
 Inside Foundry, go to the Add-on Modules tab in the Configuration and Setup menu. Then click the Install Module button and enter the following URL:
