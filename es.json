@@ -694,7 +694,7 @@
             },
             "CardSound": {
                 "Name": "Sonido de las cartas",
-                "Hint": "Reproducir un breve sonido de cartas cuando se reparte la Iniciativa"
+                "Hint": "Reproducir un sonido de cartas cuando se reparte la Iniciativa"
             }
         },
         "EffectCallbacks": {
@@ -757,7 +757,7 @@
                 "Title": "Confirmar la alternancia",
                 "Content": "Para que el cambio surta efecto, se recargará Foundry VTT y todos los clientes conectados. Por favor, confirmalo."
             },
-            "Toggle": "Alternar el uso del Compendio TOC",
+            "Toggle": "interrumpir el uso del Compendio TOC",
             "Header": "Contenido"
         },
         "Advances": {
