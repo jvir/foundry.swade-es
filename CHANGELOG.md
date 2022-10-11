@@ -1,5 +1,7 @@
+## [v2.1]
+Adaptada a v10. Arreglar bugs català, galego y euskera.
 ## [v2.0]
-Adaptada a v10 . Arreglar cadenas de texto traducidas de la nueva SWADE System Update v2.0.5 español y para català.
+Adaptada a v10. Arreglar cadenas de texto traducidas de la nueva SWADE System Update v2.0.5 español y para català.
 ## [v1.0.6]
 arreglar cadenas de texto traducidas de la nueva SWADE System Update v1.2 para català, galego y euskera. 
 ## [v1.0.5]
