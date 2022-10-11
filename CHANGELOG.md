@@ -1,5 +1,5 @@
 ## [v2.1]
-Adaptada a v10. Arreglar bugs català, galego y euskera.
+Adaptada a v10.288 .  Arreglar bugs català, galego y euskera.
 ## [v2.0]
 Adaptada a v10. Arreglar cadenas de texto traducidas de la nueva SWADE System Update v2.0.5 español y para català.
 ## [v1.0.6]
