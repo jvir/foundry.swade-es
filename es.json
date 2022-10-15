@@ -2,17 +2,6 @@
     "ACTOR.TypeCharacter": "Personaje Jugador",
     "ACTOR.TypeNpc": "PNJ",
     "ACTOR.TypeVehicle": "Vehículo",
-    "ITEM.TypeWeapon": "Arma",
-    "ITEM.TypeArmor": "Armadura",
-    "ITEM.TypeShield": "Escudo",
-    "ITEM.TypeGear": "Equipo",
-    "ITEM.TypeEdge": "Ventaja",
-    "ITEM.TypeHindrance": "Desventaja",
-    "ITEM.TypeSkill": "Habilidad",
-    "ITEM.TypePower": "Poder",
-    "ITEM.TypeAbility": "Capacidad",
-    "CARD.TypeAdventure": "Carta de aventura",
-    "CARD.TypePoker": "Carta de poker",
     "SWADE": {
         "RunningDie": "Dado de correr",
         "BenniesGMAddMessage": "¡añadió un Beni!",
@@ -753,6 +742,17 @@
         }
     },
     "ITEM": {
-        "TypeConsumable": "Consumibles"
+        "TypeConsumable": "Consumibles",
+        "TypeWeapon": "Arma",
+        "TypeArmor": "Armadura",
+        "TypeShield": "Escudo",
+        "TypeGear": "Equipo",
+        "TypeEdge": "Ventaja",
+        "TypeHindrance": "Desventaja",
+        "TypeSkill": "Habilidad",
+        "TypePower": "Poder",
+        "TypeAbility": "Capacidad",
+    "CARD.TypeAdventure": "Carta de aventura",
+    "CARD.TypePoker": "Carta de poker"
     }
 }
