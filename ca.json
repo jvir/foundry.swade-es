@@ -2,17 +2,6 @@
 	"ACTOR.TypeCharacter": "Personatge (PJ)",
 	"ACTOR.TypeNpc": "Personatge no jugador (PNJ)",
 	"ACTOR.TypeVehicle": "Vehicle",
-	"ITEM.TypeWeapon": "Arma",
-	"ITEM.TypeArmor": "Armadura",
-	"ITEM.TypeShield": "Escut",
-	"ITEM.TypeGear": "Equip",
-	"ITEM.TypeEdge": "Avantatge",
-	"ITEM.TypeHindrance": "Desavantatge",
-	"ITEM.TypeSkill": "Habilitat",
-	"ITEM.TypePower": "Poder",
-	"ITEM.TypeAbility": "Capacitat",
-	"CARD.TypeAdventure": "Carta d'aventura",
-	"CARD.TypePoker": "Carta de pòquer",
 	"SWADE": {
 		"CommunityCharSheet": "Fitxa de PJ comunitària",
 		"Unskilled": "Sense entrenament",
@@ -753,6 +742,17 @@
 		"Total": "Cobertura gairebé total"
 	},
 	"ITEM": {
-		"TypeConsumable": "Consumibles"
+		"TypeConsumable": "Consumibles",
+		"TypeWeapon": "Arma",
+		"TypeArmor": "Armadura",
+		"TypeShield": "Escut",
+		"TypeGear": "Equip",
+		"TypeEdge": "Avantatge",
+		"TypeHindrance": "Desavantatge",
+		"TypeSkill": "Habilitat",
+		"TypePower": "Poder",
+		"TypeAbility": "Capacitat",
+		"CARD.TypeAdventure": "Carta d'aventura",
+		"CARD.TypePoker": "Carta de pòquer"
 	}
 }
