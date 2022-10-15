@@ -1,3 +1,5 @@
+## [v2.2]
+Bug en items
 ## [v2.1]
 Adaptada a v10.288 .  Arreglar bugs català, galego y euskera.
 ## [v2.0]
