@@ -296,7 +296,7 @@
         "ActionDeckPresetLight": "Mazo de acción (claro)",
         "Range.Extreme": "Distancia extrema",
         "CannotAddRaceToRace": "¡No puedes agregar una raza/arquetipo a una raza/arquetipo!",
-        "ApplyEncumbranceHint": "Aplicar penalizaciones por estorbo. ¡Tenga en cuenta que esto actualmente NO AFECTA las pruebas de {vigor} para resistir la {fatiga}!",
+        "ApplyEncumbranceHint": "Aplicar penalizaciones por estorbo. ¡Tenga en cuenta que esto actualmente NO AFECTA las pruebas de {vigor} para resistir la {fatigue}!",
         "NoSceneAvailable": "No hay ninguna escena disponible o has desactivado el lienzo",
         "Expiration.TabLabel": "Comportamiento en turnos",
         "PPAbbreviation": "PP",
