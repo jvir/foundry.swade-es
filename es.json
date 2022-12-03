@@ -273,7 +273,6 @@
         "Illumination.Dark": "Oscuridad",
         "Illumination.Dim": "Penumbra",
         "Illumination.Pitch": "Oscuridad completa",
-
         "Range.Medium": "Distancia media",
         "Range.Long": "Distancia larga",
         "ModOther": "Otros modificadores",
@@ -340,7 +339,7 @@
         "Advances.Types.Hindrance": "Eliminar una desventaja",
         "ActiveEffects.Add": "Añadir efecto activo",
         "Advances.Toggle": "Cambiar de planificado a activado",
-            "ShowBennyAnimation": "Mostrar animación de Beni",
+        "ShowBennyAnimation": "Mostrar animación de Beni",
         "Protection": "Protección",
         "ConvictionActive": "Convicción activa",
         "CurrentBennies": "Benis actuales",
@@ -651,7 +650,7 @@
             "MainHand": "Mano principal",
             "Label": "Localización",
             "Stored": "Almacenada",
-            "Carried": "Equipada",
+            "Carried": "Portada",
             "Equipped": "Equipado",
             "OffHand": "Mano mala",
             "TwoHands": "A dos manos"
