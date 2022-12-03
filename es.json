@@ -573,8 +573,8 @@
                 "Hint": "Bump mapa trasero del beni"
             },
             "CoreSkillsPack": {
-                "Name": "Compendio de habiliades básicas",
-                "Hint": "Eligea de que compendio se extraerán las habilidades básicas"
+                "Name": "Compendio de habilidades básicas",
+                "Hint": "Elige de que compendio se extraerán las habilidades básicas"
             },
             "WealthType": {
                 "Name": "Tipo de riqueza",
