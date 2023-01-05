@@ -1,5 +1,5 @@
-## [v2.3]
-Error en traducciones
+## [v2.4]
+Error en cobertura
 ## [v2.2]
 Bug en items
 ## [v2.1]
