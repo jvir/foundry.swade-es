@@ -734,7 +734,7 @@
 		"EmptyRacialAbilitiesHint": "Aquesta {race} o {archetype} encara no té cap habilitat. Arrossegueu i deixeu anar alguna cosa a la fitxa per començar."
 	},
 	"Cover": {
-		"_name": "\"Cobertura\"",
+		"_name": "Cobertura",
 		"Shield": "Cobertura - Escut",
 		"Light": "Cobertura lleugera",
 		"Medium": "Cobertura mitja",
