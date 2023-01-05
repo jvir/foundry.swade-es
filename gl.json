@@ -716,7 +716,7 @@
             "ResetDuration": "Restablecer la duración"
         },
         "Cover": {
-            "_name": "\"Cobertura\"",
+            "_name": "Cobertura",
             "Shield": "Cobertura - Escudo",
             "Light": "Cobertura ligera",
             "Medium": "Cobertura media",
