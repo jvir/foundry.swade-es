@@ -1,4 +1,6 @@
 ## [v2.4]
+Adaptado a swade 2.2.5
+## [v2.4]
 Error en cobertura
 ## [v2.2]
 Bug en items
