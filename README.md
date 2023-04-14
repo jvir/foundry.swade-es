@@ -1,6 +1,6 @@
 # swade-es
 
-**Update to Foundry v10.291 y SWADE v2.1.6**
+**Update to Foundry v10.291 y SWADE v2.2.5**
 
 Spanish, Catalonian, Galician and Basque languages for the Savage Worlds Adventure Edition system on Foundry VTT.
 
