@@ -1,4 +1,4 @@
-## [v2.4]
+## [v2.5]
 Adaptado a swade 2.2.5
 ## [v2.4]
 Error en cobertura
