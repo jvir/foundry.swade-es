@@ -452,7 +452,7 @@
             "Source": "Fuente",
             "ResetDuration": "Restablecer la duración",
             "AddGuided": "Abrir asistente",
-            "AddUnguided": "Añadir efecto vacío"
+            "AddUnguided": "Añadir efecto"
         },
         "Keybindings": {
             "OpenFavoriteCards": {
@@ -635,7 +635,7 @@
                 "Fail": "Permaneces conmocionado",
                 "Success": "Ya no estás Conmocionado pero sigues siendo Vulnerable",
                 "Raise": "Ya no estás Conmocionado ni eres Vulnerable",
-                "UnStunModifier": "Modificador de aturdimiento"
+                "UnStunModifier": "Modificador de conmocionado"
             },
             "BleedingOut": {
                 "Title": "Tirada de vigor para evitar el desangramiento",
@@ -715,8 +715,8 @@
         "Category": "Categoría de objeto",
         "ItemIsAmmo": "Es munición",
         "Vision": {
-            "SeeHeat": "Ver el calor",
-            "SenseHeat": "Sentir el calor",
+            "SeeHeat": "Visión térmica",
+            "SenseHeat": "Sentido térmico",
             "Infravision": "Infrarrojos"
         },
         "Attribute": "Atributo",
@@ -758,7 +758,7 @@
             "Hint": "Mostrar un mensaje de chat cuando se utiliza este elemento"
         },
         "ItemGrants": {
-            "EmptyHint": "Este item actualmente no contiene ningún",
+            "EmptyHint": "Este item actualmente no contiene ningún item",
             "Header": "Ayudas de items",
             "When": "Grant Items When"
         },
