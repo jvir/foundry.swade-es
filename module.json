@@ -2,7 +2,7 @@
   "id": "swade-es",
   "title": "SWADE ES, CA, GL, EU translation",
   "description": "Adds Spanish, Catalonian, Galician and Basque language to the SWADE system",
-  "version": "v2.4",
+  "version": "v2.5",
   "compatibility": {
     "minimun": "10",
     "verified": "10.291"
